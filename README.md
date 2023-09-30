@@ -8,6 +8,8 @@ S. se files is in [src/samuel](src%2Fsamuel). Die data wat uit die database uit 
 
 Die file [COMPARISON.txt](COMPARISON.txt) word gebruik om GIT se comparison feature te gebruik. Die eerste commit vir die file is L. se data. Die tweede commit sal S. se data wees. Die git diff sal dan die verskille wys.
 
+Die file [COMPARISON.txt](COMPARISON.txt)[COMPARISON_letters_only.txt](COMPARISON_letters_only.txt) word ook gebruik om GIT se comparison feature te gebruik. Die verskil is dat by hierdie file, al die hoofletters en leestekens geneutraliseer is, sodat dit net die regte verskille (woord betekenisse) sal wys. Die eerste commit vir die file is L. se data. Die tweede commit sal S. se data wees. Die git diff sal dan die verskille wys.
+
 ## Scripts
 
 [bun](https://bun.sh/) en Typescript word gebruik vir die scripts. `bun install` om die project op te stel en dan `bun run <file>` om die script te run. 
