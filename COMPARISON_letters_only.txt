@@ -2,7 +2,7 @@ psalm 1
 1	welsalig hy wat op die spoor nie gaan
 waar sondaars lok. wat op hul pad nie staan.
 of neersit waar die spotglans in die oog is.
-waar spotters vrolik spot met al wat hoog is.
+waar spotters vrolik spot met al wat hoog is. -
 maar wat gods wet in stille mymering.
 by dag en nag. weer in gedagt’nis bring.
 2	hy is ’n boom wat diep en vas geplant.
@@ -13,7 +13,7 @@ geen onspoed wat hom in sy werk sal stuit.
 wat hy begin. voer hy voorspoedig uit.
 3	so is die sondaar nie. sy aardse tyd
 is wisselspel en onbestendigheid.
-hy ’s soos die kaf aan stormwind prysgegewe.
+hy’s soos die kaf aan stormwind prysgegewe.
 in nietigheid. so eindig hy sy lewe.
 hy hou nie stand waar god se volk hom eer.
 of waar die straf tot weervergelding keer.
@@ -120,7 +120,7 @@ as eensaamheid omsweef jul sponde.
 verwag die heer en wees net stil.
 3	wil jul aan hom ’n offer gewe.
 die offer wat die heer aanskou.
-is in opregtheid reg te lewe.
+is. in opregtheid reg te lewe.
 en hom alleenlik aan te klewe.
 op hom alleen jul hoop te bou.
 hoe baie vra terneergeboë.
@@ -144,7 +144,7 @@ kan ek die klare woord nie spreek -
 u weet wat in my woel en smeek.
 my sugte. as spraak nog ongebore.
 is nie verlore.
-2	ek roep om hulp. ek is onmagtig.
+2	ek roep om hulp. ek is onmagtig
 die vleuels van my siel geknot.
 maar u. my koning en my god.
 wees u my. arme. tog gedagtig.
@@ -164,7 +164,7 @@ hy wat sy hand met bloed bevlek
 en gruwels met bedrog bedek -
 hy terg. as snode wetverbreker.
 die hoogste wreker.
-6	maar ek. uit krag van u meedoë
+6	maar ek. uit krag van u meedoë.
 mag ingaan in u heiligdom.
 tot voor u tempelwoning kom
 met ware godsvrees. voor u oë
@@ -175,7 +175,7 @@ die pad waarop my voet moet gaan.
 o hoor my pelgrimsmôrebede.
 bewaak my skrede.
 8	hul mond is altyd onwaaragtig.
-hul binneste is op kwaad bedag.
+hul binnenste is op kwaad bedag.
 hul keel ’n ope graf wat wag.
 hul gladde tong. in woorde magtig.
 is leuenagtig.
@@ -189,7 +189,7 @@ wie by u skuil in veil’ge hut.
 en laat hul juig. deur u beskut.
 u naam. grootmagtig en verhewe.
 bied vreugdelewe.
-11	daar ’s vreugde. want u mag bekroon hul.
+11	daar’s vreugde. want u mag bekroon hul.
 u seen is oor hul ryk en mild.
 u sorg is om hul soos ’n skild.
 u welbehae. heer. beloon hul.
@@ -216,7 +216,7 @@ voor daar verligting kom.
 4	keer weer tot my bevryding.
 verlos my uit my lyding.
 straal goedheid op my af.
-want daar ’s geen lofgedagte
+want daar’s geen lofgedagte
 vir u in dood se nagte.
 geen lofstem in die graf.
 5	hoe moeg is al my lede.
@@ -248,7 +248,7 @@ psalm 7
 redding soek - my teenparty
 wat my jaag op al my spore.
 dring gedurig naderby.
-as u hand my nie verlos nie.
+as u hand my nie verlos nie
 sal hul lewend my verslind.
 soos ’n leeu die arme skaaplam
 wat hy sonder herder vind.
@@ -298,12 +298,12 @@ dan ruk god. hoewel lankmoedig.
 eindelik sy slagswaard uit.
 dan span hy sy boog en mik hy
 met sy pyle. skerp en spits.
-en die vyand voor hy neerplof.
+en die vyand. voor hy neerplof.
 sien die dodelike blits.
 8	want hy was van onreg swanger.
 moeite en leu’ns het hy versin.
 en nou stort hy self. die grawer.
-in sy eie vangkuil in.
+in sy eie vangkuil in. -
 sal ek dan die heer nie loof nie
 en sy naam nie hulde bring.
 vir sy groot verlossingsdade
@@ -333,7 +333,7 @@ dit hoor sy stem en beef voor sy bevel.
 die voëls wat deur hoë lugte swewe.
 al wat deurkruis die paaie van die see -
 tesaam het u dit in sy mag gegee.
-7	ja. daar ’s geen land so ver of woes geleë.
+7	ja. daar’s geen land so ver of woes geleë.
 geen strand. o heer. of wilde waterweë.
 geen hemelsfeer in die oneindigheid -
 of orals blink u naam en majesteit.
@@ -376,7 +376,7 @@ u. wat my aan die dood ontruk het.
 kyk. hoe my haters my verdruk het.
 10	dan vind my tong weer nuwe stof.
 in sions poort meld ek u lof.
-dan sing ek bly van u genade.
+dan sing ek bly van u genade
 so groot in nuwe reddingsdade.
 11	die heid’ne. deur hul waan mislei.
 stort in die kuil vir my berei.
@@ -434,7 +434,7 @@ vergeld die kwaad totdat daar niks meer is.
 9	die heer is koning. ewig en altyd.
 geen heidendom of ’t moet voor hom vergaan.
 maar die geroep hoor hy goedgunstig aan
-van wie ootmoedig op sy bondstrou pleit
+van wie ootmoedig op sy bondstrou pleit.
 10	god sal hul hoor en sal die hart verkwik
 van arme en wees aan wie hy reg verskaf.
 maar op verdrukkers daal sy strenge straf.
@@ -443,7 +443,7 @@ psalm 11
 1	ek skuil by god in al my onweersdae.
 hoe sê jul dan in kleingeloof vir my.
 “vlug soos ’n duif met snelle vleuelslae
-na die gebergt’ van vrees en vyand vry.”
+na die gebergt’. van vrees en vyand vry.”
 2	“hul span die boog. die pyle is op die snare.
 om die opregte heimlik om te bring.
 wat kan hy doen as die geweldenare
@@ -497,7 +497,7 @@ geen antwoord hoor op my gebede.
 en ongetroos wees in die nood.
 2	hoe lank. o heer. sal sorg en smart
 hul laer opslaan om my hart.
-hoe lank sal die vyand met behae
+hoe lank die vyand met behae
 my aansien in my angs en plae -
 my siel mistroostig en benard.
 3	o heer. my god. sien my tog aan.
@@ -510,7 +510,7 @@ vervolg en met hul swaard bestry -
 laat hul nie roem op meerd’re kragte.
 of smalend sê in hul gedagte.
 “ons het oorwin. daar struikel hy.”
-5	o heer. ek sal u nooit laat gaan
+5	o heer. ek sal u nooit laat gaan.
 my hoop bly op u goedheid staan
 my hart sal oor u redding bly wees.
 my lofgesang u toegewy wees.
@@ -518,7 +518,7 @@ want u het aan my welgedaan.
 psalm 14
 1	vermeetle dwaas wat hoogwys spot.
 sê in sy hart. “daar is geen god.”
-hul dade is afskuw’lik sleg.
+hul dade is afskuw’lik. sleg.
 geeneen wat goed doen in sy weg.
 2	god het die mens se werk betrag
 uit hemelhoë en helder dag.
@@ -537,7 +537,7 @@ god slaan hul deur sy oordeel stom.
 maar oor sy volk. tot spot gemaak.
 het hy regverdig opgewaak.
 6	hy is ’n rots om in te vlug
-vir wie. ellendig. tot hom sug.
+vir wie. ellendig. tot hom sug. -
 mag maar die bede nooit verstom.
 “laat isr’els heil uit sion kom.”
 7	as isr’els god in hul ellend
@@ -553,7 +553,7 @@ en intrek in u heil’ge woning.
 2	dié wat. opreg in sy gemoed.
 na gods verhewe eis wil handel.
 hom vir bedrog en leuen hoed.
-en is dit voor- of teëspoed.
+en. is dit voor- of teëspoed.
 die waarheid spreek in hart en wandel.
 3	dié wat nie steun op agterklap.
 geen kwaad doen aan sy metgesel nie.
@@ -579,7 +579,7 @@ en wie op aarde u ken en vrees. o here.
 húl noem ek groot. hul is my roem en ere.
 2	wie hier ’n ander god met gawes eer.
 dié sal homself met baie smarte pynig.
-ek sal sy offers uitgiet ṇg begeer.
+ek sal sy offers uitgiet nòg begeer.
 sy afgodsnaam sal nie my mond ontreinig.
 my erfdeel is die heer. my vreugdebeker.
 my lot is in sy hand vir ewig seker.
@@ -599,7 +599,7 @@ nog veilig woon. omdat die heer naby is.
 my pad buig op langs skone heuwelrye.
 u sal nie toelaat dat u gunsgenoot
 verderwing sien in donker doodsvalleie.
-by u is ewig vreugde en volle vrede.
+by u is ewig vreug en volle vrede.
 en in u hand ’n snoer van lieflikhede.
 psalm 17
 1	o heer. verleen my tog gehoor.
@@ -645,7 +645,7 @@ is sluwer as die sluwe manne.
 6	staan op. o heer. en wil hul stuit.
 verlos my van die goddelose.
 u hand. u swaard. laat dit die bose
-terneer werp. manne wie se buit
+terneerwerp. manne wie se buit
 as toornskat nie met hul sal sterwe.
 maar wat dit as ’n sondesaad
 weer aan hul kinders agterlaat.
@@ -693,7 +693,7 @@ en donkerheid van watervloed.
 ’n onweersnag was om sy voet.
 ’n gérub was sy oorlogswa.
 hy het gevlieg en aangesweef
- - terwyl dit om hom skud en beef -
+- terwyl dit om hom skud en beef -
 op vleuels van die wind gedra.
 6	in duisternis het hy genaak.
 in donker nag wat hom bewaak.
@@ -722,7 +722,7 @@ as hy ’n storm van gramskap blaas.
 9	sy hand het hy van bo gestrek.
 gegryp. uit dieptes my getrek.
 my vyande. te sterk vir my.
-gebreidel in hul raserny.
+gebreidel in hul raserny. -
 hul ’t aangestorm. ’n dag van nood.
 maar god. my helper. was naby.
 in ruimtes is ek uitgelei.
@@ -770,7 +770,7 @@ op wie ons altyd weer kan bou.
 15	god het met krag my aangegord.
 deur hom ’t my weg gelyk geword.
 hy laat my voete op dié baan
-so maklik soos die herte gaan.
+so maklik soos die herte gaan
 en lei my na die hoogtes dan
 van seëpraal en heerskappy.
 my hande leer hy om te stry.
@@ -794,8 +794,8 @@ dat hul verslaan is. gans en al.
 18	hul het geroep. geen hulp gekry.
 ook tot die heer - hy ’t stilgebly.
 toe het ek hul vergruis. verjaag.
-soos straatslyk hulle weggevaag.
-god red my as my dienaars twis.
+soos straatslyk hulle weggevaag. -
+god red my as my dienaars twis
 en maak dat uit die heidendom
 die nasies na my voetbank kom
 en aan my onderdanig is.
@@ -832,7 +832,7 @@ deur al sy donker wake.
 en wonderbaar dié toon
 wat deur die skepping gaan.
 geen volk so onbegaaf. /
-geen oor so onbeskaaf.
+geen oor so onbeskaaf
 wat nie dié taal verstaan.
 die prag van hemellyn /
 wat deur die wydtes skyn.
@@ -876,7 +876,7 @@ geen glans wat so kan straal nie.
 geen heuning is so goed. /
 geen heuningdrup so soet -
 daar ’s niks wat daarby haal nie.
-6	hoe word. deur u vermaan. /
+6	hoe word. deur u vermaan /
 my weg ’n helder baan.
 en my verwagting skoon.
 hy wat u wet bemin. /
@@ -907,7 +907,7 @@ en mag die naam van jakobs god
 u dek in oorlogstyd.
 2	mag hy sy heil en bystand stuur
 uit hoë heiligdom.
-en u uit sion ondersteun.
+en u uit sion ondersteun
 van waar u hulp sal kom.
 3	mag hy aan al u offers dink
 van fynste spys. en nou
@@ -942,8 +942,8 @@ psalm 21
 omdat u arm so sterk is.
 sy heil deur u bewerk is.
 sy wens het hy van u verkry.
-u het wat hy begeer.
-geweier ṇg geweer.
+u het wat hy begeer
+geweier nòg geweer.
 2	u kom hom vriend’lik tegemoet
 met stroom van goeie dinge
 en gulde seëninge.
@@ -993,7 +993,7 @@ van almal wat u roem en eer.
 ons buig ons voor u mag
 en prys u heldekrag.
 psalm 22
-1	my god. my god. waarom verlaat u my.
+1	my god. my god. waarom verlaat u my
 terwyl ’k alleen my sware stryd moet stry.
 alleen moet kerm wanneer ’k my lyde ly.
 op al my vrae
@@ -1011,7 +1011,7 @@ het hul ontvlug. gehandhaaf en behoue
 op hul gebed.
 3	maar ek. ek is ’n wurm - ’n man nie meer.
 ’n smaad van wie deur spotsug my onteer.
-“laat dit maar oor.” so roep hul. “aan sư heer.”
+“laat dit maar oor.” so roep hul. “aan sý heer.”
 my heilsverwagting
 krenk hul met hoofgeskud en diep veragting
 van lipgebaar. “wat klaag hy so verslae.
@@ -1037,9 +1037,9 @@ al naderby.
 daar is geen been wat aan sy been meer heg.
 my hart. al klein. smelt uit my binnest’ weg.
 my krag versterwe
-soos glans en kleur verdwyn uit erdeskerwe
+soos glans en kleur verdwyn uit erdeskerwe.
 al droog en dof. my tong verstom en klewe
-was aan my mond. u lê my. uitgelewe.
+vas aan my mond. u lê my. uitgelewe.
 dood in die stof.
 7	om my staan honde wat my wil bespring.
 ’n bende skenders staan om my ’n kring.
@@ -1053,9 +1053,9 @@ met my verdriet.
 u is my krag. kom tot my hulp naby.
 en maak my siel. my enigste. weer vry
 van kloue en tande.
-van oorlogswaard en greep van moord’naarshande
+van oorlogswaard en greep van moord’naarshande.
 tog is dit goed met my. in die beklemming
-van buffelshorings ruis die reddingstemming
+van buffelhorings ruis die reddingstemming
 deur my gemoed.
 9	ek wil. o heer. u naam my loflied wy.
 in broederkring verkondig en bely
@@ -1100,7 +1100,7 @@ in vaste spoor van sy geregtighede.
 wat in die velde as ’n prooi van wolwe gaan.
 en moet ek in die doodsdal. diep en donker.
 van alle hulp ontbloot. in my alleenheid staan -
-dan nog ken ek geen doodsvrees of verskrikking
+dan nog ken ek geen doodsvrees of verskrikking.
 omdat u staf my troos is en verkwikking.
 3	u bring vir my die tafel in gereedheid.
 my hoof druip olie en my beker vloei van wyn.
@@ -1141,7 +1141,7 @@ die man wat rein van hart en weg.
 sy siel aan nietigheid nie heg.
 en trou is aan sy woord en ede.
 3	geregtigheid daal op hom neer.
-’n seen verkry hy van die heer.
+’n seën verkry hy van die heer.
 wat stil hom volg op al sy skrede.
 dit is die ware israel.
 die volk wat vra na gods bestel.
@@ -1150,16 +1150,16 @@ en wat hom soek in hul gebede.
 rys. eewge deure. rys omhoog.
 want hy klop aan. die erekoning.
 wie is die vors. vol majesteit.
-die heer. geweldig in die stryd -
+die heer geweldig in die stryd -
 dis hy wat optrek na sy woning.
 5	rys op. o poorte en deure. rys.
 wie is die vors wat dit kom eis.
 hy. wat oordek met roem en ere.
 sy tien en tien maal duisend tel
 as hy sy leërorde stel -
-hư is die vors. die heer der here.
+hý is die vors. die heer der here.
 psalm 25
-1 	tot u hef ek hart en hande.
+1	tot u hef ek hart en hande.
 op u. heer. verlaat ek my.
 laat die vyand oor my skande.
 oor my val. hom nooit verbly.
@@ -1255,7 +1255,7 @@ want dis u waarheid wat my lei.
 3	ek sit nie by die man
 wat listig smee sy plan
 en heim’lik voer sy raadslag uit.
-met dié wat in hul lewe
+met die wat in hul lewe
 u woord en wet weerstrewe.
 sal ’k geen verbond of vriendskap sluit.
 4	ek was. aan u verpand.
@@ -1323,7 +1323,7 @@ wil my dan langs die regte paaie voer.
 omdat verspieders op my gange loer.
 verlos my van ’n wrede teenparty.
 en wil my van die valse tong bevry.
-6	as ek op aard. deur soveel smart omgewe.
+6	as ek op aard’. deur soveel smart omgewe.
 omring deur droefenis en dood en rou.
 nie meer sou glo dat ek in hierdie lewe
 die goeie van gods hand nog sal aanskou -
@@ -1335,12 +1335,12 @@ psalm 28
 1	ek roep u aan. o here. hoor.
 verleen my bystand. neig u oor.
 dat ek nie word. daar ’k u moet mis.
-soos dié wat in die grafkuil is.
+soos die wat in die grafkuil is.
 2	o hoor as ek. my stem al week.
 om hulp u aanroep in gesmeek.
 my hande hef na heil’ge plek
 waar donkerheid u bondskis dek.
-3	ruk my nie weg in jammmerstaat
+3	ruk my nie weg in jammerstaat
 met al die werkers van die kwaad.
 wat wel hul woorde glad vernis.
 maar in hul hart is haat en twis.
@@ -1451,7 +1451,7 @@ van sangers op hul feesgetye.
 8	in plaas van rou en harteleed
 het u met blydskap my omkleed.
 my sak het u ontbind. my weer
-met vreugde omgord. sodat my eer
+met vreug omgord. sodat my eer
 nie swyg. u bring ek al die ere.
 u sal ek ewig loof. o here.
 psalm 31
@@ -1480,11 +1480,11 @@ ek haat hul wat met offerbrande
 hul neerbuig voor die gode.
 ek steun op god in node.
 5	in u. my god. wil ek weer bly wees.
-die guns wat u my bied.
+die guns wat u my bied
 wil ’k lofsing in my lied.
 u was dit wat my wou naby wees.
 wat my in guns aanskou het
-toe ek op u gebou het
+toe ek op u gebou het.
 6	u het my nimmer oorgegewe
 aan vyande wat wreed
 getrag het na my leed.
@@ -1574,7 +1574,7 @@ psalm 32
 die woord mag hoor. jou sondes is vergewe.
 want god wat groot is in barmhartigheid.
 het hom vergewe en skeld die skuld hom kwyt.
-welsalig wie die heer geen enkel stonde
+welsalig. wie die heer geen enkel stonde
 toereken wil die boosheid van die sonde
 en wie se gees. van alle valsheid vry.
 voor god ootmoedig al die skuld bely.
@@ -1586,7 +1586,7 @@ u hand het swaar gedruk op al my lede.
 bedags geen rus. en snags geen stem van vrede.
 my krag het weggedroog van uur tot uur
 soos velde deur die somersonnevuur.
-3	ek het bely. o heer - in sielerou nie
+3	ek het bely. o heer. - in sielerou nie
 my hart gegrendel of my mond weerhou nie.
 ek het bely wat my van u vervreem.
 u het my skuld genadig weggeneem.
@@ -1619,7 +1619,7 @@ psalm 33
 regverdiges. verhef die heer.
 dit pas opregtes god te lowe
 en uit te jubel tot sy eer.
-laat die psalmgesange / - stem van sterk verlange
+laat die psalmgesange - / stem van sterk verlange
 om die heer te dank -
 by die smeltend-skone / harp- en sitertone.
 liefde en lof verklank.
@@ -1638,7 +1638,7 @@ sien ons sy goedheid uitgesprei.
 in sy alvermoë / het hy hemelboë
 deur sy woord gestig.
 deur sy gees ’n ganse / leërskaar van glanse
-skitt’rend aan laat lig
+skitt’rend aan laat lig.
 4	hy laat die wilde wêreldseë
 geweldig aanswel tot ’n hoop.
 in voorraadskuur. omlaag geleë.
@@ -1662,7 +1662,7 @@ bestendig duur dit vir altyd.
 salig wie tevore / deur hom is verkore
 as sy erf en lot.
 wie so hoog geëer is. / dat dié heer húl heer is
-en dié god húl god/
+en dié god húl god.
 7	die heer wat bo die wentelkringe
 van son en maan sy rykstroon stig.
 aanskou die mense en alle dinge -
@@ -1747,7 +1747,7 @@ ontbreek dit aan geen goed.
 6	kom. kinders. hoor na my.
 die heer se vrees wil ek jul leer.
 wie is ’t wat lewensduur begeer
-en dae wat hom verbly.
+en da e wat hom verbly.
 laat tong en lippe vra
 na waarheid. en ontwyk die kwaad.
 soek wat god wil. die regte daad.
@@ -1798,7 +1798,7 @@ en maak dit voor hul voete glad.
 laat onheil gou die bose manne
 beskaamd maak met hul onheilsplanne.
 laat hulle struikel in hul gang.
-die net vir mư gespan. húl vang.
+die net vir mý gespan. húl vang.
 en laat. terwyl ék dan bly staan.
 húl daarin val en ondergaan.
 4	my siel sal in die here juig
@@ -1868,10 +1868,10 @@ hom nooit kan groot hou teenoor my.
 12	laat hulle juig en blydskap smaak
 wat bly is oor my goeie saak.
 laat hul. by elke vreugdedaling.
-weer aanstem met ’n vreugherhaling.
+weer aanstem met ’n vreugdherhaling.
 “die heer is groot en goed daarby.
 wat vrede vir sy kneg berei.”
-dan meld my tong met stil ontsag
+dan meld my tong. met stil ontsag.
 u reg. u lof die ganse dag.
 psalm 36
 1	die boosheid van die bose man -
@@ -1888,7 +1888,7 @@ en kom dan op die sondaarsweg
 om in sy kwaad te wandel.
 2	u goedheid. heer. is hemelhoog.
 u waarheid tot die wolkeboog.
-u reg sal nooit begewe.
+u reg sal nooit begewe
 maar staan soos berge. vas van voet.
 u oordeel is ’n diepe vloed.
 u sorg vir al wat lewe.
@@ -1905,7 +1905,7 @@ heer. laat u reg en goedheid wees
 oor wie opreg u ken en vrees
 en steun op u vermoë.
 laat trotse voet my nooit vertrap.
-ṇg bose hand in ballingskap
+nòg bose hand in ballingskap
 my dwing om rond te swerwe.
 daar val die werkers van die kwaad
 vir altyd in ’n jammerstaat
@@ -1959,7 +1959,7 @@ versadig hy sy volk met brood.
 soos gras wat op die weiveld staan.
 gods vyande. hoe skoon van skyn.
 sal soos ’n rookwolk gou verdwyn.
-13	die bose leen - en het te min.
+13	die bose leen en - het te min.
 gods volk deel uit en - daar ’s gewin.
 want sy geseendes sal hier bloei.
 wie hy vervloek. word uitgeroei.
@@ -1983,9 +1983,9 @@ daar sal jy voor die here woon.
 ’n skut wees selfs tot in die dood.
 die sondaar hou voor hom nie stand.
 regverdiges beërf die land.
-19	hul mond is ons ’n wysheids-wel
+19	hul mond is ons ’n wysheids-wel.
 en reg is wat hul tong vertel.
-gods wet is in hul hart geplant.
+gods wet is in hul hart geplant
 en deur sy krag hou hulle stand.
 20	en as die bose op hul loer.
 sal god hul aan die strik ontvoer.
@@ -2038,7 +2038,7 @@ met hul sware
 druk het my te swaar geword.
 5	al my kwale en my plae
 wek mishae
-en ’n walging. my te sterk.
+en ’n walging my te sterk.
 ag. hoe lelik is die wonde
 van die sonde
 as mens op sy dwaasheid merk.
@@ -2120,7 +2120,7 @@ geen klaagtoon oor my tong laat gaan.
 in onheil wil ’k my mond en spraak bedwing.
 terwyl die vyand voor my staan.
 sodat hy in sy ongeduld oor my
-geen vreugde of voordeel sal verkry.
+geen vreug of voordeel sal verkry.
 2	in stilheid was ek stom. ek het geswyg
 ook van wat goed is. maar my smart
 is aangewakker tot ’n lydensvlam.
@@ -2162,7 +2162,7 @@ psalm 40
 hy het sy oor tot my geneig.
 toe ek bedruk was en bedreig.
 het hy geluister na my jammerklag.
-hy wat aan my gedink het.
+hy wat aan my gedink het
 toe ek so diep gesink het
 in modderige slyk.
 hy laat my rotsvas staan.
@@ -2180,10 +2180,10 @@ van trotsaards niks verwag.
 maar steun op god alleen.
 3	grootmagtig was u daad. hoe meld my mond
 u wonders so oneindig ryk.
-wie is op aarde aan u gelyk.
+wie is op aard’ aan u gelyk.
 wie kan. o heer. u grootheid ooit deurgrond.
-geen gawe of offerande.
-gebring deur mensehande.
+geen gawe of offerande
+gebring deur mensehande
 was ooit u wil of eis.
 u het my oor deurboor.
 dat ek u woord kan hoor
@@ -2214,7 +2214,7 @@ want ramp en onheil is naby
 en om my heen. en in my hart is stryd.
 die sonde uit ver verlede
 oorval my matte skrede.
-my oog het glans ṇg gloed.
+my oog het glans nòg gloed.
 hoe groot ’s my sondes al.
 hoe eind’loos in getal.
 in my ’s geen krag. geen moed.
@@ -2225,7 +2225,7 @@ wat na my soek. my met sy strik belaag.
 wil hulle rugwaarts slinger -
 my vyand en bedringer
 wat op my lewe mik.
-as onheil my bedreig
+as onheil my bedreig.
 laat dan hul spotlag swyg.
 oorweldig hul met skrik.
 8	laat wie u soek. o god. my hulp in nood.
@@ -2257,8 +2257,8 @@ want. ag. ek weet die oorsaak van my wee.
 ek het teen u oortree.
 3	my vyande oorstort my met ellend
 en hunker na my end.
-hul sê. wanneer kom hy tog tot ’n val.
-hy. met sy naam en al.
+hul sê. “wanneer kom hy tog tot ’n val.
+hy. met sy naam en al.”
 hul kom asof hul op my siekte ag.
 hul hart die lieg en lag.
 want gaan hul heen en is hul op die straat.
@@ -2290,14 +2290,14 @@ van die helder waterbeke.
 skreeu my siel na u. o god.
 ja. my siel dors na die heer.
 na die lewensbron. wanneer
-sal ‘k. ná swerftog en benouing.
+sal ’k. ná swerftog en benouing.
 god weer sien in klare aanskouing.
 2	trane stort ek in my klagte.
 want die spotters vra vir my.
 “waar ’s jou god.” my dae en nagte
 gaan in droefenis verby.
 nog hoor ek die feesgedruis
-wat weerklink het om u huis.
+wat weerklink het om u huis
 toe ’k ’n skaar daarheen gelei het.
 my met hul in god verbly het.
 3	o my siel. waarom onrustig.
@@ -2312,7 +2312,7 @@ in sy lof sal ’k my verlustig.
 uit die land van die jordaan.
 hermon hoor my kerme en klae.
 met die klein gebergte. aan.
-weedom gryp my binnenste aan.
+weedom gryp my binnenst’ aan.
 as u waters oor my gaan.
 as ek. in my smart bedolwe.
 wegsink in u watergolwe.
@@ -2360,7 +2360,7 @@ want daar is ’t my die allerbeste.
 waar ek. u woning ingelei.
 my in u diens verbly.
 4	dan gaan ek in na gods altare.
-tot god. my god. my vreugde en lied.
+tot god. my god. my vreugd en lied.
 dan speel ek met die harpenare.
 dan ruis vir u my blye snare -
 vir u wat my. ná kort verdriet.
@@ -2386,7 +2386,7 @@ dit was ú hand. ú arm. die lig
 wat afglans van u aangesig.
 wat hul met guns en seen bestraal.
 gebied dan uit u hoë woning
-die swaard van jakobs seëpraal -
+die swaard van jakobs seëpraal.
 u self. o god. u is my koning.
 3	met horings stoot ons in die lende.
 met voete trap ons neer die bende
@@ -2397,7 +2397,7 @@ of swaard waarmee ek my omgord het.
 u red ons. sodat voor ons oog
 ons haters kragteloos geword het.
 4	dus vloei daar daagliks dank en ere.
-u naam loof ons vir ewig. here.
+u naam loof ons vir ewig. here. -
 en tog het u ons nou verstoot.
 u maak ons skaam. ons skande groot.
 want u. ons altyd so naby.
@@ -2423,7 +2423,7 @@ u heilsverbond met ons te skend nie.
 7	geen afgod het ons hart bekoor nie.
 ons voet ook nie u pad verloor nie.
 tog kwyn ons in ’n woeste plek
-waar diepe donker ons oordek.
+waar diepe donker ons oordek. -
 het ons gods naam dan ooit vergeet.
 tot afgodsdiens ons ooit begewe.
 sou god. wat harte ken. nie weet
@@ -2465,7 +2465,7 @@ wat teen die koning hul verhef.
 u septer is regverdigheid.
 u min geregtigheid. maar haat
 die onreg met die onregsdaad.
-6	u. koning van so ’n ryksgebied.
+6	u. koning. van so ’n ryksgebied.
 het god met vreugdesalf oorgiet.
 o god. u god. die maak u groot
 bo elke vors en troongenoot.
@@ -2512,7 +2512,7 @@ u loof vir ewig en altyd.
 psalm 46
 1	god is ’n toevlug in die nood.
 ’n rots wat altyd vas bly staan.
-al dreig die vyand met die nood.
+al dreig die vyand met die dood.
 al storm sy leërbendes aan.
 laat dan maar buig en beef
 al wat ons hier omgeef.
@@ -2551,10 +2551,10 @@ tot in die allerverste land.
 die moordtuig om die mens te kwel.
 verbreek hy met oorwinnaarshand.
 hy keer die oorlogs-kans
-en breek die boog en lans.
+en breek die boog en lans
 in vlam van haat gesmee.
 hy slaan die spies aan twee
-en steek die oorlogswaens aan brand.
+en steek die oorlogswa ens aan brand.
 6	hou op. en weet. ek is die heer.
 ek is verhoog bo alle vlees.
 my sal die nasies sien en eer.
@@ -2676,7 +2676,7 @@ vergaan soos vee en derf oplaas die lewe.
 5	so ’s dit met hom wat op homself vertrou.
 en almal wat sy woord in waarde hou.
 die dood. hul herder. lei hul dieper af.
-hul volg hom ná soos skape na die graf.
+hul volg hom ná soos skape na die graf. -
 dié wat opreg is. sien die môre straal.
 maar trotsaards moet in donker dieptes daal.
 waar al hul grootheid brokkel in sy broosheid
@@ -2723,12 +2723,12 @@ oor offers aan my toegewy.
 jou offerbloed en offergeur
 is voor my altyd. altyddeur.
 5	“geen stier hoef ’k uit jou huis te lei
-of offerdiere uit jou kraal.”
+of offerdiere uit jou kraal.
 die diere wat in wildheid wei.
 kan ek van duisend berge haal.
 die voëls op die berge vry.
 al wat beweeg - dit hoort aan my.
-6	“dus sal ‘k. o mens. na jóú nie kom.
+6	“dus sal ’k. o mens. na jou nie kom.
 en het ek honger. jóú nie vra.
 die aarde is my eiendom
 en al die volheid wat hy dra.
@@ -2743,7 +2743,7 @@ en dankbaar-bly sal jy my eer.”
 8	aan wie sy wet verwerp. sê god.
 “wat meld jy nog van my verbond.
 en spreek jy nog van my gebod.
-mư heilighede in jóú mond. -
+mý heilighede in jóú mond. -
 terwyl jy tog my roede haat.
 my woord verwerp om my te smaad.
 9	“as jy ’n dief sien. voel jy bly.
@@ -2761,7 +2761,7 @@ waar ek verskeur. kan niemand red.
 11	“hy wat sy dank my offer met
 ’n hart gestem tot lof en prys.
 wat op sy weg en wandel let -
-hư is dit wat my eer bewys.
+hý is dit wat my eer bewys.
 en. daar hy op my guns vertrou.
 sal hy met vreug my heil aanskou.”
 psalm 51
@@ -2824,7 +2824,7 @@ my tong. lank vas. in juigtoon word ontbonde.
 8	gebroke hart en gans verslae gees -
 dit is u offers. heer. geen altaardiere.
 geen bloed of vet van kleinvee of van stiere.
-kan voor u oog die ware offers wees.
+kan voor u oog die ware offers wees. -
 doen goed aan sion. wees dit welgesind.
 en bou weer op jerusalem se mure.
 dan sal ons hand die regte offers vind.
@@ -2856,8 +2856,8 @@ en singend wag ek op sy naam.
 met al gods gunsvolk saam.
 psalm 53
 1	vermeetle dwaas wat hoogwys spot.
-sê in sy hart. “daar is geen god”
-hul dade is afskuw’lik. sleg
+sê in sy hart. “daar is geen god.”
+hul dade is afskuw’lik. sleg.
 geeneen wat goed doen in sy weg.
 2	god het die mens se werk betrag
 uit hemelhoë en helder dag.
@@ -2879,7 +2879,7 @@ wie almal teen jou saam wou span.
 want god sien hul nie langer aan. -
 mag maar ons bede nooit verstom.
 “laat isr’els heil uit sion kom.”
-7	as isr’els god in hul ellend
+7	as isr’els god in hul ellend’
 sy volk se lotgeval wil wend.
 sal jakob jubel bly van gees.
 en israel sal vrolik wees.
@@ -2889,7 +2889,7 @@ toon my u mag en rig regvaardig.
 heer. neem my aan. hoeseer onwaardig.
 hoeseer tot bidde onbekwaam.
 want vreemdes. teen my opgestaan.
-tiranne. aan misdaad oorgegewe.
+tiranne.  aan misdaad oorgegewe.
 soek bloedbegerig na my lewe.
 gods hoogheid jaag geen vrees hul aan.
 2	maar ek sal op u bystand bou.
@@ -2918,7 +2918,7 @@ sien ek hoe hul in vyandskap
 my die verkrimpte hart vertrap.
 ’n doodskrik val op my van binne.
 3	ag. was ek nou. deur angs omgewe.
-maar soos ’n duif. omhoog gehewe -
+maar soos ’n duif. omhooggehewe -
 ek sou met snelle vleuelslae
 wegvlieg tot waar die wildernis
 my skuiling bied. waar ’t veilig is
@@ -2935,8 +2935,8 @@ dán sou ek stil my leed gely het.
 maar dis my vriend wat my nou kwel.
 met wie ek. as my metgesel.
 my in gods heiligdom verbly het.
-6	kom. dood en doderyk. verdelg hul.
-o aarde. ontsluit jou en verswelg hul
+6	kom dood en doderyk. verdelg hul.
+o aarde.  ontsluit jou en verswelg hul
 nog lewend. in jou diepste gronde.
 in allerswartste duisternis.
 waar daar geen end of weerkeer is.
@@ -2952,7 +2952,7 @@ staan ewig god se regtersetel.
 hy sal sy volk nooit laat verdruk nie.
 waartoe hul straf lank opgeskort.
 daar ’t tog met hul nooit anders word
-wat voor gods hoogheid nie wil buk nie....
+wat voor gods hoogheid nie wil buk nie. ...
 9	hy wat sy hande uitgesteek het
 teen my. ons vriendskapsbond verbreek het -
 sy bottergladde tong bied vrede.
@@ -2968,7 +2968,7 @@ die dood oorval hul met hul planne.
 psalm 56
 1	genade. o god. ek hoop op u alleen.
 die vyand staan met trots en haat my teen.
-hy veg. verdruk. vertrap. waar moet ek heen....
+hy veg. verdruk. vertrap. waar moet ek heen. ...
 op u. my god. vertrou ek.
 u gee u woord. dit sal my nooit begewe.
 daar leef ek mee. dit dra my deur die lewe.
@@ -2980,12 +2980,12 @@ my kwaad doen - dis wat hul gedagtes roer.
 die toeleg is my lewe.
 hul ongeregtigheid. hoe menigvuldig.
 hul skuld. hoe groot. bly hul dan nog onskuldig.
-hul trots. hoe hoog. is u dan nog geduldig....
+hul trots. hoe hoog. is u dan nog geduldig. ...
 werp volke neer. o god.
 3	hoe hulle my op elke vlugpad kwel.
 u weet dit. heer. my trane ’t u getel.
 dit in u boek op eewge skrif gestel.
-só was u my gedagtig.
+so was u my gedagtig.
 my vyand vlug. u. redder van my lewe.
 u is by my en sal my nooit begewe.
 my hart is stil. tot u omhooggehewe.
@@ -3011,7 +3011,7 @@ hul smaadgeroep nog oor my op laat gaan.
 hoe goed en trou is god in my ellende.
 3	ek is hier by ’n volk van leeue-aard.
 hul tande staan soos spiese in hul mond.
-hul tong is skerp soos skerpgeslypte swaarde.
+hul tong is skerp soos skerpgeslypte swaarde. -
 verhef u. heer. hoog bo die hemelrond.
 en straal tog neer u glorieglans op aarde.
 4	hul het ’n strik en kuil vir my berei.
@@ -3019,14 +3019,14 @@ my siel laat buig by so ’n bitter lot.
 maar in die vangkuil wat hul slim berei het.
 is hul gevang. nou rus my hart in god.
 en ’k juig. omdat hy my so wys gelei het.
-5	waak op. my eer. waak op. my harp en luit
+5	waak op. my eer. waak op. my harp en luit.
 laat my die rooidag wek met sanggeluid.
 u wil ek loof tot by die verste volke.
 u guns en trou straal bo die hemel uit.
 verhef. o god. u eer bo lug en wolke.
 psalm 58
 1	spreek jul wel waarlik reg. o regters.
-en vonnis jul die mense reg....
+en vonnis jul die mense reg. ...
 jul hart is ver. ver daarvan weg.
 en in jul hand is gruweldade.
 die bose is net afvalligheid.
@@ -3071,7 +3071,7 @@ op al die troueloses af.
 4	oordag in skuilplek weggevlug.
 kom hul by donker weer terug
 en huil soos honde deur die stad.
-hoe giftig is hul woorde wat
+hoe giftig is hul woorde. wat
 soos swaarde my die hart deurboor.
 “en wie.” sê hulle. “sal dit hoor.”
 5	maar u is groot van krag. o god.
@@ -3102,7 +3102,7 @@ oor elke land en volk verbrei.
 kom hul by donker weer terug
 en huil soos honde deur die stad.
 dan swerf hul rond langs donker pad.
-kom hul geen spyse op die spoor
+kom hul geen spyse op die spoor.
 dan bly hul loer. die heel nag oor.
 10	maar ék sal van u sterkte sing.
 u goedheid vroeg my jubel bring.
@@ -3122,11 +3122,11 @@ en swymeldrank ons toegedien.
 2	u hef vir ons ’n vaandel hoog
 waar ons kan heenvlug vir die boog -
 ’n reddingspaal het u geplant.
-verhoor ons. red ons deur u hand.
+verhoor ons. red ons deur u hand. -
 god het dit uit sy tempel al
 laat klink met hoogste jubelskal.
 “’k sal sigems stad my eie heet
-en sukkot as my erfdeel meet.
+en sukkot as my erfdeel meet.”
 3	“oor gilead sal ’k heerser bly.
 manasse. dié is ook van my.
 éfraïm weer die aanval af.
@@ -3136,11 +3136,11 @@ oor edom. nog belus op wraak.
 sal ek in hoogheid triomfeer.
 juig. filistéa. tot my eer.”
 4	wie bring my in ’n vaste stad.
-wie baan na edoms land my pad....
+wie baan na edoms land my pad. ...
 u. heer. wat ons nie by wil staan.
 nie met ons leërs saam wil gaan.
 gee ons u bystand in die stryd.
-want mensehulp is nietigheid.
+want mensehulp is nietigheid. -
 deur gód sal ons tot kragdaad stap.
 ons vyand sal hy self vertrap.
 psalm 61
@@ -3196,14 +3196,14 @@ teen hom soos teen ’n muur wat hang.
 3	hul soek om van sy hoë plek.
 deur god bepaal. hom neer te trek.
 hul het in leuentaal behae.
-hul mónd is seën. liefde. guns.
-maar in hul hárt - die leuenkuns.
+hul mond is seën. liefde. guns.
+maar in hul hart - die leuenkuns.
 met ywersug en vloek en plae.
-4	maar jy. my siel. swyg stil voor god.
+4	maar. jy my siel. swyg stil voor god.
 beskikker van jou lewe en lot.
 wat nooit sy woord ontrou sal wees nie.
 god is my rots. ’n skans vir my.
-hy sal my voetstap veilig lei.
+hy sal my voetstap veilig lei
 ek hoef geen wankeling te vrees nie.
 5	in god is al my heil. my eer.
 my sterke rots en teëweer.
@@ -3268,7 +3268,7 @@ hul stort in hul verdelgingsdrang
 self in die kuil van ondergang.
 en. weggedryf uit vaste stee.
 word hul die slagswaard oorgegee.
-om op die velde neergestort.
+om. op die velde neergestort.
 vir wilde diere ’n prooi te word.
 6	maar ek is in die here bly
 met almal wat sy naam bely.
@@ -3288,7 +3288,7 @@ soos pyle vlieg hul skielik weg.
 om heim’lik uit ’n skuilgewes
 opregtes in die siel te kwes.
 4	’n fyn beraamde plan is klaar.
-gespan het hul èn strik èn snaar.
+gespan het hul èn strik èn snaar. -
 die mens. in sondelus verward -
 hoe diep. hoe grond’loos is sy hart.
 5	maar god se pyl lê ook al klaar.
@@ -3316,7 +3316,7 @@ uit verste veld en kraal.
 leef in ons heugenis.
 maar al ons ongeregtighede
 word deur u uitgewis.
-welsalig wie in skuld verlore.
+welsalig wie in skuld verlore
 versoeningswoord hoor ruis.
 vir wie u uitkies. lank tevore.
 ’n woonplek in u huis.
@@ -3325,7 +3325,7 @@ met hoogste gunsbewys.
 met heil’ge goed wat u milddadig
 laat stroom uit u paleis.
 u antwoord ons in reddingsdade.
-gedug is u in mag
+gedug is u in mag.
 ons prys die blyk van u genade.
 die vyand toon ontsag.
 4	u is tot in die verste lande.
@@ -3334,7 +3334,7 @@ tot by die allerverste strande
 die mens se hoop en troos.
 die berge ’t u van oue tye
 gegrondves deur u mag.
-u is omring van alle sye
+u is omring aan alle sye
 met wonderbare krag.
 5	u demp die bruising van die bare
 in donker storme-weer.
@@ -3372,7 +3372,7 @@ in groen gewaad omhoog.
 wat juigend veld toe gaan.
 ons hoor omlaag die windgesange
 van hooggehalmde graan.
-omlaag die dale. omhoog die rante.
+omlaag die dale.  omhoog die rante.
 ja. alles jubel weer.
 dit sing en roem van alle kante
 die goedheid van die heer.
@@ -3417,7 +3417,7 @@ die oorlogsperd en sy beryder
 het ons vertrap. deur vloed en vuur
 het ons gegaan - maar ons bevryder
 het sy verkwikking ons gestuur.
-6 	ek sal. verlos uit doodsgevare.
+6	ek sal. verlos uit doodsgevare.
 nou dat ek weer kan asemhaal.
 my offers bring op u altare
 en my geloftes u betaal.
@@ -3493,13 +3493,13 @@ wat deur die wye vlaktes ry.
 sy naam is heer der here.
 3	hoog bo die onreg wat hier woel.
 staan god se heil’ge regterstoel.
-van waar hy in ontferming
+vanwaar hy in ontferming
 die weduwees hul reg verskaf.
 die wees se onderdrukkers straf
 en waak tot hul beskerming.
 wie eensaam is. hom stel hy in
 die volheid van ’n huisgesin.
-hy breek die slawebande
+en breek die slawebande
 van wie hier in gevang’nis smag.
 maar wie hom hoon in sy gesag.
 dié woon in dorre lande.
@@ -3536,7 +3536,7 @@ asof hul meegetrek het.
 maar straal daar vrede op isr’el neer.
 dan skitter hy in luister weer.
 tot nuwe skoon herbore -
-net soos die duif met silwerwit.
+net soos die duif met silwerwit
 en goud wat op sy vere sit
 by helder sonneglore.
 7	laat basans hemelhoë rots
@@ -3552,7 +3552,7 @@ as sonneglans en sonneskoon
 vir ewig by sy volk te woon
 en voor hul oog te skitter.
 8	gods eng’lemagte bo die swerk
-het. tien en tien maal duisend sterk.
+het. tien- en tienmaal duisend sterk.
 slagvaardig uitgeswewe.
 by hulle is sy majesteit
 ’n sinaï in heiligheid.
@@ -3586,7 +3586,7 @@ die heer het self ons toegeseg.
 uit basan jul vergader.
 wanneer jul deur die diepte tree.
 dan sal geen golfslag van die see
-jul veil’ge voetstap nader.
+jul veil’ge voetstap nader.”
 11	“dan sal jul uit die ballingskap
 weer bly oor jul verdrukkers stap
 op die bebloede velde.
@@ -3621,7 +3621,7 @@ dan pas die vorste tot u eer
 en om u huis ontwil. o heer.
 eerbiedig op u wenke.
 hul sal u dan van alle kant.
-selfs uit die allerverste land.
+selfs uit die allerverste land
 vereer met hul geskenke.
 14	omgord u. here. tot die kryg
 teen hom wat soos ’n ondier dreig
@@ -3677,7 +3677,7 @@ om u. o heer. om u ontwil.
 dit het my soos ’n vuur verteer
 en in my soos ’n vlam gebrand.
 smaadwoorde sonder maat of tal
-het. heer. om u op my geval.
+het. heer. om u. op my geval.
 5	ek kwel my siel met vas en ween.
 maar dit het my tot smaad geword.
 met sakkleed het ek my omgord.
@@ -3694,7 +3694,7 @@ en waterstroom wat om my spoel.
 laat nie die dieptes my verslind.
 die put waarin ek my bevind.
 laat hom sy mond nie bo my sluit.
-verhoor my. want u guns is goed.
+verhoor my want u guns is goed.
 u medelye ’n owervloed.
 8	aanskou my in barmhartigheid.
 dit is vir my benoud en nou.
@@ -3721,7 +3721,7 @@ vergroot hul skuld. spreek hul nooit vry.
 wil uit u boek hul naam uitwis
 waarin u volk geskrywe is.
 12	al is ek. heer. in pyn en nood.
-u hulp sal soos ’n skild verrys.
+ú hulp sal soos ’n skild verrys.
 daarvoor bring ek u lof en prys.
 ek maak u in my danklied groot.
 dit sal die here allermees
@@ -3756,7 +3756,7 @@ maar in ellende roep ek luid.
 u is my hulp. o heer. by wie
 ek bystand soek. vertoef tog nie.
 psalm 71
-1	op u alleen. my rotssteen. bou ek.
+1	op u alleen. my rotssteen bou ek.
 laat my dan nimmermeer
 in smaad verval. o heer.
 op u geregtigheid vertrou ek.
@@ -3766,7 +3766,7 @@ dis aan u oorgegewe.
 hoog teen ’n bergwand aan.
 waar ’k altyd in kan gaan.
 u het beveel dat ek sal lewe.
-en ’k leef. o grote ontfermer.
+en ’k leef. o groot ontfermer.
 my toevlug en beskermer.
 3	ruk my tog uit die wrede kloue
 van hul wat onreg werk.
@@ -3775,7 +3775,7 @@ u is die god van my betroue
 vanaf my eerste skrede
 en jonkheids ver verlede.
 4	ek het gesteun op u vermoë.
-van moeders liggaam aan
+van moedersliggaam aan
 het u my bygestaan.
 daarom loof ek u mededoë.
 my loflied tot u ere
@@ -3867,7 +3867,7 @@ maar neerslaan wie verdruk.
 ’n lig by dag sal wees.
 die maan ’n lamp by donker ure -
 só lank sal hul hom vrees.
-hy sal so mild wees so die reën
+hy sal so mild wees soos die reën
 wat neerdaal op die gras.
 soos druppels wat met volle seën
 besproei die veldgewas.
@@ -3879,7 +3879,7 @@ van see tot see - geen grensomlyning.
 orals gebied sy staf.
 totdat die maan. die bleek verskyning.
 val van die hemel af.
-5 	hul kniel. uit lande vergeleë.
+5	hul kniel. uit lande vergeleë.
 sy vyand lek die stof.
 en tarsis voer. oor verre seë.
 geskenke na sy hof.
@@ -3910,7 +3910,7 @@ met heilbee duisendvoud.
 mag koring. selfs langs hoë hange
 van berge uitgesaai.
 soos libanon laat hoor sy sange
-wanneer die bergwind waai
+wanneer die bergwind waai.
 9	mag die bewoners van die stede
 - daar ’s geen ellende meer -
 soos plante groei by volle vrede
@@ -3922,7 +3922,7 @@ of langer wees van duur.
 10	laat al die volke uit wydste kringe
 aan hom hul dank bewys
 vir matelose seëninge.
-en hom gelukkig prys.
+en hom gelukkig prys. -
 klim op. my lof. na hoër sfere.
 van bowe kom die seen.
 want isr’els god - aan hom die ere. -
@@ -3930,9 +3930,9 @@ doen wonders. hy alleen.
 11	sy naam. bo alle naam verhewe.
 sy uit eerbiedenis
 die volle roem en eer gegewe
-so lank daar wêreld is.
-en laat so ver die sonlig bewe.
-so ver die sonpyl skiet.
+solank daar wêreld is.
+en laat sover die sonlig bewe.
+sover die sonpyl skiet.
 sy heerlikheid die aarde oorswewe.
 en “amen” sê my lied.
 psalm 73
@@ -4034,7 +4034,7 @@ ek het my hoop op god gestel
 om al sy werke te vertel.
 psalm 74
 1	waarom. o god. vind ons geen medely.
-waarom verdryf u toorn ons altyd verder
+waarom verdryf u toorn ons altyd verder.
 ons is u kudde. u die kuddeherder
 wat deur u hand ons uit en in wou lei.
 2	dink aan u volk. aan u gemeente weer.
@@ -4097,7 +4097,7 @@ van u verbond. waarop ons voor u pleit.
 maak ons in ons gebedsroem nie verleë.
 staan op. o god. en stap u vyand teë.
 sodat ons u kan grootmaak in gesang.
-17	vergeet nie. heer. die onverdraag’bre hoon.
+17	vergeet nie. heer. die onverdraagb’re hoon.
 die spotgeroep van al u teenpartyders.
 rumoerigheid van al u magsbestryders.
 wat tartend opstyg na u hemeltroon.
@@ -4161,7 +4161,7 @@ bedwelm tesaam die perde en helde.
 wie kan bestaan voor u gesig.
 u laat van bo die oordeel hoor.
 u donderwoord. die wêreld oor.
-die aarde. uit skrik vir u vermoë.
+die aarde.  uit skrik vir u vermoë.
 lê stilverslae voor u oë.
 5	in stortvloed van sy krag kom hy
 al die sagmoediges bevry.
@@ -4278,7 +4278,7 @@ en koppig. soos hul vaders was weleer.
 ’n volk onvas van hart. ontrou van gees.
 was hul nie trou teenoor hul god gewees.
 5	ja. efraïm. die heldestam weleer.
-het weggevlug - hul was geen helde meer.
+het weggevlug - hul was geen helde meer. -
 die godsverbond het hulle nie betrag.
 maar. weieragtig. dit gering geag.
 gods dade. met geen maatstaf afgemeet.
@@ -4344,7 +4344,7 @@ het hul gemeet na swakke mensekrag.
 hul ’t nie gedenk hoe in hul slawetyd
 die blyk gesien is van sy godd’likheid.
 16	’t was wondertyd in isr’els groot weleer.
-egiptes stroom het hy in bloed verkeer.
+egipte’s stroom het hy in bloed verkeer.
 hy het die kwelgedierte in donker uur
 - kikvors en steekvlieg - in die land gestuur.
 hul veldgewas. die spys van mens en vee.
@@ -4354,7 +4354,7 @@ hul vyeboom deur koue laat verderf.
 en oor hul vee het hy die bliksemskig.
 met haelbui. verwoestend aan laat lig.
 ’n gloed van toorn en woede ’t hy gestuur
-en onheilsbodes in benoudheids-uur
+en onheilsbodes in benoudheids-uur.
 18	hy ’t vir sy grimmigheid ’n pad gebaan.
 hul nie gered. deur pes hul laat vergaan.
 en al die eerstelinge van hul krag
@@ -4400,7 +4400,7 @@ die grondslag lê. vir ewig diep en vas.
 25	o goedheid gods wat altyd dieper daal.
 uit herderstent word dawid weggehaal.
 uit agterveld waar skape rustig wei.
-om nou gods volk as herder-vors te lei.
+om nou gods volk as herdervors te lei.
 hy ’t hul gehoed in sy opregtigheid
 en hul beskerm deur dapper krygsbeleid.
 psalm 79
@@ -4528,7 +4528,7 @@ van ’n troue god
 wat aan ons gedink het.
 5	wat ons wou bevry
 aan die nyl se boorde
-van die slawerny.
+van die slawerny. -
 maar as nou my oor
 dieper luister. hoor
 ek die vreemde woorde.
@@ -4563,12 +4563,12 @@ jul mag god of heer
 wat die nasies eer.
 met geen lofstem prys nie.
 11	ek is god en heer
-wat die volk bevry het -
+wat die volk bevry het.
 ek en niemand meer.
 wat jul deur my hand
 uit egipteland
 veilig uitgelei het.
-12	open julle mond.
+12	open julle mond
 eis van my vrymoedig
 op my trouverbond.
 al wat jul ontbreek.
@@ -4614,7 +4614,7 @@ psalm 82
 1	god daag in regsvergadering
 maghebbers tot sy strafgeding.
 “hoe lank sal jul geen onreg vrees.
-partydig vir die bose wees....
+partydig vir die bose wees. ...
 doen reg aan wie in druk.
 verweesd terneer moet buk.
 bied swakkes onderstand
@@ -4661,7 +4661,7 @@ hul is gestuit. gestort.
 het slyk en mis geword
 op endors vrugb’re velde.
 maak hulle soos weleer
-die midians-vorste. heer.
+die midi ans-vorste. heer.
 die saamverbonde konings.
 hul wat nou sê. “komaan.
 laat ons gods volk verslaan
@@ -4696,12 +4696,12 @@ gedugte heer der leërskare.
 welsalig wie in u paleis
 u altyddeur mag loof en prys.
 3	welsalig is die mensekind
-wat al sy sterkte in u mag vind.
+wat al sy sterkte  in u mag vind.
 en op mag gaan na sions hoogte.
 wanneer hul haas van dors verkwyn.
 dan is die heer self hul fontein
 waar dorsland smag van somerdroogte.
-ook sal ’n reen hul daar oordek
+ook sal ’n reën hul daar oordek
 wat hul tot nuwe lewe wek.
 4	hul sal van krag tot krag steeds gaan
 totdat hul voet in sion staan.
@@ -4718,7 +4718,7 @@ een dag is in u huis my meer
 as duisend waar ek u ontbeer.
 veel liewer is ek in u woning
 ’n drumpelwagter. as gewend
-aan yd’le vreugde in sondaarstent.
+aan yd’le vreug in sondaarstent.
 6	’n son en skild is onse heer.
 hy sal genade gee en eer.
 want hy word nooit sy woord ontrou nie.
@@ -4750,7 +4750,7 @@ hy sal. wanneer sy gunsgenote smeek.
 hul roepstem hoor en weer van vrede spreek.
 maar laat sy volk dan nie onagsaam weer
 die voetstap na die pad van dwaasheid keer.
-gods heil’s naby - dat luisterryk en skoon
+gods heil ’s naby - dat luisterryk en skoon
 die heerlikheid weer in ons land kan woon.
 4	genade en trou sal dan mekaar ontmoet.
 die reg sal vrede met ’n kus begroet.
@@ -4759,7 +4759,7 @@ geregtigheid sien van die hemel neer.
 die goeie ontvang ons dan weer uit gods hand
 as halme buig op vrugbare akkerland.
 geregtigheid gaan voor gods aangesig
-en bloei omhoog waar hy sy voetstap rig
+en bloei omhoog waar hy sy voetstap rig.
 psalm 86
 1	heer. my god. ontferm u oor my.
 luister na my stem. verhoor my.
@@ -4767,7 +4767,7 @@ luister na my stem. verhoor my.
 gans en al van hulp ontbloot.
 o bewaar my. u ’s almagtig.
 maak my weer u guns deelagtig.
-red u kneg. verlos my nou.
+red u kneg. verlos my nou
 waar ’k alleen op u vertrou.
 2	wie is tog. soos u. weldadig.
 wees my dan. o heer. genadig.
@@ -4819,7 +4819,7 @@ soek my siel en span die boog -
 daar ’s geen godsvrees voor hul oog.
 8	maar barmhartig en lankmoedig.
 groot van goedheid en oorvloedig
-in genade. en altoos trou
+in genade.  en altoos trou
 is die heer wat my behou.
 wend u tot my in ontferming.
 red my. toon my u beskerming.
@@ -4845,7 +4845,7 @@ ek sien hul. dié en dié is daar gebore.
 4	hul almal. nou tot nuwe heil verkore.
 sal kom. selfs uit die allerverste land.
 hul sien god hou die moederstad in stand
-en jubel. die en die is daar gebore.
+en jubel. dié en dié is daar gebore.
 5	die heer self skryf hul op. die duisendtalle.
 een-een. gebore uit die volkeskaar.
 en singend. juigend klink die lofstem daar.
@@ -4854,7 +4854,7 @@ psalm 88
 1	ek roep tot u. o god.
 op wie my hoop bly staan.
 ’t sy dat die blye son oor my
-of op- of ondergaan.
+òf op- òf ondergaan.
 2	as ek my bede bid.
 en ’t opklim in u oor -
 ag. sluit dan nie u hart vir my.
@@ -4901,12 +4901,12 @@ u trou daar in die donker plek.
 waar die verderf verteer.
 13	word ooit u wondermag
 bekend in duisternis.
-word u geregtigheid herdenk.
+word u geregtigheid herdenk
 waar geen gedagte is.
 14	maar ek. o heer. ek roep.
 ek swyg nie met hul mee.
 en in die vroeë môre kom
-my smeekstem u al tee.
+my smeekstem u al teë.
 15	waarom dan. heer. verstoot
 u sonder medely.
 waarom verberg u langer dan
@@ -4914,7 +4914,7 @@ u aangesig vir my.
 16	vanaf my vroegste jeug
 is ek verdruk gewees.
 en altyd het ek ramp verduur.
-̣f altyd ramp gevrees.
+òf altyd ramp gevrees.
 17	u toorn verskrik my. heer.
 en raadloos sien ek hoe
 dit soos ’n vloed van waters kom
@@ -4995,7 +4995,7 @@ wat ek tot koning van die konings het verkore.
 vir hom bly my verbond vir altyd vas en stewig.
 my goedertierenheid bewys ek hom vir ewig.
 12	ek sal sy nageslag en troon nooit laat vergaan.
-sy heerskappy laat duur so lank die hemel staan.
+sy heerskappy laat duur solank die hemel staan.
 maar wil sy kinders nie my wette onderhou nie.
 bly hul aan my bevel en regte nie getrou nie.
 maar dwaal hul verder af in hul onheil’ge weë -
@@ -5003,16 +5003,16 @@ dan kom my tugtiging op sondaarspad hul teë.
 13	dan sal ek oor hul kwaad my strenge roede hef.
 my hand sal nie verskoon. maar streng hul boosheid tref.
 nogtans sal ek van hom my goedheid nimmer wend nie.
-ṇg wankel in my trou. of ooit my waarheid skend nie.
+nòg wankel in my trou. of ooit my waarheid skend nie.
 ek wil nie afgaan van my heilige verbond nie.
-ṇg ooit herroep die woord wat uitgaan uit my mond nie.
+nòg ooit herroep die woord wat uitgaan uit my mond nie.
 14	’k het by my heiligheid aan dawid trou gesweer.
 beloftewoord wat ek bevestig altyd weer.
 sy nageslag en troon sal voor my wees onendig.
 net soos die son se lig so glansryk en bestendig.
 net soos die maan so vas. en bo die hemelboë
 staan die getuie. in getrouheid onbewoë.
-15	en nou.... u het verstoot. u het in toorn verag
+15	en nou. ... u het verstoot. u het in toorn verag
 hom wat gesalf was. in sy late nageslag.
 het u u kneg vergeet. dink u aan u verbond nie.
 lê nie sy koningskroon ontheilig teen die grond nie.
@@ -5023,7 +5023,7 @@ sy vyand bly gemaak. sy swaard kan nie meer tref.
 sy heldehart is weg. geen krag meer in sy hand nie.
 sy glanse het verbleek. sy troon hou nie meer stand nie.
 sy jeug het u verkort deur smaad wat hom oordek het.
-hoe lank nog.... heer. hoe brand die vlam wat u gewek het.
+hoe lank nog. ... heer. hoe brand die vlam wat u gewek het.
 17	gedenk. o heer. hoe swak ek is. hoe kort van duur.
 hoe nietig my bestaan. die dood wink ieder uur.
 wie leef daar wat die dood nie eenmaal sal aanskou nie.
@@ -5033,7 +5033,7 @@ na u beloftenis. aan dawids huis verbonde.
 18	gedenk. o heer. die smaad waarmee hul ons oorstort.
 hoedat ons siel deur volk op volk gepynig word.
 gedenk hoe skande en skimp die voetstap begelei het
-van hom wat u gesalf. as vors uself gewy het.
+van hom wat u gesalf. as vors uself gewy het. -
 nogtans. o heer. u trou die volg u in u gange -
 geloofd sy dus u naam. en “amen” sê my sange.
 psalm 90
@@ -5063,7 +5063,7 @@ staan naak en klaar. o god. voor u gesig.
 wat die geheim ontsluier met u lig.
 5	so gaan u gramskap met ons deur die lewe -
 die skaduwee wat swart oor ons bly swewe.
-ons lewe. ’n som van droewe dae en nagte.
+ons lewe.  ’n som van droewe dae en nagte.
 ons jare bring ons deur soos ’n gedagte.
 die sterkste klim ten hoogste tot die top
 van sewentig of tagtig jare op.
@@ -5073,11 +5073,11 @@ hul gaan so gou verby. ons lewensdae.
 net soos ’n wolk gedryf deur onweersvlae.
 wie ken u toorn in al sy woede en krag.
 wie ken u gramskap met ’n regte ontsag.
-7	maar wie kan leef met enkel voort te klae....
+7	maar wie kan leef met enkel voort te klae. ...
 leer ons dan só te tel ons lewensdae
 dat wysheid ons kan voortlei in ons gange.
 ons hart kan vul met dankb’re lofgesange.
-hoe lank. o heer.... ons dae gaan verby.
+hoe lank. o heer. ... ons dae gaan verby.
 keer tot ons weer. betoon ons medely.
 8	en as die leed van jare uitgely is.
 verkwik ons vroeg. wanneer die nag verby is.
@@ -5100,7 +5100,7 @@ o heer. my rots. op wie ek bou.
 by u is ’t my die beste.
 my toevlug waar ek stil vertrou.
 in nood my veil’ge veste.
-2	daar ’s nette. waar jou voet ook gaan.
+2	daar ’s nette waar jou voet ook gaan.
 soos van die voëlvanger.
 uit donker plekke waai jou aan
 ’n stroom van pesdamp swanger.
@@ -5108,11 +5108,11 @@ maar eewge vleuels sweef oor jou.
 geruis van reusevlerke.
 rondom jou is gods eewge trou.
 die harnas van die sterke.
-3	geen vrees. wanneer by donker nag
+3	geen vrees wanneer by donker nag
 die skrik ’n mens laat bewe.
-geen vrees. wanneer die pyl oordag
+geen vrees wanneer die pyl oordag
 geswind kom aangeswewe.
-geen vrees. wanneer die dood sy prooi
+geen vrees wanneer die dood sy prooi
 verslaan in middagstonde.
 of as die pes sy gifkiem strooi
 by nagtelike ronde.
@@ -5147,7 +5147,7 @@ wat sluipend om jou slinger.
 “hy het my lief. hom maak ek vry
 wat dierbaar in my oog is.
 ek waak oor hom. want hy bely
-my naam wat sterk en hoog is.
+my naam wat sterk en hoog is.”
 8	“hy roep. en ek beskerm hom daar.
 totdat die nood verby is.
 ek lei hom na die hoogtes waar
@@ -5161,11 +5161,11 @@ psalm 92
 as weer met nuwe gloed
 ’n rusdag ons begroet.
 wie hom nie dank bewys nie
-in stille môrewagte.
+in stille môrewagte
 as ons sy guns omring.
 wie vir sy trou nie sing
-ln loflied in die nagte.
-2 	wie sou dié troue heer nie -
+‘n loflied in die nagte.
+2	wie sou dié troue heer nie -
 hom wat sy gunste ons bied -
 met hooggestemde lied
 by harp- en luitspel eer nie.
@@ -5196,10 +5196,10 @@ die horing van vermoë.
 u. heer. laat op my druppel
 u salf en laat my nou
 die val van húl aanskou
-wat oor mư val wou huppel.
+wat oor my val wou huppel.
 6	’n palmboom hoog en rustig.
 ’n seder sterk en skoon
-met breë blarekroon -
+met breë blarekroon
 só groei gods volk. so lustig.
 hul groei deur gods genade.
 hul bloei daar hoog en fris.
@@ -5238,21 +5238,21 @@ o regter. wat die wêreld rig.
 staan op. verhef u en vergeld
 die trotsaards nou hul trots geweld.
 2	hoe lank. o heer. sal nog die bose
-hier triomfeer... die goddelose
+hier triomfeer ... die goddelose
 by al ons jammer en gesug
 hul jubels uitstoot in die lug.
 en giftig. by hul seëpraal.
 ons uitspot met hul lastertaal.
 3	hoe lank het hul ons nie laat buk nie.
 hoe ons. u erfdeel. nie verdruk nie.
-die weduwee van hulp ontbloot.
+die weduwee. van hulp ontbloot.
 word met die vreemdeling gedood.
 verdrukte wees word nie verhoor.
 maar onder skyn van reg vermoor.
 4	hul roem uit krag van hul vermoë.
 “die heer slaan op ons daad geen oë.
 wie sal ons planne uitvind. wie.
-die god van jakob sien dit nie.
+die god van jakob sien dit nie.”
 hoe lank. o sondaars. bly jul doof.
 o dwase. van verstand beroof.
 5	sou hy. die skepper van die oor. nie.
@@ -5338,7 +5338,7 @@ hoewel hul al my werk aanskou het.
 wat aldeur weg wou van my pad.
 en deur ’n dwaalsiek hart verlei is.
 daarom het ek in toorn gesweer.
-dié rusplek erf hul nimmermeer
+die rusplek erf hul nimmermeer
 wat vir ’n trouer volk berei is.
 psalm 96
 1	sing vir die heer ’n nuwe lied.
@@ -5360,7 +5360,7 @@ die hemel daar - sy werk is dit.
 voor hom is majesteit
 en heersersheerlikheid.
 4	by hom is sterkte en sieraad. daar
-is mag- en pragvertoning.
+is mag- en pragvertoning
 waar god sit in sy woning.
 gee dan. geslagte en volkeskaar.
 gee prys en sterkte en eer
@@ -5381,7 +5381,7 @@ hy wat regverdig is.
 laat juig die hoë hemel.
 die see met wat daar wemel.
 laat al die velde hul verheug.
-dan breek én boom én bos
+dan breek èn boom èn bos
 in wilde jubels los.
 8	laat aarde en hemel juig voor hom.
 want hy. die wêreldregter.
@@ -5416,7 +5416,7 @@ gebergtes met hul rotse.
 van skok en skrik ontsteld.
 het gods geregtigheid.
 sy eer en majesteit
-aan alle volk gemeld.
+aan alle volk’ gemeld.
 4	beskaamd word alle siel
 wat voor die beelde kniel.
 met lofwoord en gebede
@@ -5487,16 +5487,16 @@ omstraal deur reg en majesteit.
 hy span sy vierskaar in die wolke
 en oordeel in regmatigheid.
 psalm 99
-1	god die heer regeer. beef. o volke. eer.
-eer die god wat troon. waar die gérubs woon.
+1	god. die heer regeer. beef. o volke. eer.
+eer die god wat troon waar die gérubs woon.
 wat in israel sy gerig bestel.
-aarde en al wat lewe laat dit voor hom bewe.
+aarde en al wat lewe - laat dit voor hom bewe.
 2	god wat help in nood. is in sion groot.
 al die volkemag niks by hom geag.
 hoog gedug ’s sy naam. laat hul almal saam
 lofsing tot sy ere. heilig is die here.
 3	loof gods mag. hy ’s reg in sy oordeelsweg.
-volke ’t hy gestraf. isr’els reg verskaf.
+volke ’t hy gestraf. isr’el reg verskaf.
 loof. verhef die heer. werp jul voor hom neer.
 en laat al wat lewe voor dié regter bewe.
 4	bidders het gepleit in die worstelstryd.
@@ -5525,7 +5525,7 @@ sy goedheid eindig nimmermeer.
 sy trou en waarheid hou hul krag
 tot in die laaste nageslag.
 psalm 101
-1	’k wil in my lied van reg én goedheid sing
+1	’k wil in my lied van reg èn goedheid sing
 en u daarvoor my hoogste hulde bring.
 opregtheid sal ek. heer. bo alles ag.
 en u verwag.
@@ -5565,10 +5565,10 @@ soos ’n vuurherd so deurgloei.
 en soos plante in sonnelande.
 welk ek by u sonnebrande.
 in ellende ’t ek vergeet.
-soos ’n kranke. om brood te eet.
+soos ’n kranke.  om brood te eet.
 3	al my krag wil my begewe.
 vlees voel ’k aan my beend’re klewe
-weens my benoude sug.
+weëns my benoude sug.
 eensaam voel ek. weggevlug
 in woestyne soos die reier -
 beeld van die verlate lyer.
@@ -5612,9 +5612,9 @@ wat die nageslag sal lees.
 hul sal lofsing op hul fees.
 want god het uit mededoë
 op gevang’nes. neergeboë.
-en op hul gekerm gelet.
+en op hul gekerm gelet -
 “kinders van die dood” gered.
-9	dan sing hul gods magvermoë
+9	dan sing hul gods magsvermoë
 weer in sion. opgetoë.
 dan weerklink die vreugdestem
 uit jou muur. jerusalem. -
@@ -5624,7 +5624,7 @@ as die konings hulle buig
 en hom hul ontsag betuig.
 10	dis die beeld. vol soet behae.
 van die ongebore dae.
-maar nóú.... hoe ’t ek ingestort.
+maar nóú. ... hoe ’t ek ingestort.
 hoe ’s my lewenstyd verkort.
 toe sê ek. by soveel plae.
 heer. verkort tog nie my dae.
@@ -5639,7 +5639,7 @@ u alleen. u sal nie sterwe.
 soos ’n kleed sal hul verslyt.
 maar u bly in ewigheid.
 12	heer. in plaas van droef te klae
-sien ons ongemete dae.
+sien ons ongemete dae
 wanneer eind’lik kroos en kind
 lewensvolheid by u vind.
 psalm 103
@@ -5667,14 +5667,14 @@ en israel sy diepe bondsbeleid -
 hoedat die heer barmhartig en genadig.
 lankmoedig is en altyd weer weldadig.
 die heer is groot van goedertierenheid.
-5	hy sal nie altoos twis teen ons ontrou nie
-of ewiglik die toorn teen ons behou nie.
+5	hy sal nie altoos twis teen ons ontrou nie.
+of ewiglik die toorn teen ons behou nie. -
 want wie kan dra gods eewge gramskap - wie.
 hy sal met ons nie na ons sondes handel.
 ons nie vergeld die boosheid van ons wandel.
 hy straf ons. maar na al ons sondes nie.
 6	soos hoog bo ons verrys die hemelboë.
-so sal sy guns. uit eewge mededoë
+so sal sy guns. uit eewge mededoë.
 geweldig hoog bo al sy kinders staan.
 en soos die oosterkim se helder glanse
 ver weg is van die kwynende awendtranse.
@@ -5689,7 +5689,7 @@ en dat ons stof van jongs af is gewees.
 ’n blom wat ons aanskou met welbehae.
 maar wat kortstondig is en baie teer.
 sodra die rukwind oor die veld gekom het.
-dan knak die steel wat lustig daar geblom het.
+dan knak die steel wat lustig daar geblom het -
 dis weg - sy staanplek ken hom selfs nie meer.
 9	maar gods genade en goedheid is onendig
 oor almal wat hom vrees. sy trou bestendig.
@@ -5698,7 +5698,7 @@ wat sy verbond nie troueloos wil skend nie.
 of van sy wet hul hart afkerig wend nie.
 maar sy bevel gehoorsaam wil betrag.
 10	god het sy stoel gebou bo lug en wolke.
-van waar hy heers as koning van die volke.
+vanwaar hy heers as koning van die volke.
 as heer van alles op die wêreldrond.
 loof. loof die heer. o al sy leërmagte.
 o eng’le. wat met will’ge heldekragte
@@ -5827,7 +5827,7 @@ verbond met abraham. sy vrind.
 bevestig hy van kind tot kind.
 6	die heer wat nooit sy waarheid krenk nie.
 sal hy dan nie die eed gedenk nie
-aan isak. in sy trou gesweer.
+aan isak in sy trou gesweer.
 hy het dit ook vir jakob weer
 as wet gegee. as bondsbestel
 in ewigheid aan israel.
@@ -5848,7 +5848,7 @@ moes onder sy besoeking buk.
 nie aan nie met onheil’ge hand.”
 hy roep ’n honger in die land.
 hy breek daar alle staf van brood -
-egipte raas van hongersnood
+egipte raas van hongersnood.
 10	god het in wysheid lank tevore
 vir hul ’n redder uitverkore.
 ’n josef gaan in slawerny
@@ -5937,7 +5937,7 @@ sy volk met blydskap uitgelei.
 en al die arbeid van sy hande -
 dit gee die heer hul in sy trou
 dat hul sy wet sal onderhou.
-en in hul weë hom sal eer
+en in hul weë hom sal eer.
 loof. halleluja. prys die heer.
 psalm 106
 1	geloofd sy god. die eewge heer.
@@ -5949,7 +5949,7 @@ sy lof kan uitsing na waardy.
 2	welsalig wie die reg betrag.
 en dankbaar op gods woorde ag.
 o heer. wees aan my nou gedagtig
-en kom my met u guns naby.
+en kom my met u guns naby
 dat ek. u volk se heil deelagtig.
 my met u erfdeel kan verbly.
 3	ons en ons vaders het misdaan
@@ -5965,7 +5965,7 @@ gedreig. geslaan. gedryf. sodat
 sy vloedgolf agterwaarts moes steier.
 terwyl hul gaan langs droë pad.
 5	maar toe die waters in hul kolk
-terugswaai. kon én vors én volk
+terugswaai. kon èn vors èn volk
 geen weg meer vind na veil’ge boorde -
 só het die waters opgedring.
 gods volk. gelowig aan sy woorde.
@@ -6052,7 +6052,7 @@ was met hul harde lot begaan.
 laat vind. ook by die weerparty.
 verlos ons. heer. wees ons geneë
 en bring ons van die nasies weer
-uit banningsoorde vergeleë.
+uit bannings-oorde vergeleë.
 dat ons met roemtaal u kan eer.
 20	geloofd sy god. sy bondsbestel.
 sy goedheid heers in israel.
@@ -6067,9 +6067,9 @@ meld dit. al wie behoed is.
 verlos is uit ellend.
 wat god uit elke land
 in vryheid weer herstel het.
-vry van die slaweband.
+vry van die slaweband
 waarmee hul hom geknel het.
-2	in woesteny verlore.
+2	in woesteny verlore
 was daar vir hul geen pad
 wat hul langs regte spore
 kon heenlei na ’n stad.
@@ -6106,8 +6106,8 @@ maar hul geroep het god
 verhoor in die benoudheid.
 met wending van hul lot.
 bo hul het saamgedring
-’n nag van kerkerduister
-hư het hul uitgebring.
+’n nag van kerkerduister.
+hý het hul uitgebring.
 bevryd van klem en kluister.
 7	die koper-kerkerdeur het
 gewaggel voor gods mag
@@ -6203,12 +6203,12 @@ gesaaide en wynstok lewer
 hul vrug oorvloedig op.
 hul kroos vermeerder hy.
 hul vee ’t hy nie verminder.
-as god die seen wil sprei.
+as god die seen wil sprei
 wie kan dit hom verhinder.
 19	daarna word hul weer minder
 en kom bykans tot niet.
 deur kommernis en hinder.
-verdrukking en verdriet.
+verdrukking en verdriet. -
 oor die geweldenaar
 kom onheil en veragting.
 hy swerf in woestheid waar
@@ -6219,7 +6219,7 @@ vermeerder sy geslagte
 wat hy soos kuddes maak.
 gods volk is bly daarom.
 hul sien wat hy gewerk het.
-maar boosaards staan verstom.
+maar boosaards staan verstom
 daar hul gods mag bemerk het.
 21	wie wys is. merk dié dinge
 en gee godvrugtig ag
@@ -6235,25 +6235,25 @@ tot bo die hemel uitgebreid.
 sal ek verhoog by al wat leef
 met sang wat van ontroering beef.
 2	verhef u bo die hemel wyd.
-en bo die aarde u heerlikheid.
+en bo die aard’ u heerlikheid.
 verlos u gunsvolk deur u hand.
-verhoor ons. send ons onderstand.
+verhoor ons. send ons onderstand. -
 god het dit uit sy tempel al
 laat klink met hoogste jubelskal.
-“’k sal sigems stad my eie heet
+“’k sal sigems-stad my eie heet
 en sukkot as my erfdeel meet.
 3	“oor gilead sal ’k heerser bly.
 manasse - dié is ook van my.
 efraïm weer die aanval af.
 en juda is my veldheerstaf.
 van moab sal ’k my waskom maak.
-oor edom nog belus op wraak.
+oor edom. nog belus op wraak.
 sal ek in hoogheid triomfeer.
 oor filistéa jubileer.”
 4	wie bring my in ’n vaste stad.
-wie baan na edoms land my pad.
+wie baan na edoms land my pad. ...
 u is ’t wat ons nie by wou staan.
-nie met ons leërs saam wil gaan.
+nie mét ons leërs saam wil gaan.
 gee ons u bystand in die stryd.
 want mensehulp is nietigheid.
 deur gód sal ons tot kragdaad stap.
@@ -6339,7 +6339,7 @@ want god is aan my regtersy
 om my met krag te stut.
 teen hul wat vonnis soek teen my.
 sal my die heer beskut.
-psalm 110
+psalm 110 (1ste beryming)
 1	die heer is dit wat tot my heer gespreek het.
 “sit aan my regterhand as hoogste heer.
 tot ek u vyand in sy mag gebreek het.
@@ -6372,6 +6372,31 @@ en hy moet swig. die grootvors van die land.
 - só het hy hul gejaag in somertyd. -
 buk by die beek as hy die stryd volstry het.
 en dan sy hoof hoog ophef ná die stryd.
+psalm 110 (2de beryming)
+1	die here roep my here.
+“sit regs van my en rig.
+tot ek oorwin in ere.
+u vyand voor u swig.
+ontvang u septer magtig
+uit sion en regeer.”
+u heerskappy is kragtig.
+u werp u vyand neer.
+2	u volk. my heer en koning.
+staan vir die stryd gereed.
+bereid tot diensbetoning.
+in feesgewaad gekleed.
+die fleur van jong geslagte.
+vars soos die vroegdagdou.
+sterk u oorwinningsmagte
+as jeugkrag u omvou.
+3	“my woord en eed staan stewig
+en onherroeplik vas.
+my priester’s u - vir ewig -
+soos melgisedek was.”
+die heer gee u oorwinning
+en laat die vorste val.
+verfris deur vars verkwikking
+oorwin hy een en al.
 psalm 111
 1	’k sal met my ganse hart die heer
 met die opregtes loof en eer -
@@ -6428,7 +6453,7 @@ sy naaste sal verdruk.
 maar vas bly soos ’n rots.
 sodat sy nagedagtenis
 ’n eewge seën is.
-7	hy sal nie vrees. wanneer
+7	hy sal nie vrees wanneer
 die slegte tyding kom.
 sy hart. berustend in gods wil.
 is in hom sterk en stil.
@@ -6468,7 +6493,7 @@ psalm 114
 die land van vreemde spraak.
 getrek het. het god juda’s stam
 sy heiligdom gemaak
-en israel sy ryksgebied.
+en israel sy ryksgebied
 waaroor sy septer waak.
 2	die see het dit gesien. gevlug.
 jordaanstroom - waar was hy.
@@ -6481,7 +6506,7 @@ jordaan. wat steier jy.
 en berge. waarom spring jul rond
 soos ramme. ry aan ry.
 en heuwels. soos ’n lammertrop
-wat wegvlug deur die wei....
+wat wegvlug deur die wei. ...
 4	beef. aarde. beef voor jakobs god.
 wees voor hom skrik-verras.
 hy wat die rots beveel het en -
@@ -6500,9 +6525,9 @@ met die uitroep ons trotseer.
 “waar is nou die heer. hul god.”
 in die hemel sit die heer.
 en hy doen wat hom behaag.
-net sư wil geskied omlaag.
+net sý wil geskied omlaag.
 3	gode van die heidendom.
-goue of silwerbeeltenis.
+goue of silwerbeeltenis
 waar die mens sy knie voor krom.
 niks as eie maaksel is.
 daar ’s ’n mond. maar sonder taal.
@@ -6517,7 +6542,7 @@ vingers wat nie voel of tas.
 aan die altyd-selfde oord.
 hulle keel - geen klank of stem
 kom uit tempelstilte voort.
-laat dié wat hul dien en vrees.
+laat die wat hul dien en vrees.
 soos hulself. só nietig wees.
 6	israel. steun op die heer.
 hy ’s hul hulp. hul skild is hy.
@@ -6536,7 +6561,7 @@ groot en klein wat op hom wag.
 ja. hy sal hul allermees
 seën in hul nageslag.
 hy wat spreek. en ’t het geskied.
-sal sy seen oor hul gebied.
+sal sy seen oor jul gebied.
 9	heer. die hemel ’s u paleis.
 u ’t die aarde aan ons gegee.
 dooies kan die heer nie prys.
@@ -6578,7 +6603,7 @@ en met u gunsvolk in u huis vergader.
 hoe kost’lik. heer. is in u oog hul dood.
 9	ag. heer. ek is. o ja. ek is u kneg.
 seun van u diensmaagd. in u diens gebore.
-my bande is los. vir hoër diens verkore.
+my bande is los. vir hoër diens verkore
 bring ek die offers. aan u toegeseg.
 10	ek sal u naam met dankerkent’nis prys
 te midde van die feestelike skare.
@@ -6636,7 +6661,7 @@ het ek hul in gods naam verslaan.
 maar het soos doringvuur vergaan.
 hul het gekom in breë rye.
 maar ’k het hul in gods naam verslaan.
-o vyand. jy ’t met harde stote
+o. vyand. jy ’t met harde stote
 tot vallens toe my weggedruk.
 die heer bewaar sy gunsgenote.
 die heer het self my uitgeruk.
@@ -6731,7 +6756,7 @@ wil dan nimmer my verlaat nie
 wat u wet nie wil verlaat.
 4	hoe sal in sy jeug die jong’ling.
 gou deur ydelheid bekoor.
-rein kan wandel in sy weë....
+rein kan wandel in sy weë. ...
 as hy wandel in u spoor.
 u soek ek van ganser harte
 heer. hou u my hande vas.
@@ -6764,7 +6789,7 @@ dis die rykdom van u woord.
 8	heer. u dreig hul wat. vermetel
 nie op u gebooie ag.
 as hul smaad. wend dan hul smaadheid
-van my wat u wet betrag.
+ván my wat u wet betrag.
 ook al kom die vorste same
 en versin hul teen my kwaad -
 juig ek tog in teënhede.
@@ -6787,7 +6812,7 @@ gaan met weldaad voor. dan volg ek.
 dan betrag ek u bevel.
 11	heer. leer my u wet dat ek dit
 tot die einde toe kan hou.
-gee verstand en gee volharding.
+gee verstand en gee volharding
 dan bly ek daaraan getrou.
 laat my leef na u bevele -
 niks wat my só kan behaag.
@@ -6843,7 +6868,7 @@ is die stof van my gesange.
 op my pelgrimspad my troos.
 18	aan u naam is ek gedagtig
 in my soetste mymery.
-as ek uitrus op by bedstee
+as ek uitrus op my bedstee
 en die nag die aarde oorsprei.
 is ’t ’n wonder. nee. geen wonder.
 want te doen na u gebod
@@ -6931,7 +6956,7 @@ omdat ek hul ore hinder
 as ek van u wet verhaal.
 29	laat húl weer met my vergader
 wat u naam van harte vrees.
-dat ons. in u woord verenig.
+dat ons. in u woord verenig
 een gemeenskap weer kan wees.
 laat my hart maar net opreg wees
 voor u oog wat alles sien.
@@ -6953,7 +6978,7 @@ sal daar nie ’n einde kom nie.
 toef u. heer. nog met u straf.
 spaar u nog my vyand wat my
 graag wil neerdruk in die graf.
-32	dié wat op u wet nie ag nie.
+32	die wat op u wet nie ag nie.
 skoon dit waar bly en gewis.
 hul vervolg my. help my. here.
 lewe wat nog in my is.
@@ -6962,7 +6987,7 @@ maar - hoe kon ’k u wet laat vaar.
 maak my in u guns weer lewend.
 dat ’k u woorde kan bewaar.
 33	heer. u woord is onbeweeglik.
-en u waarheid het geen end.
+en u waarheid het geen end
 soos die sterre wat bly vonkel
 aan die hoë firmament.
 met die duur van mensgeslagte
@@ -7001,7 +7026,7 @@ omdat hul my wys gemaak het.
 wyser as my teenparty.
 as my leraars. as die grysaards.
 dis ’n kennisskat vir my.
-38	here. ek wyk deur u genade
+38	here.  ek wyk deur u genade
 weg van elke slegte pad.
 maar ek wyk nie van u regte.
 want hul is my wysheidskat.
@@ -7054,7 +7079,7 @@ soos ons skuim skif van metaal.
 en verwerp hul. daarom bid ek
 dat u liefde in my mag daal.
 as ek dink aan u gestrengheid.
-dan meng liefde en vrees deureen.
+dan meng liefde en vrees deur-een.
 en ek voel hoedat daar angste
 sidder deur my lede heen.
 45	wil my. wat u wet betrag het.
@@ -7119,7 +7144,7 @@ is u woord die één en alles
 waar my hart hom in vermaak.
 ewige geregtighede
 vloei uit u getuienis.
-leer my daaruit só te lewe
+leer my daaruit so te lewe
 soos die ware lewe is.
 53	tot u roep ek. heer. verhoor my.
 en verlos my. maak my trou.
@@ -7144,7 +7169,7 @@ ewig staan u waarheid pal.
 sien my aan in my ellende.
 ’k voel my aan u wet verkleef.
 wil my regsaak nou verdedig.
-laat my. na u woord. herleef.
+laat my na u woord herleef.
 56	ver ’s u weldaad van die bose.
 want hul swerf van u af weg.
 maar oor my is u ontferming.
@@ -7204,7 +7229,7 @@ laat my lewe om te loof.
 63	heer. ek is ’n skaap verlore.
 in die wildernis verdwaal.
 u. my heer en herder. bid ek
-dat u my tog wil kom haal
+dat u my tog wil kom haal.
 soek my. bring my weer. u dienaar
 wat in al sy harteleed.
 en in al sy teënhede.
@@ -7230,17 +7255,17 @@ kolegloed van besembosse -
 dis jou loon. o valse tong.
 4	wee my. dat ek om moet swerwe
 waar my sielsrus weg moet sterwe
-by dié wat die vrede haat.
+by die wat die vrede haat.
 by ’n volk wat. as my rede
 spreek van vriendskap en van vrede.
 des te meer van oorlog praat.
 psalm 121
 1	ek hef my oë bergwaarts heen
-en staar die ure óm.
+en staar die ure òm.
 tot my verlossing kom.
 my hulp is van die heer alleen.
 hy. oor my lot bewoë.
-is eind’loos in vermoë
+is eind’loos in vermoë.
 2	bedreig gevaar jou reispad ooit -
 hy is dit wat jou voet
 vir wankeling behoed.
@@ -7302,7 +7327,7 @@ psalm 124
 ja. was die heer nie toe by ons gewees.
 toe mensemagte. teen ons aangekant.
 ons aangegryp het. in hul toorn ontbrand -
-dan was ons lewendig verslind gewees
+dan was ons lewendig verslind gewees.
 2	het toe die heer sy volk nie bygestaan -
 toe trotse waters oor ons heen wou slaan.
 dan het die vloed vir ons te sterk geword.
@@ -7315,7 +7340,7 @@ en ons nie oorgelewer tot ’n buit.
 dies loof ons god. hy het ons vrygemaak.
 4	die troue heer het self ons vrygemaak.
 die strik is los en ons het vrygeraak.
-vry soos ’n voël wat vind sy vryheid weer.
+vry soos ’n vo ël wat vind sy vryheid weer.
 die eewge god. van alle dinge heer.
 hy is ons hulp. hy het ons vrygemaak.
 psalm 125
@@ -7357,7 +7382,7 @@ ons tong van blydskap in dié stonde.
 selfs heidenvolke het vertel.
 groot is gods daad aan israel.
 2	groot was u daad. en ons is bly.
-u het gered. en ons in vry.
+u het gered. en ons is vry.
 maar. heer. u gunsvolk sit nou weer
 in droefnis en ellende neer.
 wil in u trou ons nooit begewe.
@@ -7366,7 +7391,7 @@ soos waterstrome in suiderland
 die veld laat juig ná sonnebrand.
 3	wie wenend. onder leed en smaad.
 die korrels uitstrooi van die saad.
-sal in die hoggehalmde graan
+sal in die hooggehalmde graan
 eerlang verblyd die sekel slaan.
 al wenend saai hy oor die akker.
 maar vrolik word sy saaigraan wakker.
@@ -7374,7 +7399,7 @@ en eind’lik dra sy nyw’re hand
 die volle gerwe van die land.
 psalm 127
 1	laat bouers bou al wat hul kan -
-vergeefs is alles wat hul bou.
+vergeefs is alles wat hul bou
 as god sy hand daaraan onthou.
 vergeefs. o wagte. waak jul dán.
 as god jul nie wil gadeslaan.
@@ -7394,23 +7419,23 @@ die seuns gebore uit krag van jeug.
 4	gelukkig wie dit so mag gaan.
 wat soos ’n held sy hand kan vul
 met sulke pyle. dit is hul
-wat nie verleë hoef te staan.
+wat nie verleë hoef te staan
 wanneer die vyand in die poort
 vermetel spreek sy hoë woord.
 psalm 128
 1	wie deur gods vrees bewoë.
-trou op die weg wil gaan.
+trou op die weg wil gaan
 waar hom gods wil voor oë
 en klaar getekend staan -
 die arbeid van sy hande
 sal hy met vreug geniet
 wanneer die koringlande
-met seen hul opbrings bied.
+met seen hul opbrengs bied.
 2	soos ons met welgevalle
 die wingerdstok aanskou.
 en tel die trossetalle
 wat ons die blare ontvou -
-so sal sy in jou lewe.
+so sal sý in jou lewe.
 die huisvrou van jou jeug.
 aan jou die volheid gewe
 van huiselike vreug.
@@ -7418,7 +7443,7 @@ van huiselike vreug.
 wat uitspruit sterk en fris.
 so bloei aan alle kante
 jou kinders om jou dis.
-o wie van dié getal is.
+o wié van die getal is.
 hy wat die here vrees.
 vir wie god een en al is -
 hy sál geseënd wees.
@@ -7452,7 +7477,7 @@ om handevol sy goue graan te maai nie.
 waar nooit die gerwebinder langs sal gaan
 om arremsvol sy koring op te laai nie.
 6	waar wie verbygaan nooit met handgebaar
-en oestydsgroet die maaier sal bejeën.
+en oestyds-groet die maaier sal bejeën.
 en sê. “mag god jul arbeid seën daar.”
 waar niemand roep. “wees in gods naam geseën.”
 psalm 130 (1ste beryming)
@@ -7476,7 +7501,7 @@ reg kinderlik gevrees.
 as wagter uitgestel.
 gedurigdeur die ure
 met sy gedagte tel -
-só wag my siel. en sterker.
+só wag my siel. en sterker -
 gedurig op die heer.
 tot hy. die ligbewerker.
 die nag in daagraad keer.
@@ -7542,13 +7567,13 @@ aan jakobs sterke god het hy
 geloftewoord dús toegewy.
 2	“ek sal my woning nie betree.
 my nie begeef na stille stee
-waar ek my oë rus sal gee.
-my oëlede sluimering.
+- waar ek my oë rus sal gee.
+my oëlede sluimering -
 voordat ek hierdie eed volbring. -
 3	“voordat ek hom. die eewge heer.
 die magtige van jakob. eer.
 voor ’k onder al die stamme weer
-die eerbied-stille stee ontdek.
+die eerbied-stille stee ontdek
 waar hy sy woning kan betrek.”
 4	die tyding gaan van mond tot mond.
 in efrata - so klink dit rond -
@@ -7563,7 +7588,7 @@ u met die ark van sterkte en eer.
 6	beklee. o hoogste majesteit.
 u priesters met geregtigheid.
 u volk moet juig. in u verblyd.
-en wys om dawids wil nie meer
+en wys om dawids-wil nie meer
 u ryksgesalfde af. o heer.
 7	u het aan dawid in u trou
 gesweer dat u sy troon sal bou
@@ -7577,7 +7602,7 @@ wat ook mag wyk of ondergaan.
 jou troon sal altyd vas bly staan.”
 9	want sion word deur god geëer.
 as woonplek het hy dit begeer.
-“dit is my rusplek.” sê die heer.
+“dit is my rusplek. sê die heer.”
 “hier vestig ek my huis en troon.
 en hier wil ek vir ewig woon.
 10	“in sion is my seën groot.
@@ -7598,16 +7623,16 @@ om arons hoof ’n sagte geur versprei.
 sy baard oordrup en heil’ge kleed deurtrek -
 so sal die liefde liefde wek.
 2	dis soos die dou van hermon. ryk nes reën.
-op sions berg. die heer gebied die seën.
+op sionsberg. die heer gebied die seën.
 die lewe tot in ewigheid.
 psalm 134
 1	o priesters. wat voor god bly staan.
 wanneer die sonlig ondergaan.
 wanneer die laaste straal verskiet -
 o loof die heer in sang en lied.
-2	o hef vir ons ’n naglied aan.
+2	o hef vir ons ’n naglied aan
 wanneer ons weer van hier moet gaan.
-hef priesterlike hande en pleit.
+hef priesterlike hande en pleit
 as alles rus in donkerheid.
 3	die heer se seen sal met u gaan.
 en ons sal biddend voor hom staan.
@@ -7624,15 +7649,15 @@ loof sy goedheid. gee hom eer.
 al wie in sy voorhof staan.
 loof hom by die heugenis
 van sy naam wat lieflik is.
-2	loof die heer se goedheid luid.
+2	loof die heer se goedheid luid
 al wie in sy voorhof kom.
 want hy kies vir jakob uit.
-is’rel tot sy eiendom.
+isr’el tot sy eiendom.
 bo al wat die mens vereer -
 groot. dit weet ek. is die heer.
 3	in die hoogte sit die heer.
 daar doen hy wat hom behaag.
-hy stuur sy bevele neer.
+hy stuur sy bevele neer
 en sy wil geskied omlaag.
 see en aarde luister stil.
 met die dieptes. na sy wil.
@@ -7647,7 +7672,7 @@ eersgeborenes verslaan.
 van die mens af tot die vee.
 wonders het hom voorgegaan -
 tekens van sy strenge hand
-in jou midde. egipteland.
+in jou midde.  egipteland.
 6	god het faro’s mag weerstaan.
 volke en konings het beswyk.
 sihon het hy neergeslaan
@@ -7667,7 +7692,7 @@ maar u hou oor hul die wag.
 en u knegte. skoon ontrou.
 u sal hul in liefde aanskou.
 9	gode van die heidendom.
-goue of silwerbeeltenis.
+goue of silwerbeeltenis
 waar die mens sy knie voor krom.
 niks as eie maaksel is.
 daar ’s ’n mond. maar sonder taal.
@@ -7679,7 +7704,7 @@ kan daarmee nie asemhaal.
 laat dié wat hom dien en vrees.
 soos die afgod. net só wees.
 11	huis van isr’el. loof die heer.
-huis. van aron. loof die heer.
+huis van aron. loof die heer.
 huis van levi. loof die heer.
 almal wat hóm vrees en eer -
 laat dit klink op hoogste toon.
@@ -7701,7 +7726,7 @@ sal bestaan in ewigheid.
 van die hemele gebou.
 want sy goedertierenheid
 sal bestaan in ewigheid.
-5	en die aarde. omlaag. het hy
+5	en die aarde.  omlaag. het hy
 oor die seevlak uitgebrei.
 want sy goedertierenheid
 sal bestaan in ewigheid.
@@ -7713,7 +7738,7 @@ sal bestaan in ewigheid.
 opperheerskappy by dag.
 want sy goedertierenheid
 sal bestaan in ewigheid.
-8	maan en sterre. in minder prag.
+8	maan en sterre.  in minder prag.
 lig en vonkel deur die nag.
 want sy goedertierenheid
 sal bestaan in ewigheid.
@@ -7767,7 +7792,7 @@ want sy goedertierenheid
 sal bestaan in ewigheid.
 psalm 137
 1	aan die riviere ’t ons gesit
-in babel en geween.
+in babel en geween
 as swerfgedagte ons hartseer wek
 en trek na sion heen.
 2	ons het aan wilgerbome daar
@@ -7787,7 +7812,7 @@ voordat ek ooit. ontrou.
 jerusalem sal kan vergeet.
 nee. ’k sal. ék sal onthou.
 6	my tong sal aan my mond bly kleef
-as ek jou ooit vergeet.
+as ek jou ooit vergeet
 en jou nie loof bo wat ek hier
 my hoogste vreugde heet.
 7	o heer. vergeld aan edom tog
@@ -7809,7 +7834,7 @@ en voor die gode. in psalmgeklank.
 u bring die dank. / aan u verskuldig.
 ek sal my neerbuig op u eis.
 na u paleis. / die oog na bowe.
-en om u guns en waarheid saam.
+en. om u guns en waarheid saam.
 u heil’ge naam / eerbiedig lowe.
 2	hoe hoog is nou in elke oord
 u naam en woord / omhoog gehewe.
@@ -7829,7 +7854,7 @@ maar sien van ver die kleinheid aan
 van grootheidswaan / wat hoog wil strewe.
 4	as in my angs en teëspoed
 die krag en moed / my wil begewe.
-as vyande van veglus brand.
+as vyande van veglus brand. -
 dan kéér u hand / en red my lewe.
 die heer is goed en wondersterk.
 hy sal sy werk / deur niks laat keer nie.
@@ -7866,7 +7891,7 @@ dan is die nag ’n helder lig
 wat my ontdek aan u gesig.
 vir u. heer. is die nag se duister
 net soos die dag in glans en luister.
-6	u ’t my geheel en al deurgrond.
+6	u ’t my geheel en al deurgrond
 selfs voor my eerste lewenstond.
 gans wonderbaarlik voortgebring.
 sal ek verbaas u grootheid sing
@@ -7882,7 +7907,7 @@ gemaak is in die aarde onder -
 my ongevormde klomp aanskou.
 u wysheid. heer. wat nimmer faal.
 het my geboortestond bepaal.
-voor iets van my ’t begin te lewe.
+voor iets van my ’t begin te lewe
 was alles in u boek geskrewe.
 9	hoe kost’lik u gedagtes. heer.
 ek tel - en hul word altyd meer.
@@ -7895,7 +7920,7 @@ wat hulle trots teen u verhef.
 wyk almal weg wat my omgeef.
 aan wie se hand die bloedvlek kleef.
 dié wat geveinsd god wel geag het.
-maar vir gods hoogheid geen gesag het.
+maar vir gods hoogheid geen ontsag het.
 11	sou ek nie haat van ganser hart
 wie in hul hoogheid u wil tart.
 sou ek my nie met afsku keer
@@ -7967,7 +7992,7 @@ rys smaadtaal uit die hart se grond -
 ag. wil dit wegweer van my mond.
 dat ek u naam nooit mag onteer nie.
 4	bewaar my hart. gedagte en handel.
-sodat ek nooit die vreug mag smaak.
+sodat ek nooit die vreugd mag smaak.
 of deel mag neem aan feesvermaak
 van wie in goddeloosheid wandel.
 5	’k voel my aan liefdetug verbonde.
@@ -8028,17 +8053,17 @@ en ek verlaat my op u trou.
 2	ag. reken met u kneg nie af nie.
 en wil my na u wet nie straf nie.
 want niemand wat voor u bestaan.
-kan pleit-of regsgrond ooit verskaf nie.
+kan pleit- of regsgrond ooit verskaf nie.
 dat hy u vonnis sou ontgaan.
 3	die vyand volg my op my skrede.
 hy trap my afgesloofde lede
 en laat my woon in duisternis.
-soos een wat dood is. lank gelede
+soos een wat dood is. lank gelede.
 uit die herinn’ring uitgewis.
 4	my gees versmag by so ’n benouing.
 my hart verstyf by die aanskouing.
 en ek herdenk die beter dag
-van u genadige aanskouing
+van u genadige aanskouing.
 van redding deur u wondermag.
 5	ek hef my hande na die hoë.
 ek kwyn voor u in onvermoë
@@ -8061,12 +8086,12 @@ ek skuil by u. vat u my hand.
 en laat u gees in al my dae
 my voortlei in ’n veil’ge land.
 9	laat hier u guns my nooit begewe.
-skenk om u selfs wil my die lewe.
+skenk om u selfs-wil my die lewe.
 en laat my siel weer wees verblyd.
 van sy benoudheid wees onthewe.
 ek pleit op u geregtigheid.
 10	laat dit die vyand nooit geluk nie.
-vernietig hul. laat mư nie buk nie.
+vernietig hul. laat mý nie buk nie.
 bring almal om wat my beveg.
 laat hulle nie meer my verdruk nie.
 want. heer. ek is. ek is u kneg.
@@ -8102,14 +8127,14 @@ oor reuse-swaard. vir sy verderf gesmee.
 verlos my uit ’n see van ramp en nood.
 want vreemdes dreig my met ’n wisse dood.
 hul mond spreek leuens en hul regterhand
-doen by hul eed die leuenwoord gestand.
+doen by hul eed dié leuenwoord gestand.
 5	dan sal ons seuns soos plante ons verheug.
 hoog opgekweek en sterk wees in hul jeug.
 ons dogters soos pilare. na die eis
 gebeitel van ’n skone rotspaleis.
 ons skure vol van voorraad ongeteld.
 ons kleinvee talloos hupp’lend oor die veld.
-ons beeste swaar gelaai. geen bres alom.
+ons beeste swaar gelaai. geen bres alom
 waar krygsgeskreeu ons stad kan binnekom.
 6	welsalig - dus hef ek my slotsang aan -
 welsalig is die volk wie ’t só mag gaan.
@@ -8160,7 +8185,7 @@ hy troos die hart wat skreiend tot hom vlug.
 op hul geroep wil hy ’n redder wees.
 sy hand verdelg die goddelose. maar
 dié wat hom liefhet. sal die heer bewaar.
-12	maar nou. my siel. waar eindig ooit gods eer....
+12	maar nou. my siel. waar eindig ooit gods eer. ...
 nog sal ek uitroep. lof. lof aan die heer.
 laat alle vlees vir ewig en altyd
 sy naam verhef so hoog in heerlikheid.
@@ -8361,7 +8386,7 @@ loof die heer en gee hom ere -
 al wat kruip en roer en sweef.
 al wat asem het en leef.
 halleluja. loof die here.
-skrifberyming 1 - lofsang van maria
+skrifberyming 1 - lofsang van maria (magnificat)
 1	ek wil die hoogste heer
 met blye roemtaal eer.
 my redder en bewaker.
@@ -8398,7 +8423,7 @@ sy eewge heilsgedagte.
 ontferming toegeseg
 aan abraham. sy kneg
 tot verre nageslagte.
-skrifberyming 2 - lofsang van sagaria
+skrifberyming 2 - lofsang van sagaria (benedictus)
 1	loof nou die god van israel
 wat op sy volk se roepstem merk.
 wat na sy vaste bondsbestel
@@ -8407,7 +8432,7 @@ hy het ’n horing opgerig.
 ’n sterkte in dawids huis gestig.
 tot heil van al sy knegte.
 profetestem het dit geprofeteer
-van aanbegin af. altyd weer.
+van aanbegin af altyd weer.
 totdat die raad vervul was van die heer.
 2	die heer hou sy verbond in stand
 en maak ons van ons vyand vry.
@@ -8443,7 +8468,7 @@ die lewenslig laat neerstraal van omhoog.
 wat nou nog woon in duisternis.
 dit sal ons wank’le voetstap rig
 op paaie waar dit vrede is.
-skrifberyming 3 - lofsang van simeon
+skrifberyming 3 - lofsang van simeon (nunc dimittis)
 1	neem nou maar. heer. u kneg
 na u belofte weg.
 en laat hom gaan in vrede -
@@ -8473,7 +8498,7 @@ skielik oor die velde daal.
 “moenie skrik nie. moenie vrees.
 want ek boodskap vreugde wat
 vir die hele volk sal wees.”
-“die verlosser”. juig sy stem.
+“die verlosser.” juig sy stem.
 “is gebore in betlehem.”
 4	“hy. die heer en christus. lê
 - dis die teken van die kind -
@@ -8497,7 +8522,7 @@ deur die heer bekend gemaak.”
 en hul het die wonderkind
 in die voerkrip toegedek
 by die moedermaagd gevind.
-en hul het in blye taal
+en hul het in blye taal.
 van die wonderkind verhaal.
 8	almal was verwonderd oor
 wat die herders openbaar.
@@ -8517,17 +8542,17 @@ en vol van waarheid is.
 skrifberyming 6 - die kruiswoorde
 1	oor die kruis neersinkend. bid hy.
 “vader. ag vergeef hul dit.
-want hul weer nie wat hul doen nie.”
+want hul weet nie wat hul doen nie.”
 as hy so sy bede bid.
 dan weerklink daar. slag ná slag.
 hamerhoue van die wag.
-2	aan die moord’naar. haas verlore.
+2	aan ‘n moord’naar. haas verlore.
 word die hoogste guns bewys.
-“hede sal jul met my saam wees
+“hede sal jy met my saam wees
 in die vredesparadys.”
 dan troos vrede in volle vloed
 die verbryselde gemoed.
-3	by die kruispaal staan maria.
+3	by die kruispaal staan maria
 en johannes word haar kind.
 deur die kruiswoord. “seun” en “moeder”.
 word sy aan sy sorg verbind.
@@ -8566,9 +8591,9 @@ hy tog. die swakke loot. het uit
 ’n dorsland voor hom opgespruit.
 en prag of heerlikheid vir wie
 hom aansien. had die spruitjie nie.
-2	hoe sou ons hom dan kon begeer....
+2	hoe sou ons hom dan kon begeer. ...
 hy was verlate. ongeëer.
-vir almal net ’n smarteman.
+vir almal het ’n smarteman.
 die lydensnaar altyd gespan.
 vir hom. deur wreedste smart geterg.
 het ons die aangesig verberg.
@@ -8592,7 +8617,7 @@ ja. al die kwaad deur ons gedaan.
 het god die heer oor hom laat gaan.
 5	terwyl ons op die dwaalweg gaan.
 storm al ons sondes op hom aan.
-maar hy ’t mishandel. neergebuk.
+maar hy ’t. mishandel. neergebuk.
 sy mond nie oopgemaak in druk.
 ’n lam. ter slagting heengelei.
 so stil en stemmeloos was hy.
@@ -8666,16 +8691,16 @@ sy ewig lof en prys en krag en roem en ere.”
 met “amen. amen.” het die gérubs opgeswewe.
 die oudstes het aanbid voor hom wat ewig lewe.
 skrifberyming 9 - die lied van verlossing
-1	toe staar ek deur die wêreldnagte
-- lighoogtes het my oog geboei -.
+1	toe staar ek deur die wêreldnagte -
+lighoogtes het my oog geboei -
 en ’k sien uit alle mensgeslagte
-’n skaar. ontelbaar. saamgevloei.
+’n skaar ontelbaar. saamgevloei.
 hul staan. uit alle volke en lande.
 nou voor die lam en voor gods troon.
 die vredespalmtak in die hande.
 hul wit gewaad in eenvoud skoon.
 2	ek hoor hul stem die lug deurbewe.
-“die reddingseer”. so hef hul aan.
+“die reddingseer.” so hef hul aan.
 “bring ons aan god. so hoog verhewe.
 en aan die lam wat by hom staan.”
 en om die troon en ouderlinge.
@@ -8683,9 +8708,9 @@ en viertal wesens wonderbaar.
 sien ek in altyd wyer kringe.
 oneindig ver. die eng’leskaar.
 3	hul ’t neergesink in sagte deining.
-al verderweg in ordekring.
+al verder weg in ordekring.
 en almal. by hul knielverkleining.
-die lof van god die heer gesing
+die lof van god die heer gesing.
 met “amen. lof aan god die here.
 en wysheid. dank en majesteit.
 en mag en krag en sterkte en ere.
@@ -8697,15 +8722,15 @@ maar wie is hul. en waarvandaan.
 toe kom by my gesigsverrukking
 ’n stem my ruisend tegemoet.
 “dié skaar kom uit die groot verdrukking.
-gereinig in die lam se bloed.
+gereinig in die lam se bloed.”
 5	“hul ’t in dié bloed. deur gods genade.
-hul kleed gewas. en vlekloos rein
+hul kleed gewas en. vlekloos rein.
 mag hul nou in hul straalgewade
 as priesters voor gods troon verskyn.
 hul mag aan hom hul dienswerk heilig.
 en altyd in sy tempel bly.
 god self sal hulle daar beveilig
-as hy sy tentseil oor hul sprei.
+as hy sy tentseil oor hul sprei.”
 6	“hul sal nie langer honger kry nie.
 geen son sal oor hul hoofde brand.
 hul sal nie langer dors meer ly nie
@@ -8720,7 +8745,7 @@ gods uitverkore kind verklaag.
 waar is die mond wat durf verdoem
 as god sy kind regverdig noem.
 2	dis christus wat die skuld wou dra.
-die dood vir ons gesterf het. ja.
+die dood vir ons gesterf het. ja
 wat. opgewek. in glorie sit
 en altyddeur vir ons wil bid.
 3	wie sal ons. van die skuldstraf vry.
@@ -8733,7 +8758,7 @@ die swaard van die geweldenaar.
 klaar vir die mes wat ons wil slag.)
 5	maar nee. ons sál oorwinnaars bly
 deur hom vir wie ons leef en ly.
-ja ’k weet gewis. geen lewe of dood.
+ja. ’k weet gewis. geen lewe of dood.
 geen eng’lemag. bo-menslik groot.
 6	geen skepsel in die skepping wyd.
 geen ding in tyd of ewigheid -
@@ -8765,36 +8790,36 @@ het hul met blydskap na die stad gegaan.
 skrifberyming 12 - vreugde en wee
 1	’n eng’lestem het ek hoor juig.
 wat aanswel uit die hemel aan.
-“nou moet voor god die here buig
+“nou moet voor god. die here. buig
 die magte teen hom opgestaan.
 want heil en krag en heerskappy
 het god nou skitt’rend aan laat lig.
 en christus - so ’n glans het hy
-dat satan blind daarvoor moes swig.
-2	nou sal die duiwel nimmermeer
+dat satan blind daarvoor moes swig.”
+2	“nou sal die duiwel nimmermeer
 kan opstyg uit die diepte omlaag.
 nou sal hy hier ook nimmer weer
 gods uitverkoornes kan verklaag.
 vors migael - die tyd was ryp
 dat hy tot kragdaad aangegord.
 die satan in sy vuis sou gryp
-en in die afgrond neer sou stort.
-3	die lam wat hul laat triomfeer
+en in die afgrond neer sou stort.”
+3	“die lam wat hul laat triomfeer
 sy bloed het hul gedek as skild
 en al die pyle afgeweer.
 en hul getuig’nis. nooit gestild.
 dit was hul wapen in die stryd.
 hul het hul lewe as hoogste skat.
 in mart’laarskap en dure tyd.
-tot in die dood nie liefgehad.
-4	kom. jubel dan op hoë toon.
+tot in die dood nie liefgehad.”
+4	“kom. jubel dan op hoë toon.
 o heemle. sing jul vreugde-psalm.
 laat al wie in die hoogte woon.
-sy vertes met hul lied deurgalm....
+sy vertes met hul lied deurgalm. ...
 bewoners van die aarde en see.
 die duiwel ’t op jul neergestort.
 en daarom klaag ons oor jul. wee.
-hy ’s woedend. want sy tyd is kort.
+hy ’s woedend. want sy tyd is kort.”
 skrifberyming 13 - pinkster
 1	toe kom daar haastig ’n geluid
 wat aanblaas uit die hemel uit.
@@ -8804,26 +8829,26 @@ daarheen vaar. vul die ganse huis.
 verdeelde tonge soos van vuur.
 deurgloeid en wonderbaar deurstraal.
 wat glansend op hul hoof kom daal.
-3	toe was dit. op die dag van fees.
+3	toe was dit op die dag van fees.
 dat hul vervul is met die gees.
 in loftaal het hul uitgebreek
 net soos die gees dit uit laat spreek.
 4	dit is die saak wat die profeet
 aan ons verkondig en laat weet.
 “die laaste tyd. dan sal dit wees
-dat ek sal uitgiet van my gees.
+dat ek sal uitgiet van my gees.”
 5	“dan stort ek met ’n groot geluid
 die gees se reënstrale uit.
 jul seuns en dogters. dan nie meer
-van spraak ontbloot. sal profeteer.
+van spraak ontbloot. sal profeteer.”
 6	“jul kinders. uitsiend op die wag.
 sal vergesigte sien by dag.
 jul grysaards. in hul krag al loom.
-die allerskoonste drome droom.
+die allerskoonste drome droom.”
 7	“ook op die knegte en maagde. vry
 om my hul dienswerk toe te wy.
 stort ek my gees in mildheid neer.
-en almal sal hul profeteer.
+en almal sal hul profeteer.”
 8	“’k sal wonders in die hemel gee.
 op aarde tekens van die wee
 wat oor die mensheid heen sal kom.
@@ -8831,22 +8856,22 @@ bloedplas en vuur en rookkolom.”
 9	die dag sal kom. deurlugtig-groot.
 maar elkeen wat in sielenood
 hom aanroep wat die redder is.
-vind in sy naam behoudenis
+vind in sy naam behoudenis.
 skrifberyming 14 - pinksterbelofte
 1	“water sal ek op hul sprinkel.
-water uit ’n springfontein”.
+water uit ’n springfontein.”
 en van alle onreinighede
 was die heer sy volk dan rein.
 “nuwe harte gee ’k aan julle.
 en ek gee ’n nuwe gees.
 ’k sal die hart van klip verwyder.
-aan jul gee ’n hart van vlees.
+aan jul gee ’n hart van vlees.”
 2	“’k gee my heil’ge gees aan julle.
 wat die krag verleen en trou
 om te wandel in my weë
 en my wet te onderhou.
 en jul sal die land van seën
-deur my seën weer verkry
+deur my seën weer verkry.
 waar ’k ’n god sal wees vir julle.
 jul ’n volk sal wees vir my.”
 skrifberyming 15 - laat jul kinders tot my nader
@@ -8861,7 +8886,7 @@ sal daar geensins binnegaan.”
 3	en die here het sy arrems
 koest’rend om hul heen geslaan.
 met sy hande op hul hoofde.
-hul geseën. en weer laat gaan.
+hul geseen. en weer laat gaan.
 4	“sal die herder van die kudde
 wat een enk’le skaap maar mis.
 hom nie haas en in die berge
@@ -8876,7 +8901,7 @@ dat geeneen van die geringes
 ooit meer sal verlore gaan.”
 7	en die menseseun op aarde.
 soos die vader hom gelas.
-het gekom. en hy maak salig
+het gekom en hy maak salig
 hulle wat verlore was.
 skrifberyming 16 - die lied van saligheid
 1	salig die wat arm van gees is
@@ -8887,7 +8912,7 @@ is hul erfdeel. sê die heer.
 in hul weedom troosteloos.
 want hul droefheid word tot vreugde
 as die heer hul hart vertroos.
-3	salig die wat stil-sagmoedig
+3	salig die wat stil sagmoedig
 hier geen hoogheid wil verwerf.
 want ’n aarde sonder moeite.
 nuut-herbore. sal hul erf.
@@ -8907,7 +8932,7 @@ sal hul klaar hul god aanskou.
 in ’n wêreld oud van twis.
 “seuns van god” sal hul genoem word
 as ’t weer vrede op aarde is.
-8	salig die wat hier vervolg word
+8	salig die wat hier vervolg word.
 en vir reg en waarheid ly.
 want die koninkryk der heemle
 is vir hul as loon berei.
@@ -8970,7 +8995,7 @@ die vader. met hom wesens-een.
 of wie die eewge vader ken.
 as net die seun. net hy alleen.
 4	wie kan die eewge wese ken.
-so diep en ontoeganklik klaar....
+so diep en ontoeganklik klaar. ...
 alleen die mens aan wie die seun.
 die heilgeheim wil openbaar.
 5	kom dan tot my. o almal wat
@@ -8992,8 +9017,8 @@ wat nooit gekneus het of gekwel.
 skrifberyming 19 - die vaderliefde van god
 1	nou sal ek opstaan. na die woning weer.
 die vaderhuis my wank’le voetstap keer.
-“my vader.” sal ek sê. van misdaad sku.
-“my sonde is teen die hemel en voor u.”
+“my vader”. sal ek sê. van misdaad sku.
+“my sonde is teen die hemel en voor u.
 2	“ek het van hoë kindskap neergestort
 en is nie werd u seun genoem te word.
 as ek. my vader. wat u gramskap vrees.
@@ -9005,7 +9030,7 @@ uit jammerte hom tegemoet geloop.
 4	tot waar hy was. hom aan sy hart laat rus.
 geliefkoos deur die vaderlike kus.
 “my vader”. roep hy uit. van misdaad sku.
-“my sonde is teen die hemel en voor u.
+“my sonde is teen die hemel en voor u”.
 5	“van hoë kindskap het ek neergestort
 en is nie werd u seun genoem te word.
 as ek. my vader. wat u gramskap vrees.
@@ -9013,12 +9038,12 @@ as ek by u ’n huurling maar kan wees.”
 6	die vader sien sy slawe wagtend staan.
 “bring hier die beste kleed. trek hom dit aan.
 bring vir sy hand die ring van fynste gloed
-en skoeisel vir sy afgesloofde voet.
+en skoeisel vir sy afgesloofde voet.”
 7	“want hy. my seun. oor wie ons vrolik is.
 was dood en het. in bly herrysenis.
 weer lewendig geword. en hy. my kind.
 vir my verlore. is eind’lik weer gevind.”
-skrifberyming 20 - lied van die sugtende skepsel
+skrifberyming 20 - die lied van die sugtende skepsel
 1	bo ’n strandelose en donker see
 van eindelose wêreldwee
 verhef die skepsel hom -
@@ -9053,7 +9078,7 @@ sal oprys uit die graf.
 maar hoop het ons weer op laat rys
 in die ontkomingstryd.
 want as ons sién. hoop ons nie meer.
-maar as ons hoop dan leef ons weer
+maar as ons hoop. dan leef ons weer
 en wag in lydsaamheid.
 7	en is ons swak en moedeloos.
 dan kom die heil’ge gees ons troos.
@@ -9062,7 +9087,7 @@ het diep gedaal om saam te smeek.
 in donker dal saam uit te breek
 in diepe bidgesug.
 8	en god wat in die hart kan lees.
-die ken die sugstem van die gees
+dié ken die sugstem van die gees
 en neig in guns sy oor.
 en het die gees met regte bee
 vir ons by god weer ingetree.
@@ -9078,7 +9103,7 @@ wat harteloos sy klank verbrei.
 al wat verborge en donker is.
 die gawe van die profesie.
 al had ek die geloof. ook dit.
-sodat ek berge kon versit.
+sodat ek berge kon versit
 en had daarby die liefde nie -
 3	al deel ek al my goed’re uit.
 al gee ’k my liggaam self as buit.
@@ -9099,8 +9124,8 @@ geen ongeregtigheid wil sy.
 maar net die waarheid maak haar bly -
 die waarheidsklank van woord en daad.
 6	die liefde lê die kwaad nie oop.
-sy dra. verdra en glo en hoop -
-die profesie sal nie bestaan.
+sy dra. verdra en glo en hoop.
+die profesie - sal nie bestaan.
 ons taal en kennis gaan tot niet.
 maar - hoogste lofprys van my lied -
 die liefde alleen sal nooit vergaan.
@@ -9132,7 +9157,7 @@ en al sy goedheid net ’n blom.
 7	die gras verdor. die blom verwelk weer
 wanneer dit oor die velde raas.
 wanneer die asem van die here.
-die winterstormwind daar oor blaas.
+die winterstormwind daaroor blaas.
 8	voorwaar. die mens is maar ’n stengel.
 ’n grasspriet wat verdor. vergaan.
 ’n blom wat wegwelk uit die velde.
@@ -9155,7 +9180,7 @@ skrifberyming 23 - verby
 die eerste aarde en hemel het
 in donker oordeelsnag verdwyn.
 die see. wat immer wend en keer
-in ongewisheid. was nie meer
+in ongewisheid. was nie meer.
 2	ek sien toe dat die heil’ge stad.
 jerusalem in skoonheidspraal.
 van god. haar bouheer-kunstenaar.
@@ -9168,7 +9193,7 @@ die woning van sy heiligheid.
 is by die mens op aarde weer.
 húl is sy volk. hy ’s hul naby
 en sal hul god vir ewig bly.
-4	en god sal self. en vir altyd.
+4	en god sal self. sal vir altyd.
 die trane van hul oë wis.
 geen dood sal daar dan langer wees.
 geen smart of rou of kommernis.
@@ -9179,7 +9204,7 @@ skrifberyming 24 - verkiesingsjubel
 die eewge god en vader. hy
 het in die hemel seëninge
 vir ons in christus toeberei.
-na die besluit. uit hom gebore
+na die besluit uit hom gebore
 en ewig in sy wese vas.
 het hy in christus ons verkore
 voordat daar tyd of wêreld was.
@@ -9196,7 +9221,7 @@ die grond van ons behoudenis.
 sing ons nou van sy reddingsdade
 in hom wat die geliefde is.
 uit hom in wie ons nou weer vry is
-van skuld. deur sy verlossingsbloed.
+van skuld. deur sy verlossingsbloed. -
 in hom. in wie die heil berei is.
 kom seënstroom ons tegemoet.
 4	die bron wat god vir ons bevry het.
@@ -9207,7 +9232,7 @@ geheimenis eers diep en bondig
 gevestig in gods diepe wil.
 sy welbehae word verkondig.
 die ewigheid is nie meer stil.
-5	nou bring die tyd in volheidskringe
+5	nou bring die tyd in volheidskringe.
 die vrug van gods geheimenis -
 tót christus hoof van alle dinge
 op aarde en in die hemel is.
@@ -9250,7 +9275,7 @@ hom sy vir ewig eer en krag.
 wat nou oor alles triomfeer.
 skrifberyming 26 - die tien gebooie
 1	my siel herdink met sidderbewe
-hoe god. met majesteit beklee.
+hoe god met majesteit beklee.
 deur wolke en donkerheid omswewe.
 sy wet op horeb het gegee.
 2	ek is die heer. jou god en koning.
@@ -9269,7 +9294,7 @@ en wat my wette onderhou.
 en bly altyd jou eed getrou.
 want hulle wat sy naam nie eer nie.
 sal god geensins onskuldig hou.
-6	gedenk die sabbat. in ses dae
+6	gedenk die sabbat - in ses dae
 het god die wêreld toeberei.
 maar hy het. na sy welbehae
 die rusdag aan sy diens gewy.
@@ -9282,7 +9307,7 @@ maar liefde moet jou steunsel wees.
 jy mag die heil’ge eg nie breek nie.
 maar. kuis van hart. die here vrees.
 9	laat nooit jou voet die weg betree nie
-van hom wat roof nóg diefstal vrees.
+van hom wat roof nòg diefstal vrees.
 jy mag geen vals getuig’nis gee nie.
 maar laat jou woorde waarheid wees.
 10	daar mag nooit in ons hart meer kom nie
@@ -9293,9 +9318,9 @@ as u beveel. o heil’ge god.
 genade is al waar ons op pleit.
 gee ons in christus nuwe lewe.
 om dit te doen uit dankbaarheid.
-skrifberyming 27 - ek geloof
+skrifberyming 27
 1	ek geloof in god die vader
-wat almagtig. wys en trou.
+wat almagtig. wys en trou
 skepper is van alle dinge
 en dit nog in wese hou.
 ek geloof in jesus christus.
@@ -9309,7 +9334,7 @@ uit die maagdelike skoot.
 wat gely het toe pilatus
 onregsvonnis het gevel -
 kruis en doodsmart ondergaan het.
-ál die angste van die hel.
+al die angste van die hel.
 3	wat die derde dag verrys het.
 daar die dood hom nie kon hou.
 na die hemel opgevaar het
@@ -9326,15 +9351,15 @@ ek geloof ’n heil’ge eenheid.
 wêreldwyd. in christus één.
 wat sy roepstem sal vergader.
 deur die lange eeue heen.
-5	ek geloof aan die gemeenskap
+5	ek geloof aan die gemeenskap.
 heilige verbintenis
-van wie almal saam ’n eenheid.
+van wie almal saam ’n eenheid
 in hul heer één liggaam is.
 ek geloof die skuldvergewing.
 weeropstanding van die vlees.
 en ’n lewe in eewge duurte.
 as die dood nie meer sal wees.
-skrifberyming 28 - onse vader
+skrifberyming 28
 1	o vader. in die hemel hoog.
 tot wie ons ophef hart en oog.
 ons bid in stille eerbiedenis.
@@ -9359,7 +9384,7 @@ ons is so swak. verlos ons van
 die bose as hy sy vangnet span.
 want u kom toe die majesteit
 en krag en eer in ewigheid.
-skrifberyming 29 - halleluja
+skrifberyming 29
 1	bo lug en wolke ’t ek gehoor
 die “halleluja” van ’n koor
 wat aarde en swerk laat beef het.
@@ -9401,21 +9426,21 @@ van opgesweepte bare.
 is aan sy woord gedagtig.
 die groot verlossingsdag is daar.
 hy het die koningskap aanvaar
-en heers as god almagtig.
+en heers as god almagtig.”
 8	“laat ons verheug wees en verblyd.
 en gee aan god die heerlikheid.
 ná leed wat ons gely het.
 staan nou die bruilofsmaal gereed.
 waarvoor die lam se bruid haar kleed
-van fynste stof berei het.
+van fynste stof berei het.”
 9	“dié skoonheid is aan haar gegee.
 gód het haar met dié kleed beklee
-van reine en regte dade
+van reine en regte dade.
 en - salig hy wat tot dié maal
 deur god genooi word en mag straal
 in daardie lofgewade.”
-skrifberyming 30 - ’n nuwe wêreld
-1	hy ’t my die lewenstroon getoon
+skrifberyming 30
+1	hy ’t my die lewenstroom getoon
 wat voortkom uit die hoë troon
 van god en van die lam. vanwaar
 dit vonkel soos kristal so klaar.
@@ -9439,7 +9464,7 @@ is daar nie meer. dit is verby.
 hul lamp en son is god die heer.
 hul sal ná smaad en druk en stryd
 as konings heers in ewigheid.
-skrifberyming 31 - christus triumphator
+skrifberyming 31
 1	toe sien ek teen die bloue vert’
 ’n ruiter op sy haelwit perd.
 en ’t was om hom stormagtig.
@@ -9476,7 +9501,7 @@ staan daar ’n naam der ere.
 dié oorlog het die pleit beslis
 dat hy die “hoogste koning” is.
 die “heer van alle here”.
-skrifberyming 32 - god is koning
+skrifberyming 32
 1	toe het die hoë lug gebeef
 en eng’lestem het neergesweef.
 “nou is die koninkryke weer
@@ -9495,7 +9520,7 @@ wat is en was en kom. - u mag.
 o koning. tree nou aan die dag.
 3	“die volke ’t woedend opgestaan -
 u toorn het hulle neergeslaan.
-grysskeemrend rys die oordeelsdag.
+grys-skeemrend rys die oordeelsdag.
 en see van dode op vonnis wag.
 verderwers van die aarde erf
 ’n eewge toestand van verderf.
@@ -9509,7 +9534,7 @@ daar ’s bliksems wat geen weerstand stuit
 en donderstemme gee geluid.
 die aarde beef. daar ’s haelslag -
 dit is die grote oordeelsdag.
-skrifberyming 33 - wat ’n liefde
+skrifberyming 33
 1	wat ’n liefde en volheidslewe.
 waar ons bly ons in beroem.
 het die vader ons gegewe
@@ -9534,7 +9559,7 @@ teen die sonde duur die stryd.
 “sonde is ongeregtigheid.
 maar ons lewe uit god gebore.
 is tot heilig-wees verkore.”
-skrifberyming 34 - die here is god
+skrifberyming 34
 1	die heer is god. ’n eenge heer.
 die heer is god. en niemand meer.
 erken dit. alle volke.
@@ -9568,10 +9593,10 @@ dat hy hom só gemaak het.
 maar nee. ons buig ootmoedig neer.
 ons wil die hoë hande eer
 wat ons só toeberei het.
-ons in dié hande altyd stel.
+ons in die hande altyd stel.
 as kinders. heer. die werk vertel
 waardeur u ons verbly het.
-skrifberyming 35 - soli deo gloria
+skrifberyming 35
 1	o dieptes vol geheimenis
 wat vir ons oog onpeilbaar is.
 o wysheidsbron en kennis wat
@@ -9582,8 +9607,8 @@ en dieper as die diepste seë.
 so onnaspeurlik is sy weë.
 2	het ooit ’n mens of hemeling
 in gods gedagtes deurgedring.
-of wie is daar so groot van gees.
-dat hy sư raadsman ooit kan wees.
+of wie is daar so groot van gees
+dat hy sý raadsman ooit kan wees.
 wie ’t eers aan god so ’n guns bewys
 dat hy van hom vergelding eis.
 wat is by god. so onvolprese.
@@ -9596,7 +9621,7 @@ tot hom is alle dinge wat
 hy met een wilsgreep gans omvat.
 aan hom. die god wat ewig lewe.
 sy ewig lof en eer gegewe.
-skrifberyming 36 - lofsang van die 144 000
+skrifberyming 36
 1	toe hoor ek uit die hemel uit
 ’n sangstem groot soos die geluid
 van golwe wat die seekus slaan.
@@ -9627,7 +9652,7 @@ geen valse skyn het hul verblind.
 geen leu’n is in hul mond gevind.
 geen letsel het húl aangekleef.
 wat nou by god in reinheid leef.
-skrifberyming 37 - oorwinnaarslied by die eindgerig
+skrifberyming 37
 1	toe sien ek soos ’n see van glas.
 deurstraal met geel-rooi vlammelig.
 en die oorwinnaars van die dier -
@@ -9652,7 +9677,7 @@ u ’s heilig. heer. die nasies kom
 om u die hoogste eer te gee.
 want nou het u regverdigheid
 grootglansend aan die dag getree.”
-skrifberyming 38 - die eerste liefde
+skrifberyming 38
 1	ek wat die sewe sterre dra
 wat vonkel in my regterhand.
 wat wandel waar die kandelaars.
@@ -9677,7 +9702,7 @@ aan die oorwinnaar in die stryd
 gee ek die lewensvolle spys.
 die altyd-nuwe vrugte van
 die keurboom in gods paradys.
-skrifberyming 39 - getrou tot die dood
+skrifberyming 39
 1	dit sê die eerste en laaste. hy
 wat dood was maar nie dood kon bly.
 ek ken jou werke en lydenslot.
@@ -9690,7 +9715,7 @@ en satans sinagoge is.
 die duiwel self sal jul bestry.
 jul mart’laarskap is kort van duur.
 jul lyde is gods beproewingsvuur.
-4	laat wie volhard in stryd en nood.
+4	laat wie volhard in stryd en nood
 getrou wees maar tot in die dood.
 en ’k gee hul as genadeloon
 die onverwelkb’re lewenskroon.
@@ -9698,7 +9723,7 @@ die onverwelkb’re lewenskroon.
 die drangroep wat die gees laat hoor.
 die eewge dood sal nimmermeer
 oor die oorwinnaar triomfeer.
-skrifberyming 40 - waak op
+skrifberyming 40
 1	ek wat die swaard dra. weerskant skerp.
 waarmee ’k my vyand neer sal werp.
 ek weet jou werke en waar jy woon -
@@ -9722,16 +9747,16 @@ om na my wil sy wil te buig.
 6	aan die oorwinnaar in die stryd
 skenk ek ’n groot verborgenheid.
 die manna uit die wildernis.
-maar een wat diep verborge is.
+maar een wat diep-verborge is.
 7	’n steen uit marmerberg vandaan.
 waarop sy naam geskrywe staan.
 gee ek aan hom. daar is geeneen
 wat dit kan lees. net hy alleen.
-skrifberyming 41 - bewaar my woord
+skrifberyming 41
 1	die seun van god. die hoogste heer.
 hy send sy magsbevele neer.
 sy oog is soos ’n vlam van vuur.
-sy voet soos koper. blink geskuur
+sy voet soos koper. blink geskuur.
 2	ek ken jou ywer. ongedoof.
 jou liefde en diens en jou geloof.
 jou lydsaamheid. nog onverkort.
@@ -9756,7 +9781,7 @@ wat hy. die vader. gee aan my.
 die môrester. gee ek aan hom.
 ontwaak dan. slapers van die nag.
 gee op die gees se roepstem ag.
-skrifberyming 42 - jy is dood
+skrifberyming 42
 1	ek wat die sewe geeste stuur
 uit wie die lewensvonke spat.
 en wat die sewe sterre omvat
@@ -9787,7 +9812,7 @@ wat ek voor al die eng’le saam
 en voor my vader sal bely. -
 al wie ’n hart het en ’n oor.
 laat hy die gees se roepstem hoor.
-skrifberyming 43 - omdat jy my woord bewaar het
+skrifberyming 43
 1	hy wat heilig en waaragtig
 en omkleed is met gesag.
 wat die sleutel dra van dawid.
@@ -9815,7 +9840,7 @@ sal hul bly voor jou getuig.
 4	omdat jy die woord bewaar het
 van my lyde en lydsaamheid.
 is ek jou ook ’n bewaarder
-in die uur van sware stryd
+in die uur van sware stryd.
 as die tye van besoeking
 (elke mond sal dan verstom.)
 oor die aarde en sy bewoners
@@ -9836,7 +9861,7 @@ daar skryf ek my nuwe naam ook.
 waar hy draer van sal wees.
 laat wie ore het. dan luister
 na die roepstem van die gees.
-skrifberyming 44 - wagtend staan ek voor die deur al
+skrifberyming 44
 1	dis die woord van hom. die amen.
 die getuie. trou en waar.
 die begin van god se skepping.
@@ -9847,9 +9872,9 @@ en daar rys vir jou ’n walging
 uit die grond van my gemoed.
 2	“ek is ryk. verryk.” so roem jy.
 en jy ken nie jou gebrek.
-dat jy. arm en blind. ellendig.
+dat jy arm en blind. ellendig.
 niks het om jou toe te dek.
-koop van my dan goud. gelouterd.
+koop van my dan goud gelouterd.
 wat die ware rykdom gee.
 koop van my die wit gewade
 wat jou. naakte. kan omklee.
@@ -9866,7 +9891,7 @@ waar ek aanklop. lank en luid.
 hoor dan een my roepstem buite.
 word vir my die deur ontsluit.
 dan sal ’k tot sy woning ingaan.
-na die maaltyd heengelei.
+na die maaltyd heengelei
 sal ’k in vriendskap met hom aansit.
 hy sal aansit saam met my.
 5	ek sal gee aan die oorwinnaar.
@@ -9877,7 +9902,7 @@ net soos ek ook met my vader
 triomfeer die wêreld oor.
 dis die gees se laaste roepstem -
 wie ’n oor het. laat hom hoor.
-skrifberyming 45 -die nuwe jerusalem
+skrifberyming 45
 1	hy het my die stad getoon.
 groot en van die hemel dalend.
 en. deur god se ligglans skoon.
@@ -9950,7 +9975,7 @@ ooit of immer binnekom.
 hul van wie die naam geskrywe
 in die lewensboek sal staan.
 húlle sal daar binnegaan.
-skrifberyming 46 - dag van wraak
+skrifberyming 46
 1	bo die kimme van verdwyning
 rys die marmerwit verskyning -
 oordeelstroon van god die heer.
@@ -9962,9 +9987,9 @@ klein en groot staan daar die dode.
 en die boeke ’t oopgegaan.
 ook die lewensboek met wisse.
 eewge naamgeheimenisse
-wat daarin geskrywe staan
+wat daarin geskrywe staan.
 3	alles deur die mens bedrywe.
-’s in dié boeke neergeskrywe
+in dié boeke ‘s neergeskrywe
 van die skeppingsdag af aan.
 alles - eeue word nou ure. -
 doem dan op uit dié skrifture.
@@ -9973,7 +9998,7 @@ dis waaroor die vonnis gaan.
 gee die wêreldwye seë
 hulle dode almal weer.
 dood en doderyk aan bewe.
-gee hul dode en oor hul lewe
+gee hul dode.  en oor hul lewe
 stryk die laaste vonnis neer.
 5	en die dood. die strawwe koning.
 met die doderyk. sy woning.
@@ -9981,7 +10006,7 @@ stort dan in hul vlammegraf.
 en wie dan nie staan geskrewe
 in die grootboek van die lewe.
 stort met hul die steiltes af.
-skrifberyming 47 - priesterlike seën
+skrifberyming 47
 1	die here sal ons seën.
 en hy sal ons behoed.
 die here sal sy aanskyn
@@ -9989,13 +10014,13 @@ altyd oor ons laat straal
 en ons genadig wees vir ewig.
 hy sal sy aangesig oor ons verhef
 en aan ons gee sy vrede.
-amen. a - men.
-skrifberyming 48 - apostoliese seën
+amen. amen.
+skrifberyming 48
 1	die genade van die here jesus christus
 en die liefde van god
 en die gemeenskap van die heil’ge gees.
 sy met ons almal. amen.
-skrifberyming 49 - môresang
+skrifberyming 49
 1	barmhartige en getroue god.
 beskikker van ons deel en lot.
 ons dank u vir die troue wag
@@ -10024,7 +10049,7 @@ wat u beklee met u gesag.
 hul hart vol angs tot u verhef.
 maak ons in teëspoede stil.
 hoor ons. o god. om jesus wil.
-skrifberyming 50 - aandsang
+skrifberyming 50
 1	o grote christus. eewge lig.
 niks is bedek vir u gesig.
 wat ons bestraal waar ons ook gaan.
@@ -10052,8 +10077,8 @@ genees die krankes in hul smart.
 7	o vader. laat u liefde ons blyk.
 o seun. maak ons u beeld gelyk.
 o gees. send u vertroosting neer.
-drie-eenge god. u sy al d’eer.
-skrifberyming 51 - ’n seun is gebore
+drie-eenge god. u sy al d’ eer.
+skrifberyming 51
 1	die volk wat in die donker wandel.
 oor hulle het ’n lig geskyn.
 die christus. lig oor alle lande.
@@ -10066,8 +10091,8 @@ waar hul mét u oorwinning smaak.
 het u met wondermag verbreek.
 die vyande wat ons verskrik het.
 verdwyn wanneer u almag spreek.
-n kind is vir u volk gebore.
-‘n seun het u aan ons gegee -
+’n kind is vir u volk gebore.
+’n seun het u aan ons gegee -
 die heerskappy is op sy skouer.
 met mag en eer is hy beklee.
 3	hy ’s wonderbaar. ’n eewge vader.
@@ -10078,7 +10103,7 @@ hy kom met vrede sonder einde.
 versterk dit deur geregtigheid -
 met ywer sal hy dit bevestig
 van nou af tot in ewigheid.
-skrifberyming 52 - jy is myne
+skrifberyming 52
 1	o jakob. hoor nou. luister.
 o israel. gee ag.
 so sê jou here. skepper.
@@ -10111,7 +10136,7 @@ laat al my skepsels nader.
 van verre vertes kom.
 my kinders sal vergader.
 my volle kindersom.”
-skrifberyming 53 - die wapenrusting van god
+skrifberyming 53
 1	versterk jul in die heer se krag.
 die krag wat nooit. ja nooit. sal taan.
 kom trek. gesterk deur god se mag.
@@ -10148,7 +10173,7 @@ gepreek word soos dit hoort.
 geheimenisse soet
 vrymoedig en met moed
 nou kragtig uit my boeie breek.
-skrifberyming 54 - oorwinningslied ná die deurtog
+skrifberyming 54
 1	ons troue heer. so hoog verhewe.
 wil ek besing. hy laat my lewe.
 hy werp die vyand in die see.
@@ -10166,7 +10191,7 @@ u werp hul neer wat teen u strewe.
 u laat u oordeel teen hul woed.
 hul word ’n stoppel in dié gloed.
 u waai die seestroom tot ’n wal.
-‘n watermuur wat nie kan val.
+’n watermuur wat nie kan val.
 4	ons vyand dink. “hul is oorwonne.
 my swaard kap dodelike wonde.”
 maar u kom blaas weer in die dal.
@@ -10184,14 +10209,14 @@ hul sidder voor die god wat lewe.
 én filistyn en edomiet.
 én moabiet en kanaäniet
 het almal stom van vrees versteen
-toe israel deurtrek deur hul heen.
-7 	u plant die volk wat deur u vry is
+toe isr’el deurtrek deur hul heen.
+7	u plant die volk wat deur u vry is
 in grond wat deur u voorberei is.
 dáár is u heiligdom en troon.
 daar waar u met u volk wil woon.
 daar staan u troon nou - maar ook méér.
 vir ewig sal die heer regeer.
-skrifberyming 55 - salig dié wat arm voor god is
+skrifberyming 55
 1	salig dié wat arm voor god is -
 húlle erf gods koninkryk.
 en wie treur. dié is gelukkig.
@@ -10207,21 +10232,21 @@ hulle sal die here sien.
 3	vredemakers is gelukkig -
 hul is kinders van die heer.
 hul wat ly vir reg en waarheid
-weet. god bly nog in beheer.
+weet.  god bly nog in beheer.
 wie hom volg. deur laster heen.
-wees verheug - god sal jul seën.
-skrifberyming 56 - al sou ek ook die tale spreek
+wees verheug - god sal jul seen.
+skrifberyming 56
 1	al sou ek ook die tale spreek
 van mense en eng’le. maar ontbreek
 in my die liefde. ú liefde. heer.
 is ek ’n klinkende metaal.
-‘n leë. luidende simbaal
+’n leë. luidende simbaal
 wat spreek. maar nie verstaan. of u eer.
 al kan ek profeteer in krag.
 geloof besit wat veel vermag.
 en kennis. deel my aardse goed.
 vergaan ek in ’n offergloed.
-maar het ek nie die liefde nie - u liefde nie
+maar het ek nie die liefde nie - u liefde nie -
 het ek voor u geen waarde nie.
 2	die liefde soos deur u gewek.
 is steeds lankmoedig. vriendelik.
@@ -10235,9 +10260,9 @@ dit sal vir ewig bly bestaan
 waar kennis. tale eens vergaan.
 wil u ons. heer. u liefde leer. dat ons steeds meer
 in liefde wandel. u vereer.
-skrifberyming 57 - ek sien ’n nuwe hemel kom
-1 	ek sien ’n nuwe hemel kom.
-‘n aarde nuut en vry.
+skrifberyming 57
+1	ek sien ’n nuwe hemel kom.
+’n aarde nuut en vry.
 die see en al wat skei. verdwyn.
 god self kom by ons bly.
 2	die nuwe stad. jerusalem.
@@ -10252,15 +10277,15 @@ ons moeite. angs en nood.
 “laat hom wat dors het. kom.
 en hy sal vind hy is my kind.
 ek is ’n gód vir hom.”
-5	oorwinnaars sal ons alles erf
+5	oorwinnaars. sal ons alles erf
 en drink uit die fontein
 van lewenswater. heerlik. rein.
 en god sal oor ons skyn.
-skrifberyming 58 - die tien gebooie
+skrifberyming 58
 1	god het gesê. “ek is die here
-wat jou uit sonde slawery
-gelei het na ’n nuwe lewe.
-jy mag geen god hê buiten my.”.
+wat jou uit sonde-slawerny
+gelei het tot ’n nuwe lewe.
+jy mag geen god hê. buiten my.”
 2	“vereer dan geen gesnede beelde.
 maak van my geen gelykenis.
 maar dien my wat. alomteenwoordig.
@@ -10280,7 +10305,7 @@ dra jou en ook jou nageslag.
 6	jy mag nie doodslaan of jou wreek nie.
 maar liefde moet jou lewe rig.
 jy mag die egband nie verbreek nie.
-behou god wat in liefde stig.
+behou wat god in liefde stig.
 7	jy mag nie van jou naaste steel nie.
 maar wees in wat jy doen. getrou.
 neem nie aan valse dinge deel nie -
@@ -10293,7 +10318,7 @@ die gees van god se heerskappy.
 ontdek ons steeds ons sondigheid.
 u gees bring ons die heil in christus
 dat ons kan leef uit dankbaarheid.
-skrifberyming 59 - ons vader wat woon in die hemel
+skrifberyming 59
 1	ons vader wat woon in die hemel.
 geheilig sy u naam.
 laat u ryk kom. u wil geskied
@@ -10306,14 +10331,14 @@ maar verlos ons van die bose.
 van u is die ryk en die sterkte en die ere.
 vir ewig en ewig. amen.
 vir ewig en ewig. amen.
-skrifberyming 60 - prys hom. die hemelvors
+skrifberyming 60
 1	prys hom. die hemelvors.
 op sy verhewe troon.
 loof hom aan wie die hemelkoor
 hul hulde steeds betoon.
 aan hom. die skepperheer.
 kom toe die eer en mag.
-sy woord het alles voortgebring -
+sy woord het alles voortgebring.
 roem ewig sy gesag.
 2	loof hom. die lam van god.
 want hy ’s vir ons geslag.
@@ -10322,7 +10347,7 @@ besing sy reddingsmag.
 uit elke stam en taal
 het hy ons vrygemaak.
 sy koninkryk. sy priesterdom -
-dit het hy ons gemaak.
+dít het hy ons gemaak.
 3	lof. eer en heerlikheid.
 die wysheid en die krag
 behoort aan god daar op die troon
@@ -10331,7 +10356,7 @@ tot in die ewigheid
 sal ons die lied laat hoor.
 die hele skepping oraloor
 roep “amen” in ’n koor.
-skrifberyming 61 - so lief het god die wêreld
+skrifberyming 61
 1	so lief het god die wêreld
 dat hy vir ons sy seun.
 sy enigste. gegee het -
@@ -10343,7 +10368,7 @@ as god se erfgenaam.
 2	die seun het nie kom oordeel -
 hy kom om vry te spreek.
 sy koms het oor die wêreld
-‘n nuwe dag laat breek.
+’n nuwe dag laat breek.
 maar hulle wat nie glo nie
 bly selfveroordeeld staan.
 die liefde vir die duister
@@ -10356,7 +10381,7 @@ maar wie. uit god gebore.
 die waarheid soek en doen.
 kom dankbaar na die lig toe
 as kind met god versoen.
-skrifberyming 62 - die regte tyd het aangebreek
+skrifberyming 62
 1	die regte tyd het aangebreek.
 die tyd deur god bestem -
 die vader stuur vir ons sy seun
@@ -10373,7 +10398,7 @@ aan hom gehoorsaam wees.
 en dank wil ons u bring.
 van al u vrede. liefde. guns
 sal ons vir ewig sing.
-skrifberyming 63 - christus. die seun. is beeld van god
+skrifberyming 63
 1	christus. die seun. is beeld van god -
 van god onsigbaar. gróót.
 hy is die eerste. hy alleen -
@@ -10392,13 +10417,13 @@ in die heelal sal hy dus wees
 die eerste - hoof en heer.
 5	god met sy volheid woon in hom.
 só het god self besluit.
-daarom kon hy versoening bring
+daarom kon hy versoening bring -
 gods vrede weer herstel.
 6	christus moes sterwe aan ’n kruis.
 hy moes sy bloed laat vloei.
 hemel en aarde. die heelal.
 is só met god versoen.
-skrifberyming 64 - dag van verlossing
+skrifberyming 64 - dag van verlossing. kyk. hy kom
 1	dag van verlossing. kyk. hy kom -
 gesalfde van die heer.
 op hom het god se gees gekom
@@ -10411,7 +10436,7 @@ genade ryk en vry.
 waar smart is. gee hy eer.
 sy volk wat sug in vreemde land
 herstel hy eind’lik weer.
-4	 welig en sterk in god se heil.
+4	welig en sterk in god se heil.
 geplant deur hom. die heer -
 sy priesters. dienaars. soos hul heet.
 besing sy roem en eer.
@@ -10423,7 +10448,7 @@ sy volk wat hom bly loof.
 want hy het ons genees.
 gered. getooi met bruilofsprag.
 ons vier oorwinningsfees.
-skrifberyming 65 - christus is my lewe
+skrifberyming 65
 1	u. christus. is my lewe.
 die sterwe wins vir my.
 in lewe en in sterwe
@@ -10444,7 +10469,7 @@ vir my nie ’n verlies.
 aan u is ek gewy.
 in lewe en in sterwe
 sal u steeds by my bly.
-skrifberyming 66 - lofwaardig is ons god
+skrifberyming 66
 1	lofwaardig is ons god. die heer -
 genade toon hy weer.
 hy gee aan ons. soos lank verwag.
@@ -10463,9 +10488,9 @@ die heer se pad moet jy berei
 dat hy sy lig kan bring.
 die skadutyd gaan nou verby
 en vrede sal deurdring.
-skrifberyming 67 - engele. met glans omgewe
+skrifberyming 67
 1	engele. met glans omgewe.
-sing in die nag. “aan god die ere.”
+sing in die nag. “aan god die ere”.
 herders hoor. húl loof die here.
 oor die veld klink die goeie nuus.
 2	hy. die christus. is gebore
@@ -10480,7 +10505,7 @@ haastig gaan hul om hom te sien.
 saam met die herders bring ons ere.
 oor en oor - ja. talle kere.
 sal ons hulde aan jesus bring.
-skrifberyming 68 - ere aan god
+skrifberyming 68
 1	ere aan god. ere aan god
 in die hoogste. in die hoogste.
 in die hoogste.
@@ -10490,7 +10515,7 @@ ere aan god in die hoogste.
 ere aan god in die hoogste.
 vrede op aarde. vrede op aarde.
 vrede op aarde. vrede op aarde.
-in die mense. in die mense ’n welbehae
+in die mense. in die mense ’n welbehae -
 in die mense ’n welbehae. ’n welbehae.
 ere aan god. ere aan god
 in die hoogste. in die hoogste.
@@ -10498,7 +10523,7 @@ in die hoogste.
 vrede op aarde. vrede op aarde.
 in die mense ’n welbehae.
 amen. amen.
-skrifberyming 69 - gees- & bruidroep.
+skrifberyming 69
 1	die begin en einde.
 alfa en omega.
 hoor. dis ek wat kom.
@@ -10507,7 +10532,7 @@ tot jy deur die poorte
 veilig binnekom.
 buite bly die bose staan.
 sondaars wat voor god nie bewe.
-- jư ontvang die lewe.
+- jý ontvang die lewe.
 2	ek. die heer van here.
 koningskind van ere.
 kom in krag met mag.
@@ -10517,7 +10542,7 @@ skitterblink van verre.
 en die gees en bruid roep uit.
 “jesus. here. kom in ere.
 kom tog gou. o here.”
-skrifberyming 70 - voor u wet. heer. staan ons skuldig
+skrifberyming 70
 1	voor u wet. heer. staan ons skuldig.
 liefde is die groot gebod.
 liefde is ons steeds verskuldig
@@ -10534,9 +10559,9 @@ ons weet. ver is reeds die nag.
 ken die tydsomstandighede -
 weldra breek die volle dag.
 wek ons. heer. uit valse vrede.
-skrifberyming 71 - apostoliese geloofsbelydenis
+skrifberyming 71
 1	ek glo in god die vader. die almagtige.
-die skepper van die hemel en aarde.
+die skepper van hemel en aarde.
 en in jesus christus. sy eniggebore seun. ons here.
 wat ontvang is van die heilige gees.
 gebore uit die maagd maria.
@@ -10554,8 +10579,8 @@ die gemeenskap van die heiliges. die vergewing van sondes.
 die opstanding van die liggaam en ’n ewige lewe.
 .
 <verwysings uitgehaal>
-** om te oordeel die wat lewe en die wat reeds gesterf het.
-skrifberyming 72 - enigste here. enkele wese
+** om te oordeel die wat lewe en die wat reeds gesterf het
+skrifberyming 72
 1	enigste here. enkele wese.
 ons glo in u met ons hele hart.
 heerlik bely ons. vry-uit getuig ons.
@@ -10564,10 +10589,10 @@ u is vir ewig god en heer.
 altyd dieselfde. oneindig groot.
 u is almagtig. wys en regverdig -
 u is die bron van alle goed.
-skrifberyming 73 - waak. christen. staan in die geloof
+skrifberyming 73
 1	waak. christen. staan in die geloof
 dat niemand jou die kroon ontroof.
-wees wys en dapper. sterk en moedig.
+wees wys en dapper. sterk en moedig
 - steeds toegewy aan god se werk.
 standvastig. onbeweeglik. sterk.
 vol ywer. altyd meer oorvloedig -
@@ -10589,7 +10614,7 @@ in opdrag van die groot gebod.
 uit liefde tot die naaste handel.
 o god. staan met u gees ons by
 sodat u liefde in ons bly.
-skrifberyming 74 - al sou dan ook die vyeboom
+skrifberyming 74
 1	al sou dan ook die vyeboom nie bot nie.
 al sou die wingerd sonder druiwe staan.
 die graan verdor. die vrugteboorde wegkwyn.
@@ -10598,7 +10623,7 @@ nóg sal ek juig en bly wees in my god.
 hy is my hulp. hy gee my krag.
 hy laat my loop waar rats die ribbok gaan.
 hy laat my vas en veilig staan.
-skrifberyming 75 - gebed vir die kerke
+skrifberyming 75
 1	ek buig voor god die vader biddend neer.
 voor hom deur wie gelowiges mag lewe.
 dié reeds verhoog. in hemele verhewe.
@@ -10613,20 +10638,20 @@ mag julle wat met almal saam gelowe.
 dit in gods volheid ken en klaar ontdek.
 4	aan hom wat kragtiger in ons kan werk
 as wat ons bid of dink - aan hom. die here.
-bring ons ín christus ewig. ewig ere.
+bring ons in christus ewig. ewig ere.
 amen. aan hóm die ere in die kerk.
-skrifberyming 76 - amen
+skrifberyming 76
 1	a - men. a - men. a - men.
 a - men. a - men. a - men.
-skrifberyming 77 - amen
+skrifberyming 77
 1	a - men. a - men. a - men.
-skrifberyming 78 - amen
+skrifberyming 78
 1	a - men. a - men. a - men.
-skrifberyming 79 - amen
+skrifberyming 79
 1	a - men. a - men. a - men.
 sondag 1
 1	wat is jou enigste troos in lewe en in sterwe.
-dat ek met liggaam en siel in lewe en in sterwe* nie aan myself* nie. maar aan my getroue verlosser. jesus christus behoort*. hy het met sy kosbare bloed vir al my sondes ten volle betaal* en my uit alle heerskappy van die duiwel verlos*. hy bewaar* my op so ’n wyse dat. sonder die wil van my hemelse vader. geen haar van my kop kan val nie*. alles moet inderdaad tot my saligheid dien*. daarom verseker hy my ook deur sy heilige gees van die ewige lewe* en maak hy my van harte gewillig en bereid om voortaan vir hom te lewe*.
+dat ek met liggaam en siel in lewe en in sterwe* nie aan myself* nie. maar aan my getroue verlosser. jesus christus behoort*. hy het met sy kosbare bloed vir al my sondes ten volle betaal* en my uit alle heerskappy van die duiwel verlos*. hy bewaar* my op so ’n wyse dat sonder die wil van my hemelse vader. geen haar van my kop kan val nie*. alles moet inderdaad tot my saligheid dien*. daarom verseker hy my ook deur sy heilige gees van die ewige lewe* en maak hy my van harte gewillig en bereid om voortaan vir hom te lewe*.
 <verwysings uitgehaal>
 2	hoeveel dinge moet jy weet om in hierdie troos salig te kan lewe en sterwe.
 drie dinge*. ten eerste. hoe groot my sonde en ellende is*. ten tweede. hoe ek van al my sonde en ellende verlos word* en ten derde hoe ek god vir so ’n verlossing dankbaar moet wees*.
@@ -10636,7 +10661,7 @@ sondag 2
 uit die wet van god*.
 <verwysings uitgehaal>
 4	wat eis die wet van god van ons.
-dit leer christus ons samevattend in matteus 22.3740. jy moet die here jou god liefhê met jou hele hart en met jou hele siel en met jou hele verstand. dit is die eerste en groot gebod. en die tweede wat hiermee gelyk staan. jy moet jou naaste liefhê soos jouself. aan hierdie twee gebooie hang die hele wet en die profete*.
+dit leer christus ons samevattend in matteus 22.37-40. jy moet die here jou god liefhê met jou hele hart en met jou hele siel en met jou hele verstand. dit is die eerste en groot gebod. en die tweede wat hiermee gelyk staan. jy moet jou naaste liefhê soos jouself. aan hierdie twee gebooie hang die hele wet en die profete*.
 <verwysings uitgehaal>
 5	kan jy dit alles ten volle nakom.
 nee*. want ek is van nature geneig om god en my naaste te haat*.
@@ -10645,7 +10670,7 @@ sondag 3
 6	het god die mens dan so sondig en verkeerd geskep.
 nee. god het die mens goed* en na sy ewebeeld geskep*. dit beteken. in ware geregtigheid en heiligheid. sodat hy god sy skepper reg kon ken. hom van harte kon liefhê en saam hom in die ewige saligheid kon lewe om hom te loof en te prys*.
 <verwysings uitgehaal>
-7	waar kom hierdie verdorwe natuur van die mens dan vandaan.
+7	waar kom hierdie verdorwe natuur van mens dan vandaan.
 van die val en ongehoorsaamheid van ons eerste ouers. adam en eva. in die paradys*. daar het ons natuur so verdorwe geraak dat ons almal in sonde ontvang en gebore word*.
 <verwysings uitgehaal>
 8	is ons so verdorwe dat ons glad nie in staat is om iets goeds te doen nie en tot alle kwaad geneig is.
@@ -10663,7 +10688,7 @@ god is wel barmhartig*. maar hy is ook regverdig*. daarom eis sy geregtigheid da
 <verwysings uitgehaal>
 sondag 5
 12	aangesien ons volgens die regverdige oordeel van god die tydelike en ewige straf verdien het. hoe kan ons van hierdie straf bevry en weer in genade aangeneem word.
-god wil dat daar aan sy geregtigheid voldoen word*. daarom moet ons óf deur onsself óf deur ’n ander ten volle betaal*.
+god wil dat daar aan sy geregtigheid voldoen word*. daarom moet ons òf deur onsself òf deur ’n ander ten volle betaal*.
 <verwysings uitgehaal>
 13	kan ons deur onsself betaal.
 nee. glad nie. ons maak juis ons skuld elke dag nog groter*.
@@ -10679,35 +10704,37 @@ sondag 6
 omdat die geregtigheid van god eis dat die menslike natuur wat gesondig het. vir die sonde moet betaal*. maar die mens wat self sondaar is. kan nie vir ander betaal nie*.
 <verwysings uitgehaal>
 17	waarom moet hy terselfdertyd ware god wees.
-om deur die krag van sy godheid* die las van die toorn van god* aan sy mensheid te kan dra* en vir ons die geregtigheid en die lewe te kan verwerf en teruggee*.
+om deur die krag van sy godheid* die las van die toorn van god* aan sy mensheid te kon dra* en vir ons die geregtigheid en die lewe te kan verwerf en teruggee*.
 <verwysings uitgehaal>
 18	wie is hierdie middelaar wat terselfdertyd ware god* en ware* regverdige mens is*.
+<verwysings uitgehaal>
 ons here jesus christus*. wat god vir ons tot wysheid. geregtigheid. heiligmaking en volkome verlossing gegee het*.
 <verwysings uitgehaal>
 19	waaruit weet jy dit.
-uit die heilige evangelie. wat god self aanvanklik in die paradys bekend gemaak het*. daarna het hy dit deur die heilige aartsvaders* en profete* laat verkondig en deur die offers en ander seremonies van die wet laat uitbeeld.*. eindelik het hy dit deur sy eniggebore seun vervul*.
+uit die heilige evangelie. wat god self aanvanklik in die paradys bekend gemaak het*. daarna het hy dit deur die heilige aartsvaders* en profete* laat verkondig en deur die offers en ander seremonies van die wet laat uitbeeld*. eindelik het hy dit deur sy eniggebore seun vervul*.
 <verwysings uitgehaal>
 sondag 7
 20	word al die mense dan weer deur christus salig soos hulle deur adam verlore gegaan het.
 nee*. maar slegs die wat deur ’n ware geloof in hom ingelyf word en al sy weldade aanneem*.
 <verwysings uitgehaal>
 21	wat is ’n ware geloof.
-‘n ware geloof is nie alleen ’n vasstaande kennis waar-deur ek alles wat god in sy woord aan ons geopenbaar het* vir waar aanvaar nie. maar ook ’n vaste vertroue* wat die heilige gees* deur die evangelie in my hart werk*. naamlik dat god nie net aan ander nie. maar ook aan my uit loutere genade. slegs op grond van die verdienste van christus*. vergewing van sondes. ewige geregtigheid en saligheid* geskenk het.
+’n ware geloof is nie alleen ’n vasstaande kennis waardeur ek alles wat god in sy woord aan ons geopenbaar het vir waar aanvaar nie*. maar ook ’n vaste vertroue* wat die heilige gees* deur die evangelie in my hart werk*. naamlik dat god nie net aan ander nie. maar ook aan my uit loutere genade. slegs op grond van die verdienste van christus*. vergewing van sondes. ewige geregtigheid en saligheid* geskenk het.
 <verwysings uitgehaal>
 22	wat moet ’n christen glo.
 alles wat in die evangelie aan ons beloof word* en wat die artikels van ons algemene en ongetwyfelde christelike geloof ons in hoofsaak leer.
 <verwysings uitgehaal>
 23	hoe lui die artikels.
-(1) ek glo in god die vader. die almagtige. die skepper van die hemel en die aarde. (2) en in jesus christus. sy eniggebore seun. ons here. (3) wat ontvang is van die heilige gees. gebore uit die maagd maria. (4) wat gely het onder pontius pilatus. gekruisig is. gesterf het en begrawe is en neergedaal het na die hel. (5) wat op die derde dag weer opgestaan het uit die dood. (6) opgevaar het na die hemel en sit aan die regterhand van god. die almagtige vader. (7) waarvandaan hy sal kom om die lewendes en die dooies te oordeel. (8) ek glo in die heilige gees. (9) ek glo aan ’n heilige. algemene. christelike kerk. die gemeenskap van die heiliges. (10) die vergewing van sondes. (11) die opstanding van die liggaam (12) en ’n ewige lewe.
+(1) ek glo in god die vader. die almagtige. die skepper van die hemel en die aarde. (2) en in jesus christus. sy eniggebore seun. ons here. (3) wat ontvang is van die heilige gees. gebore uit die maagd maria. (4) wat gely het onder pontius pilatus. gekruisig is. gesterf het en begrawe is. hy het die lyding van die hel ondergaan*. (5) hy het op die derde dag opgestaan uit die dood. (6) opgevaar het na die hemel en sit aan die regterhand van god. die almagtige vader. (7) waarvandaan hy sal kom om die lewendes en die dooies te oordeel. (8) ek glo in die heilige gees. (9) ek glo aan ’n heilige. algemene. christelike kerk. die gemeenskap van die heiliges. (10) die vergewing van sondes. (11) die opstanding van die liggaam(12) en ’n ewige lewe.* letterlik. en neergedaal het na die hel.
 sondag 8
 24	hoe word hierdie artikels ingedeel.
 in drie dele. die eerste handel oor god die vader en ons skepping. die tweede oor god die seun en ons verlossing. die derde oor god die heilige gees en ons heiligmaking.
 25	terwyl daar maar tog net een. enige goddelike wese is*. waarom praat jy van drie. naamlik die vader. seun en heilige gees.
+<verwysings uitgehaal>
 omdat god hom so in sy woord geopenbaar het* dat hierdie drie onderskeie persone die enige. ware en ewige god is.
 <verwysings uitgehaal>
 sondag 9
 26	wat glo jy as jy sê. ek glo in god die vader. die almagtige. die skepper van die hemel en die aarde.
-ek glo dat die ewige vader van ons here jesus christus wat die hemel en aarde met alles wat daarin is. uit niks geskep het* en deur sy ewige raad en voorsienigheid nog onderhou en regeer*. ter wille van sy seun christus my god en vader is.* op hom vertrou ek so dat ek nie daaraan twyfel dat hy my. met alles wat vir liggaam en siel nodig is. sal versorg nie*. hy sal ook al die kwaad wat hy in hierdie jammerdal oor my beskik. tot my beswil verander*. omdat hy dit as ’n almagtige god kan* en ook as ’n getroue vader wil doen*.
+ek glo dat die ewige vader van ons here jesus christus wat die hemel en aarde met alles wat daarin is. uit niks geskep het* en deur sy ewige raad en voorsienigheid nog onderhou en regeer*. ter wille van sy seun christus my god en vader is*. op hom vertrou ek so dat ek nie daaraan twyfel dat hy my. met alles wat vir liggaam en siel nodig is. sal versorg nie*. hy sal ook al die kwaad wat hy in hierdie jammerdal oor my beskik. tot my beswil verander*. omdat hy dit as ’n almagtige god kan* en ook as ’n getroue vader wil doen*.
 <verwysings uitgehaal>
 sondag 10
 27	wat verstaan jy onder die voorsienigheid van god.
@@ -10721,13 +10748,14 @@ sondag 11
 omdat hy ons van al ons sondes verlos* en by niemand anders enige saligheid te soek of te kry is nie*.
 <verwysings uitgehaal>
 30	glo die mense wat hulle saligheid en heil by die heiliges. by hulleself of iewers anders soek. ook in die enigste verlosser. jesus.
-nee. maar hulle verloën met die daad die enigste ver-losser as heiland. jesus. alhoewel hulle met die mond in hom roem*. slegs een van twee dinge is immers moontlik. of jesus is nie ’n volkome verlosser nie. of die wat hierdie verlosser met ’n ware geloof aanneem. het in hom alles wat vir hulle saligheid nodig is*.
+nee. maar hulle verloën met die daad die enigste verlosser as heiland. jesus. alhoewel hulle met die mond in hom roem*. slegs een van twee dinge is immers moontlik. of jesus is nie ’n volkome verlosser nie. of die wat hierdie verlosser met ’n ware geloof aanneem. het in hom alles wat vir hulle saligheid nodig is*.
 <verwysings uitgehaal>
 sondag 12
 31	waarom word hy christus. wat gesalfde beteken. genoem.
 omdat hy deur god die vader bestem en aangestel en met die heilige gees gesalf is* tot ons hoogste profeet en leraar*. wat aan ons die verborge raad en wil van god aangaande ons verlossing ten volle bekend gemaak het*. tot ons enigste hoëpriester*. wat ons met die enige offer van sy liggaam verlos het* en met sy voorbidding gedurigdeur by die vader vir ons intree*. tot ons ewige koning. wat ons met sy woord en gees regeer en ons by die verlossing wat verwerf is. beskerm en bewaar*.
 <verwysings uitgehaal>
 32	waarom word jy ’n christen genoem*.
+<verwysings uitgehaal>
 omdat ek deur die geloof ’n lid van christus is* en daardeur deel aan sy salwing het* sodat ek sy naam kan bely*. myself as ’n lewende dankoffer aan hom kan toewy* en in hierdie lewe met ’n vrye gewete teen die sonde en die duiwel kan stry* en hierna met christus in ewigheid oor alle skepsels kan regeer*.
 <verwysings uitgehaal>
 sondag 13
@@ -10745,17 +10773,17 @@ dat die ewige seun van god. wat ware en ewige god is* en bly*. die ware menslike
 dat hy ons middelaar is*. en met sy onskuld en volkome heiligheid my sonde waarin ek ontvang en gebore is. voor god bedek*.
 <verwysings uitgehaal>
 sondag 15
-37	wat verstaan jy onder die woordjie gely.
+37	wat verstaan jy onder die woordjie. gely.
 dat christus na liggaam en siel tydens sy hele lewe op aarde. maar veral aan die einde daarvan die toorn van god teen die sonde van die hele menslike geslag gedra het*. so het hy met sy lyding as die enigste versoeningsoffer* ons liggaam en siel van die ewige verdoemenis verlos* en vir ons die genade van god. die geregtigheid en die ewige lewe verwerf*.
 <verwysings uitgehaal>
 38	waarom het hy onder die regter pontius pilatus gely.
 sodat hy onskuldig deur die wêreldlike regter veroordeel sou word* en ons daardeur sou bevry van die streng oordeel van god wat oor ons moes kom*.
 <verwysings uitgehaal>
 39	sit daar iets meer in dat christus juis gekruisig is en nie op ’n ander manier gesterf het nie.
-ja. want daardeur is ek seker dat hy die vervloeking wat op my gerus het. op hom geneem het*. omdat die kruisdood deur god vervloek is*
+ja. want daardeur is ek seker dat hy die vervloeking wat op my gerus het. op hom geneem het*. omdat die kruisdood deur god vervloek is*.
 <verwysings uitgehaal>
 sondag 16
-40	waarom was dit noodsaaklik dat christus hom tot in die dood verneder het.
+40	waarom was dit noodsaaklik dat christus hom tot in die dood toe verneder het.
 weens die geregtigheid en waarheid van god* kon nie anders as deur die dood van die seun van god vir ons sondes betaal word nie*.
 <verwysings uitgehaal>
 41	waarom is hy begrawe.
@@ -10765,17 +10793,17 @@ om daarmee die versekering te gee dat hy werklik gesterf het*.
 ons dood is nie ’n betaling vir ons sondes nie*. maar slegs ’n afsterwe van die sondes en ’n deurgang tot die ewige lewe*.
 <verwysings uitgehaal>
 43	watter nut verkry ons nog verder uit die offer en dood van christus aan die kruis.
-deur sy krag word ons ou mens saam met hom gekruisig. gedood en begrawe*. gevolglik kan ons sondige begeertes nie meer oor ons heers nie.* maar kan ons onsself as ’n dankoffer aan hom toewy*.
+deur sy krag word ons ou mens saam met hom gekruisig. gedood en begrawe*. gevolglik kan ons sondige begeertes nie meer oor ons heers nie*. maar kan ons onsself as ’n dankoffer aan hom toewy*.
 <verwysings uitgehaal>
-44	waarom volg daar. neergedaal het na die hel.
+44	waarom volg daar. hy het die lyding van die hel ondergaan - letterlik. en neergedaal het na die hel.
 sodat ek in my swaarste aanvegtinge verseker kan wees en myself volkome kan vertroos dat my here jesus christus my van die hel se benoudheid en pyn verlos het*. hierdie verlossing het hy bewerk deur sy onuitspreeklike angs. smarte en verskrikking* wat hy ook aan sy siel deur sy hele lewe. maar veral aan die kruis gely het.
 <verwysings uitgehaal>
 sondag 17
 45	watter nut het die opstanding van christus vir ons.
-ten eerste het hy deur sy opstanding die dood oorwin sodat hy ons die geregtigheid wat hy deur sy dood verwerf het. deelagtig kon maak*. ten tweede word ons nou ook deur sy krag tot ’n nuwe lewe opgewek*. ten derde is die opstanding van christus vir ons ’n betroubare waarborg van ons salige opstanding*.
+ten eerste het hy deur sy opstanding die dood oorwin sodat hy ons die geregtigheid wat hy deur sy dood verwerf het. deelagtig kon maak*. ten tweede word ons nou ook deur sy krag tot ’n nuwe lewe opgewek*. ten derde is die opstanding van christus vir ons n betroubare waarborg van ons salige opstanding*.
 <verwysings uitgehaal>
 sondag 18
-46	wat verstaan jy onder. opgevaar het na die hemel.
+46	wat verstaan jy onder. wat opgevaar het na die hemel.
 christus is voor die oë van sy dissipels van die aarde af na die hemel opgeneem* en hy is vir ons daar ten goede* totdat hy terugkom om reg te spreek oor die lewendes en die wat alreeds gesterf het*.
 <verwysings uitgehaal>
 47	is christus dan nie by ons tot die einde van die wêreld soos hy ons beloof het nie*.
@@ -10799,17 +10827,17 @@ dat ek in alle droefheid en vervolging dieselfde persoon met gespanne verwagting
 <verwysings uitgehaal>
 sondag 20
 53	wat glo jy van die heilige gees.
-ten eerste is hy saam met die vader en die seun ware en ewige god*. ten tweede is hy ook aan my gegee* sodat hy my deur ’n ware geloof deel laat kry aan christus en al sy weldade.* my troos* en ewig by my bly*.
+ten eerste is hy saam met die vader en die seun ware en ewige god*. ten tweede is hy ook aan my gegee* sodat hy my deur ’n ware geloof deel laat kry aan christus en al sy weldade*. my troos* en ewig by my bly*.
 <verwysings uitgehaal>
 sondag 21
 54	wat glo jy van die heilige. algemene. christelike kerk.
 dat die seun van god* uit die hele menslike geslag* vir hom ’n gemeente wat tot die ewige lewe uitverkies is*. deur sy gees en woord* in die eenheid van die ware geloof* van die begin van die wêreld af tot die einde toe* vergader. beskerm en onderhou* en dat ek daarvan ’n lewende lid is* en ewig sal bly*.
 <verwysings uitgehaal>
 55	wat verstaan jy onder die gemeenskap van die heiliges.
-ten eerste dat die gelowiges. almal saam en elkeen af-sonderlik. as lede met die here christus gemeenskap en aan al sy skatte en gawes deel het*. ten tweede dat elkeen verplig is om sy gawes gewillig en met vreugde tot nut en saligheid van die ander lede aan te wend*.
+ten eerste dat die gelowiges. almal saam en elkeen afsonderlik. as lede met die here christus gemeenskap en aan al sy skatte en gawes deel het*. ten tweede dat elkeen verplig is om sy gawes gewillig en met vreugde tot nut en saligheid van die ander lede aan te wend*.
 <verwysings uitgehaal>
 56	wat glo jy van die vergewing van die sondes.
-dat god. op grond van die voldoening van christus. aan al my sondes en ook my sondige aard waarteen ek my lewe lank moet stry nooit meer* wil dink nie. uit genade wil hy aan my die geregtigheid van christus skenk* sodat ek nooit in die strafgerig van god sal kom nie*.
+dat god. op grond van die voldoening van christus. aan al my sondes en ook my sondige aard waarteen ek my lewe lank moet stry*. nooit meer wil dink nie. uit genade wil hy aan my die geregtigheid van christus skenk* sodat ek nooit in die strafgerig van god sal kom nie*.
 <verwysings uitgehaal>
 sondag 22
 57	watter troos gee die opstanding van die liggaam aan jou.
@@ -10823,7 +10851,7 @@ sondag 23
 dat ek in christus voor god geregverdig en ’n erfgenaam van die ewige lewe is*.
 <verwysings uitgehaal>
 60	hoe is jy regverdig voor god.
-slegs deur ’n ware geloof in jesus christus*. so dat al kla my gewete my aan dat ek teen al die gebooie van god swaar gesondig het en nie een daarvan gehou het nie* en dat ek nog gedurigdeur tot alle kwaad geneig is*. god nogtans* aan my sonder enige verdienste van my kant*. uit louter genade* die volkome genoegdoening*. geregtigheid en heiligheid van christus skenk*. dit reken hy my toe asof ek nooit sonde gehad of gedoen het nie. asof ek self al die gehoorsaamheid volbring het wat christus vir my volbring het*. aan hierdie weldaad het ek deel vir sover ek dit met ’n gelowige hart* aanneem.
+slegs deur ’n ware geloof in jesus christus*. so dat al kla my gewete my aan dat ek teen al die gebooie van god swaar gesondig het en nie een daarvan gehou het nie* en dat ek nog gedurigdeur tot alle kwaad geneig is*. god nogtans aan my sonder enige verdienste van my kant*. uit louter genade* die volkome genoegdoening*. geregtigheid en heiligheid van christus* skenk*. dit reken hy my toe asof ek nooit sonde gehad of gedoen het nie. asof ek self al die gehoorsaamheid volbring het wat christus vir my volbring het*. aan hierdie weldaad het ek deel vir sover ek dit met ’n gelowige hart* aanneem.
 <verwysings uitgehaal>
 61	waarom sê jy dat jy slegs deur die geloof regverdig is.
 nie dat ek op grond van die waarde van my geloof vir god aanneemlik is nie. maar omdat slegs die genoegdoening. geregtigheid en heiligheid van christus my geregtigheid voor god is*. en dit kan ek nie anders as slegs deur die geloof aanneem en my eie maak nie*.
@@ -10858,13 +10886,15 @@ so. christus het die uitwendige waterbad ingestel*. daarby het hy beloof* dat ek
 dit beteken om van god vergewing van sonde uit genade te ontvang ter wille van die bloed van christus wat hy in sy offer aan die kruis vir ons gestort het*. verder. om deur die heilige gees vernuwe en as lede van christus geheilig te wees sodat ons die sonde hoe langer hoe meer afsterwe en godvresend en onbesproke lewe*.
 <verwysings uitgehaal>
 71	waar het christus ons belowe dat hy ons net so seker met sy bloed en gees wil was as wat ons met die doopwater gewas word.
-met die instelling van die doop wat soos volg lui. gaan dan heen. maak dissipels van al die nasies en doop hulle in die naam van die vader en die seun en die heilige gees … (matt 28.19). en. hy wat glo en hom laat doop. sal gered word. maar hy wat nie glo nie. sal veroordeel word (mark 16.16). hierdie belofte word ook herhaal waar die skrif die doop die bad van die wedergeboorte en die afwassing van die sondes noem (tit 3.5. hand 22.16).
+met die instelling van die doop wat soos volg lui. “gaan dan heen. maak dissipels van al die nasies en doop hulle in die naam van die vader en die seun en die heilige gees...”*. en. “hy wat glo en hom laat doop. sal gered word. maar hy wat nie glo nie. sal veroordeel word”*. hierdie belofte word ook herhaal waar die skrif die doop die bad van die wedergeboorte en die afwassing van die sondes noem*.
+<verwysings uitgehaal>
 sondag 27
 72	is die uitwendige. waterbad self dan die afwassing van die sonde.
 nee*. want alleen die bloed van jesus christus en die heilige gees reinig ons van alle sondes*.
 <verwysings uitgehaal>
 73	waarom noem die heilige gees die doop dan die bad van die wedergeboorte en die afwassing van die sondes.
-god sê dit nie sonder gewigtige rede nie. hy wil ons naamlik daarmee leer dat die bloed en gees van christus ons sondes so wegneem soos die water die vuilheid van die liggaam wegneem. verder wil hy ons veral deur hierdie goddelike waarborg en teken verseker dat ons net so werklik geestelik van ons sondes gewas is as wat ons liggaam uitwendig met water gewas word.
+god sê dit nie sonder gewigtige redes nie. hy wil ons naamlik daarmee leer dat die bloed en gees van christus ons sondes so wegneem soos die water die vuilheid van die liggaam* wegneem. verder wil hy ons veral deur hierdie goddelike waarborg en teken verseker dat ons net so werklik geestelik van ons sondes gewas is as wat ons liggaam uitwendig met water gewas word*.
+<verwysings uitgehaal>
 74	moet die jong kinders ook gedoop word.
 ja. aangesien hulle net soos die volwassenes in die verbond van god en sy gemeente ingesluit is*. ook aan hulle word nie minder as aan die volwassenes deur die bloed van christus die verlossing van die sondes* en die heilige gees wat die geloof werk*. beloof nie. daarom moet hulle ook deur die doop as teken van die verbond in die christelike kerk ingelyf en van die kinders van die ongelowiges onderskei word*. so is dit in die ou verbond deur die besnydenis gedoen* in die plek waarvan die nuwe verbond die doop ingestel is*.
 <verwysings uitgehaal>
@@ -10876,11 +10906,11 @@ christus het my en alle gelowiges beveel om tot sy gedagtenis van hierdie gebree
 dit beteken nie slegs om met ’n gelowige hart die hele lyding en sterwe van christus aan te neem en daardeur vergewing van sondes en die ewige lewe te verkry nie*. dit beteken boonop om deur die heilige gees. wat tegelyk in christus en in ons woon. al hoe meer so met sy geseënde liggaam verenig te word*. dat ons vlees van sy vlees en been van sy gebeente is*. al is christus nou in die hemel* en ons op die aarde. dit wil se dat ons deur een gees - soos die ledemate van die liggaam deur een siel - ewig lewe en geregeer word*.
 <verwysings uitgehaal>
 77	waar het christus beloof dat hy die gelowiges so seker met sy liggaam en bloed sal voed en verkwik as wat hulle van hierdie gebreekte brood eet en uit hierdie beker drink.
-by die instelling van die nagmaal wat soos volg lui*. in die nag waarin hy verraai is. het die here jesus brood geneem. en nadat hy gedank het. het hy dit gebreek en gesê. neem. eet. dit is my liggaam wat vir julle gebreek word. doen dit tot my gedagtenis. net so ook die beker ná die ete met die woorde. hierdie beker is die nuwe testament in my bloed. doen dit. so dikwels as julle daaruit drink. tot my gedagtenis. want so dikwels as julle van hierdie brood eet en hierdie beker drink. verkondig julle die dood van die here totdat hy kom (1 kor 11.23-26). hierdie belofte word ook deur paulus herhaal waar hy sê. die beker van danksegging wat ons met danksegging seën. is dit nie die gemeenskap met die bloed van christus nie. die brood wat ons breek. is dit nie die gemeenskap met die liggaam van christus nie. omdat dit een brood is. is ons almal een liggaam. want ons het almal deel aan die een brood (1 kor 10.16. 17).
+by die instelling van die nagmaal wat soos volg lui*. “in die nag waarin hy verraai is. het die here jesus brood geneem. en nadat hy gedank het. het hy dit gebreek en gesê. neem. eet. dit is my liggaam wat vir julle gebreek word. doen dit tot my gedagtenis. net so ook die beker ná die ete met die woorde. hierdie beker is die nuwe testament in my bloed. doen dit. so dikwels as julle daaruit drink. tot my gedagtenis. want so dikwels as julle van hierdie brood eet en hierdie beker drink. verkondig julle die dood van die here totdat hy kom”*. hierdie belofte word ook herhaal deur paulus waar hy sê. “die beker van danksegging wat ons met danksegging seën. is dit nie die gemeenskap met die bloed van christus nie. die brood wat ons breek. is dit nie die gemeenskap met die liggaam van christus nie. omdat dit een brood is. is ons almal een liggaam. want ons het almal deel aan die een brood”*.
 <verwysings uitgehaal>
 sondag 29
 78	verander die brood en wyn dan in die werklike liggaam en bloed van christus.
-* nee. maar soos die water by die doop nie in die bloed van christus verander of die afwassing van sonde self is nie. maar slegs ’n goddelike teken en versekering daarvan*. so verander die brood by die nagmaal nie in die liggaam van christus self nie*. ooreenkomstig die aard en gebruik van die sakramente word die brood egter die liggaam van christus genoem*.
+nee*. maar soos die water by die doop nie in die bloed van christus verander of die afwassing van sonde self is nie. maar slegs ’n goddelike teken en versekering daarvan*. so verander die brood by die nagmaal nie in die liggaam van christus self nie*. ooreenkomstig die aard en gebruik van die sakramente word die brood egter die liggaam van christus genoem*.
 <verwysings uitgehaal>
 79	waarom noem christus dan die brood sy liggaam en die beker sy bloed of die nuwe testament in sy bloed en waarom noem paulus dit die gemeenskap met die liggaam en bloed van christus.
 daar is gewigtige redes waarom christus so sê. hy wil ons daarmee leer dat. soos brood en wyn die tydelike lewe onderhou. so voed sy gekruisigde liggaam en gestorte bloed. as die egte voedsel en drank. ons siele vir die ewige lewe*. verder wil hy ons deur hierdie sigbare tekens en waarborge veral verseker dat ons net so seker deur die werking van die heilige gees aan sy ware liggaam en bloed deel kry as wat ons hierdie heilige tekens met die liggaamlike mond tot sy gedagtenis ontvang*. hy verseker ons ook dat al sy lyding en gehoorsaamheid so seker ons eie is asof ons self in eie persoon alles gely en die skuld vir ons sondes aan god ten volle betaal het.
@@ -10892,12 +10922,13 @@ die nagmaal betuig aan ons dat ons volkome vergewing van al ons sondes het. ter 
 81	wie moet na die nagmaalstafel van die here kom.
 hulle wat vanweë hulle sondes ’n afkeer van hulleself het. maar tog vertrou dat dit hulle om christus wil vergewe is en dat die swakhede wat nog oor is. met sy lyding en sterwe bedek is. en die wat ook begeer om hulle geloof hoe langer hoe meer te versterk en hulle lewe te verbeter. maar die huigelaars en die wat hulle nie van harte tot god bekeer nie. eet en drink ’n veroordeling oor hulleself*.
 <verwysings uitgehaal>
-82	moet die mense ook aan die nagmaal toegelaat word wat met hulle belydenis en lewe wys dat hulle ongelowig en goddeloos is.
+82	moet dié mense ook aan die nagmaal toegelaat word wat met hulle belydenis en lewe wys dat hulle ongelowig en goddeloos is.
 nee. want so word die verbond van god ontheilig en sy toorn oor die hele gemeente opgewek*. daarom is die christelike kerk volgens die bevel van christus en sy apostels verplig om sulke mense met die sleutels van die koninkryk van die hemel uit te sluit. totdat hulle verbetering van hulle lewe bewys.
 <verwysings uitgehaal>
 sondag 31
 83	wat is die sleutels van die koninkryk van die hemel.
-die verkondiging van die heilige evangelie en die christelike tug. met albei hierdie handelinge word die koninkryk van die hemel vir die gelowiges oopgesluit en vir die ongelowiges toegesluit.
+die verkondiging van die heilige evangelie en die christelike tug. met albei hierdie handelinge word die koninkryk van die hemel vir die gelowiges oopgesluit en vir die ongelowiges toegesluit*.
+<verwysings uitgehaal>
 84	hoe word die koninkryk van die hemel deur die verkondiging van die heilige evangelie oop- en toegesluit.
 volgens die bevel van christus word aan die gelowiges gesamentlik en afsonderlik verkondig en openlik betuig dat al hulle sondes hulle waarlik deur god ter wille van die verdienste van christus vergewe is so dikwels as wat hulle die belofte van die evangelie met ’n ware geloof aanneem. daarenteen word aan al die ongelowiges en huigelaars verkondig dat die toorn van god en die ewige verdoemenis op hulle rus solank hulle hulle nie bekeer nie*. volgens hierdie getuienis van die evangelie sal god sowel in hierdie as in die toekomstige lewe oordeel.
 <verwysings uitgehaal>
@@ -10906,7 +10937,7 @@ volgens die bevel van christus word die wat die naam christen dra en tog ’n on
 <verwysings uitgehaal>
 sondag 32
 86	waarom moet ons nog goeie werke doen. terwyl ons tog sonder enige verdienste van ons kant alleen uit genade deur christus uit ons ellende verlos is.
-omdat christus ons. nadat hy ons met sy bloed gekoop het. ook deur sy heilige gees tot sy ewebeeld vernuwe sodat ons met ons hele lewe bewys* dat ons god dankbaar is vir sy weldade en hy deur ons geprys* word. verder. sodat ons vir onsself uit die vrugte van ons geloof sekerheid kan kry.*. en ons deur ons godvresende lewe ons naaste ook vir christus kan wen*.
+omdat christus ons. nadat hy ons met sy bloed gekoop het. ook deur sy heilige gees tot sy ewebeeld vernuwe sodat ons met ons hele lewe bewys dat ons god dankbaar is vir sy weldade* en hy deur ons geprys word*. verder. sodat ons vir onsself uit die vrugte van ons geloof sekerheid kan kry* en ons deur ons godvresende lewe ons naaste ook vir christus kan wen*.
 <verwysings uitgehaal>
 87	kan die mense dan nie salig word wat in hulle goddelose. ondankbare lewe volhard en hulle nie tot god bekeer nie.
 nee. glad nie. want die skrif sê dat geen onkuise. afgodedienaar. egbreker. dief. gierigaard. dronkaard. lasteraar. rower en sulkes die koninkryk van god sal beërwe nie*.
@@ -10926,17 +10957,8 @@ slegs die wat uit ’n ware geloof*. volgens die wet van god*. tot sy eer gedoen
 <verwysings uitgehaal>
 sondag 34
 92	hoe lui die wet van die here.
-god het al hierdie woorde gespreek (eks 20.1-17. deut 5.6-21). ek is die here jou god wat jou uit egipteland. uit die slawehuis uitgelei het.
-(1) jy mag geen ander gode voor my aangesig hê nie.
-(2) jy mag vir jou geen gesnede beeld of enige gelykenis maak van wat bo in die hemel is. of van wat onder die aarde is of van wat in die water onder die aarde is nie. jy mag jou voor hulle nie neerbuig en nie dien nie. want ek. die here jou god. is ’n jaloerse god. wat die misdaad van die vaders besoek aan die kinders. aan die derde en die vierde geslag van die wat my haat. en ek bewys barmhartigheid aan duisende van die wat my liefhet en my gebooie onderhou.
-(3) jy mag die naam van die here jou god nie ydellik gebruik nie. want die here sal die een wat sy naam ydellik gebruik. nie ongestraf laat bly nie.
-(4) gedenk die sabbatdag. dat jy dit heilig. ses dae moet jy arbei en al jou werk doen. maar die sewende dag is die sabbat van die here. dan mag jy geen werk doen nie - jy of jou seun of jou dogter. of jou dienskneg of jou diensmaagd. of jou vee of jou vreemdeling wat in jou poorte is nie. want in ses dae het die here die hemel en die aarde gemaak. die see en alles wat daarin is en op die sewende dag het hy gerus. daarom het hy die sabbatdag geseën en dit geheilig.
-(5) eer jou vader en jou moeder. dat jou dae verleng mag word in die land wat die here jou god aan jou gee.
-(6) jy mag nie doodslaan nie.
-(7) jy mag nie egbreek nie.
-(8) jy mag nie steel nie.
-(9) jy mag geen vals getuienis teen jou naaste spreek nie.
-(10) jy mag nie jou naaste se huis begeer nie. jy mag nie jou naaste se vrou begeer nie. of sy dienskneg. of sy diensmaagd. of sy os of sy esel of iets wat van jou naaste is nie.
+god het al hierdie gebooie aangekondig. ek is die here jou god wat jou uit egipteland. uit die slawehuis. uitgelei het.
+<verwysings uitgehaal>
 93	hoe word hierdie gebooie ingedeel.
 in twee tafels*. waarvan die eerste in vier gebooie ons leer hoe ons ons teenoor god moet gedra. die tweede in ses gebooie. wat ons aan ons naaste verskuldig is*.
 <verwysings uitgehaal>
@@ -10972,7 +10994,7 @@ nee. want om ’n regte eed te sweer. beteken dat ek god aanroep as die enigste 
 <verwysings uitgehaal>
 sondag 38
 103	wat gebied god in die vierde gebod.
-god wil ten eerste dat die woordbediening en die godsdiensonderrig in stand gehou word*. ook moet ek veral op die rusdag ywerig met die gemeente van god saamkom* om die woord van god te hoor*. die sakramente te gebruik*. die here openlik aan te roep* en die christelike liefdegawes te gee*. ten tweede moet ek elke dag van my lewe van my bose werke rus. en die here deur sy gees in my laat werk. so begin ek die ewige sabbat reeds in hierdie lewe*.
+god wil ten eerste dat die woordbediening en die skole in stand gehou word*. ook moet ek veral op die rusdag ywerig met die gemeente van god saamkom* om die woord van god te hoor*. die sakramente te gebruik*. die here openlik aan te roep* en die christelike liefdegawes te gee*. ten tweede moet ek elke dag van my lewe van my bose werke rus. en die here deur sy gees in my laat werk. so begin ek die ewige sabbat reeds in hierdie lewe*.
 <verwysings uitgehaal>
 sondag 39
 104	wat eis god in die vyfde gebod.
@@ -10983,7 +11005,7 @@ sondag 40
 ek mag nie self en ook nie deur iemand anders my naaste onteer. haat. beledig of doodmaak nie. ek mag dit nie met my gedagtes. woorde of gebare doen nie en nog minder met die daad*. ek moet alle wraaksug laat vaar*. ek mag ook myself nie kwaad aandoen of moedswillig in gevaar begewe nie*. daarom dra die owerheid die swaard om doodslag te weer*.
 <verwysings uitgehaal>
 106	praat hierdie gebod net van doodmaak.
-deur doodmaak te verbied. leer god ons dat hy die wortel daarvan*. soos afguns. haat*. woede* en wraaklus verafsku. dit alles is vir hom heimlike moord*.
+deur doodmaak te verbied. leer god ons dat hy die wortel daarvan soos afguns*. haat*. woede* en wraaklus verafsku. dit alles is vir hom heimlike moord*.
 <verwysings uitgehaal>
 107	het ons die gebod gehoorsaam as ons maar net nie ons naaste doodmaak. soos hierbo gesê is nie.
 nee. terwyl god afguns. haat en woede verbied. gebied hy dat ons ons naaste moet liefhê soos onsself*. ons moet teenoor hom geduldig. vredeliewend. sagmoedig. barmhartig en vriendelik wees*. alles wat hom kan benadeel. sover moontlik probeer voorkom* en selfs aan ons vyande goed doen*.
@@ -10996,8 +11018,8 @@ alle onkuisheid is deur god vervloek*. en daarom moet ons dit hartgrondig haat*.
 omdat beide. ons liggaam en siel. ’n tempel van die heilige gees is. wil god dat ons altwee rein en heilig bewaar. daarom verbied hy alle onkuise dade. gebare. woorde*. gedagtes. luste* en alles wat ’n mens daartoe kan verlei*.
 <verwysings uitgehaal>
 sondag 42
-110	wat verbied god in die agtste gebod.
-god verbied nie slegs dié diefstal* en roof* wat die owerheid straf nie. maar hy beskou ook as diefstal al die skelmstreke en liste waardeur ons probeer om ons naaste se besittings in die hande te kry*. dit kan gebeur met geweld of ’n skyn van reg. soos deur die vervalsing van gewigte. lengtemaat. inhoudsmaat. goedere.*. geld. deur woeker* of enige middel wat god verbied. hy verbied ook alle gierigheid* en alle misbruik en verkwisting van sy gawes*.
+110	wat verbied god in die agste gebod.
+god verbied nie slegs die diefstal* en roof* wat die owerheid straf nie. maar hy beskou ook as diefstal al die skelmstreke en liste waardeur ons probeer om ons naaste se besittings in die hande te kry*. dit kan gebeur met geweld of ’n skyn van reg. soos deur die vervalsing van gewigte. lengtemaat. inhoudsmaat. goedere*. geld. deur woeker* of enige middel wat god verbied. hy verbied ook alle gierigheid* en alle misbruik en verkwisting van sy gawes*.
 <verwysings uitgehaal>
 111	maar wat gebied god jou in hierdie gebod.
 ek moet die belange van my naaste. waar ek kan en mag. bevorder en hom so behandel soos ek wil hê dat hy my moet behandel*. daarby moet ek ook my werk getrou doen. sodat ek die behoeftiges in hulle nood kan help*.
@@ -11027,8 +11049,7 @@ ten eerste moet ons alleen die enige ware god wat hom in sy woord geopenbaar het
 alle geestelike en liggaamlike behoeftes wat christus saamgevat het. in die gebed wat hy self aan ons geleer het*.
 <verwysings uitgehaal>
 119	hoe lui hierdie gebed.
-ons vader wat in die hemel is. laat u naam geheilig word. laat u koninkryk kom. laat u wil geskied. soos in die hemel net so ook op die aarde. gee ons vandag ons daaglikse brood. en vergeef ons ons skulde. soos ons ook ons skuldenaars vergewe. en lei ons nie in versoeking nie. maar verlos ons van die bose. want aan u behoort die koninkryk en die krag en die heerlikheid tot in ewigheid. amen.
-<verwysings uitgehaal>
+onse vader wat in die hemele is. laat u naam geheilig word. laat u koninkryk kom. laat u wil geskied. soos in die hemel net so ook op die aarde. gee ons vandag ons daaglikse brood. en vergeef ons ons skulde. soos ons ook ons skuldenaars vergewe. en lei ons nie in versoeking nie. maar verlos ons van die bose. want aan u behoort die koninkryk en die krag en die heerlikheid tot in ewigheid. amen.
 sondag 46
 120	waarom het christus ons beveel om god as ons vader aan te spreek.
 sodat hy heel aan die begin van ons gebed in ons die kinderlike vrees en vertroue op god sal wek. dit moet die grond van ons gebed wees. naamlik dat god deur christus ons vader geword het. en dat hy ons veel minder dit wat ons van hom in die geloof bid. sal weier as wat ons vaders aardse dinge ons ontsê*.
@@ -11058,7 +11079,7 @@ vergeef ons ons skulde. soos ons ook ons skuldenaars vergewe. dit is. reken ons.
 <verwysings uitgehaal>
 sondag 52
 127	wat is die sesde bede.
-en lei ons nie in versoeking nie. maar verlos ons van die bose. dit is. ons is in onsself so swak dat ons nie een oomblik staande kan bly nie*. daarby hou ons doodsvyande. die duiwel*. die wêreld* en ons eie sondige natuur*. nie op om ons aan te val nie. wil u ons tog deur die krag van u heilige gees staande hou en versterk. sodat ons teen hulle sterk teenstand kan bied en in hierdie geestelike stryd nie beswyk* nie. totdat ons eindelik die oorwinning volkome behaal*.
+en lei ons nie in versoeking nie. maar verlos ons van die bose. dit is. ons is in onsself so swak dat ons nie een oomblik staande kan bly nie*. daarby hou ons doodsvyande. die duiwel*. die wêreld* en ons eie sondige natuur*. nie op om ons aan te val nie. wil u ons tog deur die krag van u heilige gees staande hou en versterk. sodat ons teen hulle sterk teenstand kan bied en in hierdie geestelik stryd nie beswyk* nie. totdat ons eindelik die oorwinning volkome behaal*.
 <verwysings uitgehaal>
 128	hoe sluit jy jou gebed af.
 want aan u behoort die koninkryk en die krag en die heerlikheid tot in ewigheid. dit is. ons bid dit alles van u omdat u as ons koning. wat mag oor alles het. ons alle goeie dinge wil en kan gee* sodat daardeur nie ons nie. maar u heilige naam ewig geprys sal word*.
