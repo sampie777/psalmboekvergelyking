@@ -4,6 +4,10 @@ L. se files is in [src/louise](src%2Flouise). Die oorspronklike file is [Psalmbo
 
 S. se files is in [src/samuel](src%2Fsamuel). Die data wat uit die database uit kom is in drie files opgeslaan. Die data word gebruik vir die vergelyking. As mens die script [src/convertJScheduleDateToTxt.ts](src%2FconvertJScheduleDateToTxt.ts) hardloop (`bun run src/convertJScheduleDateToTxt.ts`), word al daai data na 'n txt file gexporteerd ([samuel/jSchedule.txt](src%2Fsamuel%2FjSchedule.txt)) in dieselfde format as wat L. se files is. Dit kan dan gebruik word vir handmatige vergelyking.
 
+## Comparison
+
+Die file [COMPARISON.txt](COMPARISON.txt) word gebruik om GIT se comparison feature te gebruik. Die eerste commit vir die file is L. se data. Die tweede commit sal S. se data wees. Die git diff sal dan die verskille wys.
+
 ## Scripts
 
 [bun](https://bun.sh/) en Typescript word gebruik vir die scripts. `bun install` om die project op te stel en dan `bun run <file>` om die script te run. 
