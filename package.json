@@ -1,0 +1,9 @@
+{
+  "name": "psalmboekvergelyking",
+  "version": "0.0.0",
+  "private": true,
+  "devDependencies": {
+    "@types/node": "^12.0.0"
+  },
+  "dependencies": {}
+}

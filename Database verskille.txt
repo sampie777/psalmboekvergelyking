@@ -1,0 +1,20 @@
+Hi, baie dankie vir die dokument en die kans om dit te vergelyk.
+Ek sal in die epos skryf wat ek in tannie se database gekry het wat nie met my database ooreenkom nie.
+
+- Psalm 132 se titel is nie met hoofletters nie, soos die ander wel is.
+- My database het 'n 1e en 2e beryming vir psalm 110, maar ons weet klaar dat dit so is en ons weet nie vanwaar daai tweede beryming kom nie.
+- Psalm 117 mis 'n versnommer by die eerste (en enigste) vers.
+- Psalm 36: 3, die tweede reel moet opgedeel word in twee reels ("van alle lig, die eewge son" en "wat afstraal in ons oe.")
+- Psalm 38: 4, die eerste reel moet opgedeel word in twee reels ("Want my hoof is gans bedolwe" en "in die golwe")
+- Psalm 38: 16, die tweede reel moet opgedeel word in twee reels ("en godd’loosheid," en "hul word groot en sterk in mag;")
+- Psalm 46: 4, die sesde reel moet opgedeel word in twee reels ("aanskou die HEER se werk;" en "hoe Hy die węreld rig;")
+- Psalm 47 het '/' wat nie in die Psalmboek daar is nie.
+- Psalm 99 het '/' wat nie in die Psalmboek daar is nie.
+- Psalm 5: 8, die tweede reel: binneste -> binnenste
+
+- Skrifberyming 51 en verder se titels is nie met hoofletters nie, soos die ander wel is.
+- Skrifberyming 69 is verkeerd gespel: Skifberyming ipv Skrifberyming.
+- Skrifberyming 75: 4, eerste reel eindig op 'n onnodige ' $'.
+- Skrifberyming 47, 48, 59, 68, 71 kort 'n versnommer by die eerste (en enigste) vers.
+- Skrifberyming 69: 1 se versnommer het 'n spasie voor (" 1" ipv "1").
+

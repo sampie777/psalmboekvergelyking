@@ -1,0 +1,17 @@
+{
+  "ts-node": {
+    "compilerOptions": {
+      "module": "CommonJS"
+    }
+  },
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "esnext",
+    "moduleResolution": "Node",
+    "esModuleInterop": true
+  },
+  "include": [
+    // below entries are just examples
+    "./**/*",
+  ]
+}
